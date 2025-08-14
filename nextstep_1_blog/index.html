@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NextStep-1: A New Leap in Autoregressive Image Generation</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f5f1eb;
+      --surface: #ebe6df;
+      --border: #d4cfc4;
+      --border-light: rgba(212, 207, 196, 0.5);
+      --text: #3d3932;
+      --text-muted: #6b6560;
+      --accent: #7a6f5c;
+      --accent-soft: rgba(122, 111, 92, 0.12);
+      --code-bg: #e8e3db;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+      min-height: 100vh;
+      font-size: 16px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .topbar-brand {
+      font-weight: 600;
+      font-size: 1rem;
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .topbar-brand:hover {
+      color: var(--text);
+    }
+
+    .container {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    header {
+      margin-bottom: 2rem;
+    }
+
+    header .meta {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    header h1 {
+      font-size: 1.875rem;
+      font-weight: 700;
+      margin: 0 0 1rem;
+      letter-spacing: -0.025em;
+      line-height: 1.25;
+    }
+
+    header .tagline {
+      font-size: 1rem;
+      color: var(--text-muted);
+      margin: 0 0 0.5rem;
+    }
+
+    header .open-source {
+      font-size: 0.95rem;
+      margin: 0;
+      padding: 0.75rem 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    header .open-source a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    header .open-source a:hover {
+      text-decoration: underline;
+    }
+
+    header .open-source .sep {
+      margin: 0 0.5rem;
+      color: var(--border);
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin: 2.75rem 0 1rem;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+
+    h3 {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin: 1.5rem 0 0.5rem;
+      color: var(--text);
+    }
+
+    p {
+      margin: 0 0 1rem;
+      color: var(--text);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    strong, b {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .figure {
+      margin: 1.75rem 0;
+      text-align: center;
+    }
+
+    .figure img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.25rem 0;
+      font-size: 0.8125rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(61, 57, 50, 0.08);
+    }
+
+    th, td {
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    table thead tr:last-child th {
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    table thead tr:first-child th {
+      border-top: none;
+    }
+
+    table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    th {
+      font-weight: 600;
+      background: var(--surface);
+      color: var(--text);
+    }
+
+    tr:hover td {
+      background: var(--accent-soft);
+    }
+
+    ul {
+      margin: 0 0 1rem;
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    blockquote {
+      margin: 0.5rem 0 1rem;
+      padding-left: 1rem;
+      border-left: 3px solid var(--border);
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    .ref-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .ref-list li {
+      margin-bottom: 0.75rem;
+      padding-left: 0;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    .ref-list .num {
+      color: var(--text);
+      font-weight: 500;
+      margin-right: 0.25rem;
+    }
+
+    .section-ref {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .section-ref h2 {
+      margin-top: 0;
+    }
+
+    .bibtex-block {
+      margin: 1rem 0;
+      padding: 1rem 1.25rem;
+      padding-top: 2.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow-x: auto;
+      position: relative;
+    }
+
+    .bibtex-block pre {
+      margin: 0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8125rem;
+      line-height: 1.5;
+      color: var(--text);
+      white-space: pre;
+    }
+
+    .bibtex-copy-btn {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      padding: 0.35rem 0.65rem;
+      font-size: 0.8rem;
+      font-family: inherit;
+      color: var(--text-muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .bibtex-copy-btn:hover {
+      color: var(--text);
+      border-color: var(--text-muted);
+    }
+
+    .bibtex-copy-btn.copied {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    footer a {
+      color: var(--text-muted);
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    footer .sep {
+      margin: 0 0.5rem;
+      color: var(--border);
+    }
+  </style>
+</head>
+<body>
+  <nav class="topbar">
+    <a href="https://stepfun.ai" class="topbar-brand" target="_blank" rel="noopener">StepFun</a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <p class="meta">Aug 15th, 2025</p>
+      <h1>Meet NextStep-1: A New Leap in Autoregressive Image Generation</h1>
+      <p class="tagline">Check out our latest, most versatile and powerful autoregressive image generation model that rivals the state-of-the-art diffusion-based systems.</p>
+      <p class="open-source">Open Source: <a href="https://github.com/stepfun-ai/NextStep-1" target="_blank" rel="noopener">Github</a><span class="sep">|</span><a href="https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc" target="_blank" rel="noopener">Hugging Face</a></p>
+    </header>
+
+    <p>
+      The world of AI-powered image generation is moving at lightning speed. Today we're thrilled to introduce <strong>NextStep-1</strong>, a groundbreaking model from StepFun that pushes the boundaries of what's possible in creating and editing images from text. NextStep-1 stands out by forging a new path for autoregressive (AR) models, achieving state-of-the-art results that rival even the most powerful diffusion-based systems.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_1.gif" alt="Text-to-image generation demo" />
+    </figure>
+
+    <p>
+      NextStep-1 delivers high-fidelity <strong>text-to-image generation</strong> while also offering powerful image editing capabilities. It supports a wide range of editing operations — such as object addition/removal, background modification, action changes, and style transfer — and can understand everyday natural language instructions, enabling flexible and free-form image editing.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_2.gif" alt="Image editing demo" />
+    </figure>
+
+    <h2>A Fresh Approach to Image Generation</h2>
+    <p>
+      For a long time, autoregressive models have achieved remarkable success in language tasks [1–3], but struggle when it comes to image generation. Previous models [4–10] had to either bolt on heavy external diffusion modules, or convert images into discrete (and often lossy) tokens via vector quantization (VQ) [11–13].
+    </p>
+    <p>
+      NextStep-1 charts a new course. This 14B-parameter purely-autoregressive model achieves state-of-the-art image generation quality with an extremely lightweight flow-matching head, and works directly with continuous image tokens, preserving the full richness of visual data instead of compressing it into a limited set of discrete visual words.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_3_arch.png" alt="NextStep-1 model architecture" />
+    </figure>
+
+    <p>
+      Under the hood, NextStep-1 employs a specially tuned autoencoder to tokenize images into continuous, patchwise latent tokens and sequentialize them alongside text tokens. A causal Transformer backbone processes this sequence uniformly, while a 157M-parameter flow-matching [14] head directly predicts the next continuous image token at visual positions. This unified next-token paradigm is straightforward, scalable, and sufficient for delivering high-fidelity, highly detailed images.
+    </p>
+
+    <h2>Benchmark Performance</h2>
+    <p>
+      NextStep-1 demonstrates outstanding performance across challenging benchmarks, covering a broad spectrum of capabilities.
+    </p>
+
+    <h3>Prompt Following</h3>
+    <p>
+      On <strong>GenEval [15]</strong>, NextStep-1 achieves a competitive score of <strong>0.63</strong> (w/o self-CoT) and <strong>0.73</strong> (w/ self-CoT). On <strong>GenAI-Bench [16]</strong>, a benchmark that tests compositional abilities, NextStep-1 scores <strong>0.67</strong> on advanced prompts and <strong>0.88</strong> on basic ones. On <strong>DPG-Bench [17]</strong>, which uses long, detailed prompts, NextStep-1 achieves a score of <strong>85.28</strong>, confirming its reliability in handling complex user requests.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Method</th>
+          <th>GenEval↑</th>
+          <th>GenAI-Bench↑ (Basic)</th>
+          <th>GenAI-Bench↑ (Advanced)</th>
+          <th>DPG-Bench↑</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Proprietary</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>DALL·E 3 (Betker et al., 2023)</td><td>0.67</td><td>0.90</td><td>0.70</td><td>83.50</td></tr>
+        <tr><td>Seedream 3.0 (Gao et al., 2025)</td><td>0.84</td><td>–</td><td>–</td><td>88.27</td></tr>
+        <tr><td>GPT4o (OpenAI, 2025b)</td><td>0.84</td><td>–</td><td>–</td><td>85.15</td></tr>
+        <tr><td><strong>Diffusion</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>Stable Diffusion 1.5 (Rombach et al., 2022)</td><td>0.43</td><td>–</td><td>–</td><td>–</td></tr>
+        <tr><td>Stable Diffusion XL (Podell et al., 2024)</td><td>0.55</td><td>0.83</td><td>0.63</td><td>74.65</td></tr>
+        <tr><td>Stable Diffusion 3 Medium (Esser et al., 2024)</td><td>0.74</td><td>0.88</td><td>0.65</td><td>84.08</td></tr>
+        <tr><td>Stable Diffusion 3.5 Large (Esser et al., 2024)</td><td>0.71</td><td>0.88</td><td>0.66</td><td>83.38</td></tr>
+        <tr><td>PixArt-Alpha (Chen et al., 2024)</td><td>0.48</td><td>–</td><td>–</td><td>71.11</td></tr>
+        <tr><td>Flux-1-dev (Labs, 2024)</td><td>0.66</td><td>0.86</td><td>0.65</td><td>83.79</td></tr>
+        <tr><td>Transfusion (Zhou et al., 2025)</td><td>0.63</td><td>–</td><td>–</td><td>–</td></tr>
+        <tr><td>CogView4 (Z.ai, 2025)</td><td>0.73</td><td>–</td><td>–</td><td>85.13</td></tr>
+        <tr><td>Lumina-Image 2.0 (Qin et al., 2025)</td><td>0.73</td><td>–</td><td>–</td><td>87.20</td></tr>
+        <tr><td>HiDream-I1-Full (Cai et al., 2025)</td><td>0.83</td><td><strong>0.91</strong></td><td>0.66</td><td>85.89</td></tr>
+        <tr><td>Mogao (Liao et al., 2025)</td><td>0.89</td><td>–</td><td>0.68</td><td>84.33</td></tr>
+        <tr><td>BAGEL (Deng et al., 2025)</td><td>0.82 / 0.88†</td><td>0.89 / 0.86†</td><td>0.69 / 0.75†</td><td>85.07</td></tr>
+        <tr><td>Show-o2-7B (Xie et al., 2025b)</td><td>0.76</td><td>–</td><td>–</td><td>86.14</td></tr>
+        <tr><td>OmniGen2 (Wu et al., 2025b)</td><td>0.80 / 0.86*</td><td>–</td><td>–</td><td>83.57</td></tr>
+        <tr><td>Qwen-Image (Wu et al., 2025a)</td><td>0.87</td><td>–</td><td>–</td><td><strong>88.32</strong></td></tr>
+        <tr><td><strong>AutoRegressive</strong></td><td></td><td></td><td></td><td></td></tr>
+        <tr><td>SEED-X (Ge et al., 2024)</td><td>0.49</td><td>0.86</td><td>0.70</td><td>–</td></tr>
+        <tr><td>Show-o (Xie et al., 2024)</td><td>0.53</td><td>0.70</td><td>0.60</td><td>–</td></tr>
+        <tr><td>VILA-U (Wu et al., 2024)</td><td>–</td><td>0.76</td><td>0.64</td><td>–</td></tr>
+        <tr><td>Emu3 (Wang et al., 2024b)</td><td>0.54 / 0.65*</td><td>0.78</td><td>0.60</td><td>80.60</td></tr>
+        <tr><td>SimpleAR (Wang et al., 2025c)</td><td>0.63</td><td>–</td><td>–</td><td>81.97</td></tr>
+        <tr><td>Fluid (Fan et al., 2024)</td><td>0.69</td><td>–</td><td>–</td><td>–</td></tr>
+        <tr><td>Infinity (Han et al., 2025)</td><td>0.79</td><td>–</td><td>–</td><td>86.60</td></tr>
+        <tr><td>Janus-Pro-7B (Chen et al., 2025b)</td><td>0.80</td><td>0.86</td><td>0.66</td><td>84.19</td></tr>
+        <tr><td>Token-Shuffle (Ma et al., 2025b)</td><td>0.62</td><td>0.78</td><td>0.67</td><td>–</td></tr>
+        <tr><td><strong>NextStep-1</strong></td><td><strong>0.63 / 0.73†</strong></td><td><strong>0.88 / 0.90†</strong></td><td><strong>0.67 / 0.74†</strong></td><td><strong>85.28</strong></td></tr>
+      </tbody>
+    </table>
+
+    <blockquote>* results are with prompt rewrite, † results are with self-CoT.</blockquote>
+
+    <h3>World Knowledge</h3>
+    <p>
+      In the <strong>WISE [18]</strong> benchmark, which evaluates a model's ability to integrate real-world knowledge into images, NextStep-1 achieves an overall score of <strong>0.54</strong>, outperforming most diffusion models and all other autoregressive models.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Model</th>
+          <th>Cultural</th>
+          <th>Time</th>
+          <th>Space</th>
+          <th>Biology</th>
+          <th>Physics</th>
+          <th>Chemistry</th>
+          <th>Overall↑</th>
+          <th>Overall (Rewrite)↑</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Proprietary</strong></td><td colspan="8"></td></tr>
+        <tr><td>GPT-4o (OpenAI, 2025b)</td><td>0.81</td><td>0.71</td><td>0.89</td><td>0.83</td><td>0.79</td><td>0.74</td><td>0.80</td><td>–</td></tr>
+        <tr><td><strong>Diffusion</strong></td><td colspan="8"></td></tr>
+        <tr><td>Stable Diffusion 1.5 (Rombach et al., 2022)</td><td>0.34</td><td>0.35</td><td>0.32</td><td>0.28</td><td>0.29</td><td>0.21</td><td>0.32</td><td>0.50</td></tr>
+        <tr><td>Stable Diffusion XL (Podell et al., 2024)</td><td>0.43</td><td>0.48</td><td>0.47</td><td>0.44</td><td>0.45</td><td>0.27</td><td>0.43</td><td>0.65</td></tr>
+        <tr><td>Stable Diffusion 3.5 Large (Stability-AI, 2024)</td><td>0.44</td><td>0.50</td><td>0.58</td><td>0.44</td><td>0.52</td><td>0.31</td><td>0.46</td><td>0.72</td></tr>
+        <tr><td>PixArt-Alpha (Chen et al., 2024)</td><td>0.45</td><td>0.50</td><td>0.48</td><td>0.49</td><td>0.56</td><td>0.34</td><td>0.47</td><td>0.63</td></tr>
+        <tr><td>Playground v2.5 (Li et al., 2024b)</td><td>0.49</td><td>0.58</td><td>0.55</td><td>0.43</td><td>0.48</td><td>0.33</td><td>0.49</td><td>0.71</td></tr>
+        <tr><td>Flux.1-dev (Labs, 2024)</td><td>0.48</td><td>0.58</td><td>0.62</td><td>0.42</td><td>0.51</td><td>0.35</td><td>0.50</td><td>0.73</td></tr>
+        <tr><td>MetaQuery-XL (Pan et al., 2025)</td><td>0.56</td><td>0.55</td><td>0.62</td><td>0.49</td><td>0.63</td><td>0.41</td><td>0.55</td><td>–</td></tr>
+        <tr><td>BAGEL (Deng et al., 2025)</td><td>0.44 / 0.76†</td><td>0.55 / 0.69†</td><td>0.68 / 0.75†</td><td>0.44 / 0.65†</td><td>0.60 / 0.75†</td><td>0.39 / 0.58†</td><td>0.52 / 0.70†</td><td>0.71 / 0.77†</td></tr>
+        <tr><td>Qwen-Image (Wu et al., 2025a)</td><td>0.62</td><td>0.63</td><td>0.77</td><td>0.57</td><td>0.75</td><td>0.40</td><td>0.62</td><td>–</td></tr>
+        <tr><td><strong>AutoRegressive</strong></td><td colspan="8"></td></tr>
+        <tr><td>Show-o-512 (Xie et al., 2024)</td><td>0.28</td><td>0.40</td><td>0.48</td><td>0.30</td><td>0.46</td><td>0.30</td><td>–</td><td>0.64</td></tr>
+        <tr><td>VILA-U (Wu et al., 2024)</td><td>0.26</td><td>0.33</td><td>0.37</td><td>0.35</td><td>0.39</td><td>0.23</td><td>–</td><td>–</td></tr>
+        <tr><td>Emu3 (Wang et al., 2024b)</td><td>0.34</td><td>0.45</td><td>0.48</td><td>0.41</td><td>0.45</td><td>0.27</td><td>–</td><td>0.63</td></tr>
+        <tr><td>Janus-Pro-7B (Chen et al., 2025b)</td><td>0.30</td><td>0.37</td><td>0.49</td><td>0.36</td><td>0.42</td><td>0.26</td><td>–</td><td>0.71</td></tr>
+        <tr><td><strong>NextStep-1</strong></td><td><strong>0.51 / 0.70†</strong></td><td><strong>0.54 / 0.65†</strong></td><td><strong>0.61 / 0.69†</strong></td><td><strong>0.52 / 0.63†</strong></td><td><strong>0.63 / 0.73†</strong></td><td><strong>0.48 / 0.52†</strong></td><td><strong>0.54 / 0.67†</strong></td><td><strong>0.79 / 0.83†</strong></td></tr>
+      </tbody>
+    </table>
+
+    <blockquote>* results are with prompt rewrite, † results are with self-CoT.</blockquote>
+
+    <h3>Image Editing</h3>
+    <p>
+      Our instruction-based editing model, <strong>NextStep-1-Edit</strong>, also shows competitive performance, scoring <strong>6.58</strong> on <strong>GEdit-Bench [19]</strong> and <strong>3.71</strong> on <strong>ImgEdit-Bench [20]</strong>.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th rowspan="2">Model</th>
+          <th colspan="3">GEdit-Bench-EN (Full Set)↑</th>
+          <th colspan="3">GEdit-Bench-CN (Full Set)↑</th>
+          <th rowspan="2">ImgEdit-Bench↑</th>
+        </tr>
+        <tr>
+          <th>G_SC</th>
+          <th>G_PQ</th>
+          <th>G_O</th>
+          <th>G_SC</th>
+          <th>G_PQ</th>
+          <th>G_O</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Proprietary</strong></td><td colspan="7"></td></tr>
+        <tr><td>Gemini 2.0 (Gemini2, 2025)</td><td>6.87</td><td>7.44</td><td>6.51</td><td>5.26</td><td>7.60</td><td>5.14</td><td>–</td></tr>
+        <tr><td>Doubao (Shi et al., 2024)</td><td>7.22</td><td>7.89</td><td>6.98</td><td>7.17</td><td>7.79</td><td>6.84</td><td>–</td></tr>
+        <tr><td>GPT-4o (OpenAI, 2025b)</td><td><strong>7.74</strong></td><td><strong>8.13</strong></td><td><strong>7.49</strong></td><td><strong>7.52</strong></td><td><strong>8.02</strong></td><td><strong>7.30</strong></td><td><strong>4.20</strong></td></tr>
+        <tr><td>Flux.1-Kontext-pro (Labs et al., 2025)</td><td>7.02</td><td>7.60</td><td>6.56</td><td>1.11</td><td>7.36</td><td>1.23</td><td>–</td></tr>
+        <tr><td><strong>Open-source</strong></td><td colspan="7"></td></tr>
+        <tr><td>Instruct-Pix2Pix (Brooks et al., 2023)</td><td>3.30</td><td>6.19</td><td>3.22</td><td>–</td><td>–</td><td>–</td><td>1.88</td></tr>
+        <tr><td>MagicBrush (Zhang et al., 2023a)</td><td>4.52</td><td>6.37</td><td>4.19</td><td>–</td><td>–</td><td>–</td><td>1.83</td></tr>
+        <tr><td>AnyEdit (Yu et al., 2024a)</td><td>3.05</td><td>5.88</td><td>2.85</td><td>–</td><td>–</td><td>–</td><td>2.45</td></tr>
+        <tr><td>OmniGen (Xiao et al., 2024)</td><td>5.88</td><td>5.87</td><td>5.01</td><td>–</td><td>–</td><td>–</td><td>2.96</td></tr>
+        <tr><td>OmniGen2 (Wu et al., 2025b)</td><td>7.16</td><td>6.77</td><td>6.41</td><td>–</td><td>–</td><td>–</td><td>3.44</td></tr>
+        <tr><td>Step1X-Edit v1.0 (Liu et al., 2025)</td><td>7.13</td><td>7.00</td><td>6.44</td><td>7.30</td><td>7.14</td><td>6.66</td><td>3.06</td></tr>
+        <tr><td>Step1X-Edit v1.1 (Liu et al., 2025)</td><td><strong>7.66</strong></td><td>7.35</td><td><strong>6.97</strong></td><td><strong>7.65</strong></td><td>7.40</td><td><strong>6.98</strong></td><td>–</td></tr>
+        <tr><td>BAGEL (Deng et al., 2025)</td><td>7.36</td><td>6.83</td><td>6.52</td><td>7.34</td><td>6.85</td><td>6.50</td><td>3.42</td></tr>
+        <tr><td>Flux.1-Kontext-dev (Labs et al., 2025)</td><td>–</td><td>–</td><td>6.26</td><td>–</td><td>–</td><td>–</td><td>3.71</td></tr>
+        <tr><td>GPT-Image-Edit (Wang et al., 2025d)</td><td>–</td><td>–</td><td>7.24</td><td>–</td><td>–</td><td>–</td><td>3.80</td></tr>
+        <tr><td><strong>NextStep-1</strong></td><td><strong>7.15</strong></td><td><strong>7.01</strong></td><td><strong>6.58</strong></td><td><strong>6.88</strong></td><td><strong>7.02</strong></td><td><strong>6.40</strong></td><td><strong>3.71</strong></td></tr>
+      </tbody>
+    </table>
+
+    <h2>Model Efficiency</h2>
+    <p>
+      We profile per-token latency on an H100 GPU (983 TFLOPS, 3.36 TB/s memory bandwidth) at batch size 1 and break down where the time goes. The main cost is the LLM's serial decoding; the flow-matching head's multi-step sampling also takes a sizable share of each token's generation time.
+    </p>
+    <p>
+      That points to two clear levers for faster inference. On the head side: shrink its size, use distillation for few-step generation [21], or adopt better few-step samplers [22-23]. On the backbone side: bring over ideas that already speed up LLMs — speculative decoding [24] and multi-token prediction [25] — and apply them to image token generation.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th rowspan="2">Sequence Length</th>
+          <th colspan="3">Last-token Latency (ms)</th>
+          <th colspan="2">Accumulated Latency (s)</th>
+        </tr>
+        <tr>
+          <th>LLM Decoder</th>
+          <th>LM Head</th>
+          <th>FM Head</th>
+          <th>Total</th>
+          <th>w/o FM Head</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>256</td><td>7.20</td><td>0.40</td><td>3.40</td><td>2.82</td><td>1.95</td></tr>
+        <tr><td>1024</td><td>7.23</td><td>0.40</td><td>3.40</td><td>11.31</td><td>7.83</td></tr>
+        <tr><td>4096</td><td>7.39</td><td>0.40</td><td>3.40</td><td>45.77</td><td>31.86</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Key Insights and Discoveries</h2>
+    <p>
+      Building a purely autoregressive model for images is no easy feat. We're not just releasing a strong foundation model — we're also sharing the key insights we gained along the way, to shed light on how autoregressive image generation really works.
+    </p>
+
+    <h3>Causal Transformer CAN be the Real Artist</h3>
+    <p>
+      Researchers have long questioned whether a causal transformer could truly handle autoregressive image generation on its own, without relying on vector quantization or offloading much of the generation process to heavyweight external diffusers. With NextStep-1, we demonstrate that with the right image tokenization and training strategies, an LLM-style transformer can be the primary creative engine.
+    </p>
+    <p>
+      We test flow-matching heads of significantly different scales — 40M, 157M, and 528M parameters — and find that image quality remains largely unaffected by the head size. This strongly suggests that the transformer backbone is doing the heavy lifting, driving the core generative modeling and high-level reasoning. In NextStep-1, the flow-matching head functions more like a lightweight sampler, converting the transformer's rich contextual predictions into the final image patches.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_4.png" alt="Flow-matching head scale ablation" />
+    </figure>
+
+    <h3>Tokenizer is the Key to Stability and Quality</h3>
+    <p>
+      When working with continuous image tokens, the tokenizer is the beating heart of stability and visual fidelity in an autoregressive pipeline. Two key insights stand out:
+    </p>
+    <ul>
+      <li><strong>Channel-wise normalization brings stability.</strong> Push the classifier-free guidance (CFG) scale high enough, and many models start showing strange artifacts — warped textures, ghost shapes, and inconsistent colors. The culprit lies in a statistical drift in the generated tokens. The fix is simple yet effective: apply channel-wise normalization inside the tokenizer. This keeps token statistics stable under high CFG, allowing NextStep-1 to produce sharp, artifact-free images even when the guidance dial is turned all the way up.</li>
+      <li><strong>More noise, more quality.</strong> Counterintuitively, adding more noise during tokenizer training — even though it increases reconstruction error — ultimately improves the quality of images produced by the autoregressive model. This operation makes the latent space far more robust and evenly distributed, giving the autoregressive model a cleaner, more learnable starting point.</li>
+    </ul>
+
+    <figure class="figure">
+      <img src="assets/fig_5.png" alt="Channel-wise normalization and token statistics" />
+    </figure>
+
+    <h2>Picturing the NextStep Towards Multimodal Generation</h2>
+    <p>
+      We believe NextStep-1 means more than just a powerful image generation model. It unlocks the potential of pure causal transformers to generate tokens with continuous nature, and charts a promising path for the next step of multi-modal generation. By releasing both the model and our technical report to the community, we aim to inspire further research, foster collaboration, and accelerate progress in this exciting frontier.
+    </p>
+
+    <section class="cite-section">
+      <h2>Citation (BibTeX)</h2>
+      <p>If you find NextStep useful for your research and applications, please consider starring the repository and citing:</p>
+      <div class="bibtex-block">
+        <button type="button" class="bibtex-copy-btn" id="bibtex-copy-btn" aria-label="Copy BibTeX">Copy</button>
+        <pre id="bibtex-content">@article{nextstepteam2025nextstep1,
+  title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
+  author={NextStep Team and Chunrui Han and Guopeng Li and Jingwei Wu and Quan Sun and Yan Cai and Yuang Peng and Zheng Ge and Deyu Zhou and Haomiao Tang and Hongyu Zhou and Kenkun Liu and Ailin Huang and Bin Wang and Changxin Miao and Deshan Sun and En Yu and Fukun Yin and Gang Yu and Hao Nie and Haoran Lv and Hanpeng Hu and Jia Wang and Jian Zhou and Jianjian Sun and Kaijun Tan and Kang An and Kangheng Lin and Liang Zhao and Mei Chen and Peng Xing and Rui Wang and Shiyu Liu and Shutao Xia and Tianhao You and Wei Ji and Xianfang Zeng and Xin Han and Xuelin Zhang and Yana Wei and Yanming Xu and Yimin Jiang and Yingming Wang and Yu Zhou and Yucheng Han and Ziyang Meng and Binxing Jiao and Daxin Jiang and Xiangyu Zhang and Yibo Zhu},
+  journal={arXiv preprint arXiv:2508.10711},
+  year={2025}
+}</pre>
+      </div>
+    </section>
+
+    <section class="section-ref">
+      <h2>References</h2>
+      <ul class="ref-list">
+        <li><span class="num">[1]</span> T. Brown, B. Mann, N. Ryder, et al. Language models are few-shot learners. NeurIPS, 2020.</li>
+        <li><span class="num">[2]</span> OpenAI. Introducing gpt-4.1 in the api. OpenAI Blog, 2025a. <a href="https://openai.com/index/gpt-4-1" target="_blank" rel="noopener">openai.com/index/gpt-4-1</a></li>
+        <li><span class="num">[3]</span> A. Radford, K. Narasimhan, T. Salimans, I. Sutskever, et al. Improving language understanding by generative pre-training. 2018.</li>
+        <li><span class="num">[4]</span> X. Chen, C. Wu, Z. Wu, et al. Janus-pro: Unified multimodal understanding and generation with data and model scaling. arXiv:2501.17811, 2025.</li>
+        <li><span class="num">[5]</span> R. Dong, C. Han, Y. Peng, et al. Dreamllm: Synergistic multimodal comprehension and creation. ICLR, 2024.</li>
+        <li><span class="num">[6]</span> Q. Sun, Q. Yu, Y. Cui, et al. Emu: Generative pretraining in multimodality. ICLR, 2023.</li>
+        <li><span class="num">[7]</span> Q. Sun, Y. Cui, X. Zhang, et al. Generative multimodal models are in-context learners. CVPR, 2024.</li>
+        <li><span class="num">[8]</span> Y. Sun, H. Bao, W. Wang, et al. Multimodal latent language modeling with next-token diffusion. arXiv:2412.08635, 2024.</li>
+        <li><span class="num">[9]</span> X. Wang, X. Zhang, Z. Luo, et al. Emu3: Next-token prediction is all you need. arXiv:2409.18869, 2024.</li>
+        <li><span class="num">[10]</span> J. Yu, Y. Xu, J. Y. Koh, et al. Scaling autoregressive models for content-rich text-to-image generation. TMLR, 2022.</li>
+        <li><span class="num">[11]</span> S. M. A. Eslami, S. Liu, A. v. d. Oord, et al. Taming transformers for high-resolution image synthesis. ICML, 2021.</li>
+        <li><span class="num">[12]</span> L. Yu, J. Lezama, N. B. Gundavarapu, et al. Language model beats diffusion–tokenizer is key to visual generation. arXiv:2310.05737, 2023.</li>
+        <li><span class="num">[13]</span> C. Zheng, T.-L. Vuong, J. Cai, D. Phung. Movq: Modulating quantized vectors for high-fidelity image generation. NeurIPS, 2022.</li>
+        <li><span class="num">[14]</span> Y. Lipman, R. T. Q. Chen, H. Ben-Hamu, M. Nickel, M. Le. Flow matching for generative modeling. arXiv:2210.02747, 2023.</li>
+        <li><span class="num">[15]</span> D. Ghosh, H. Hajishirzi, L. Schmidt. Geneval: An object-focused framework for evaluating text-to-image alignment. NeurIPS, 2023.</li>
+        <li><span class="num">[16]</span> B. Li, Z. Lin, D. Pathak, et al. Evaluating and improving compositional text-to-visual generation. CVPR, 2024.</li>
+        <li><span class="num">[17]</span> X. Hu, R. Wang, Y. Fang, B. Fu, P. Cheng, G. Yu. Ella: Equip diffusion models with llm for enhanced semantic alignment. arXiv:2403.05135, 2024.</li>
+        <li><span class="num">[18]</span> Y. Niu, M. Ning, M. Zheng, et al. Wise: A world knowledge-informed semantic evaluation for text-to-image generation. arXiv:2503.07265, 2025.</li>
+        <li><span class="num">[19]</span> S. Liu, Y. Han, P. Xing, et al. Step1x-edit: A practical framework for general image editing. arXiv:2504.17761, 2025.</li>
+        <li><span class="num">[20]</span> Y. Ye, X. He, Z. Li, et al. Imgedit: A unified image editing dataset and benchmark. arXiv:2505.20275, 2025.</li>
+        <li><span class="num">[21]</span> C. Meng, R. Rombach, R. Gao, D. Kingma, S. Ermon, J. Ho, and T. Salimans. On distillation of guided diffusion models. CVPR, 2023.</li>
+        <li><span class="num">[22]</span> C. Lu, Y. Zhou, F. Bao, J. Chen, C. Li, and J. Zhu. Dpm-solver: A fast ode solver for diffusion probabilistic model sampling in around 10 steps. NeurIPS, 2022.</li>
+        <li><span class="num">[23]</span> C. Lu, Y. Zhou, F. Bao, J. Chen, C. Li, and J. Zhu. Dpm-solver++: Fast solver for guided sampling of diffusion probabilistic models. Machine Intelligence Research, 2025.</li>
+        <li><span class="num">[24]</span> Y. Leviathan, M. Kalman, and Y. Matias. Fast inference from transformers via speculative decoding. ICML, 2023.</li>
+        <li><span class="num">[25]</span> F. Gloeckle, B. Y. Idrissi, B. Rozière, D. Lopez-Paz, and G. Synnaeve. Better & faster large language models via multi-token prediction. arXiv:2404.19737, 2024.</li>
+      </ul>
+    </section>
+
+    <footer>
+      From StepFun-AI NextStep Team. Topic: NextStep-1 and autoregressive image generation.
+    </footer>
+  </div>
+  <script>
+    (function () {
+      var btn = document.getElementById('bibtex-copy-btn');
+      var pre = document.getElementById('bibtex-content');
+      if (!btn || !pre) return;
+      btn.addEventListener('click', function () {
+        var text = pre.textContent;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(function () {
+            btn.textContent = 'Copied!';
+            btn.classList.add('copied');
+            setTimeout(function () {
+              btn.textContent = 'Copy';
+              btn.classList.remove('copied');
+            }, 2000);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text;
+          ta.setAttribute('readonly', '');
+          ta.style.position = 'absolute';
+          ta.style.left = '-9999px';
+          document.body.appendChild(ta);
+          ta.select();
+          try {
+            document.execCommand('copy');
+            btn.textContent = 'Copied!';
+            btn.classList.add('copied');
+            setTimeout(function () {
+              btn.textContent = 'Copy';
+              btn.classList.remove('copied');
+            }, 2000);
+          } finally {
+            document.body.removeChild(ta);
+          }
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

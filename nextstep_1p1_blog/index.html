@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NextStep-1.1: Stable Post-Training Delivers Comprehensive Improvements</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f5f1eb;
+      --surface: #ebe6df;
+      --border: #d4cfc4;
+      --border-light: rgba(212, 207, 196, 0.5);
+      --text: #3d3932;
+      --text-muted: #6b6560;
+      --accent: #7a6f5c;
+      --accent-soft: rgba(122, 111, 92, 0.12);
+      --code-bg: #e8e3db;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.65;
+      min-height: 100vh;
+      font-size: 16px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--bg);
+    }
+
+    .topbar-brand {
+      font-weight: 600;
+      font-size: 1rem;
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .topbar-brand:hover {
+      color: var(--text);
+    }
+
+    .container {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    header {
+      margin-bottom: 2rem;
+    }
+
+    header .meta {
+      font-size: 0.9rem;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    header h1 {
+      font-size: 1.875rem;
+      font-weight: 700;
+      margin: 0 0 1rem;
+      letter-spacing: -0.025em;
+      line-height: 1.25;
+    }
+
+    header .tagline {
+      font-size: 1rem;
+      color: var(--text-muted);
+      margin: 0 0 0.5rem;
+    }
+
+    header .open-source {
+      font-size: 0.95rem;
+      margin: 0;
+      padding: 0.75rem 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    header .open-source a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    header .open-source a:hover {
+      text-decoration: underline;
+    }
+
+    header .open-source .sep {
+      margin: 0 0.5rem;
+      color: var(--border);
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin: 2.75rem 0 1rem;
+      color: var(--text);
+      letter-spacing: -0.02em;
+    }
+
+    h3 {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin: 1.5rem 0 0.5rem;
+      color: var(--text);
+    }
+
+    p {
+      margin: 0 0 1rem;
+      color: var(--text);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    strong, b {
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .figure {
+      margin: 1.75rem 0;
+      text-align: center;
+    }
+
+    .figure img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+    }
+
+    .figure figcaption {
+      margin-top: 0.5rem;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.25rem 0;
+      font-size: 0.8125rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(61, 57, 50, 0.08);
+    }
+
+    th, td {
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    table thead tr:last-child th {
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    table thead tr:first-child th {
+      border-top: none;
+    }
+
+    table tbody tr:last-child td {
+      border-bottom: none;
+    }
+
+    th {
+      font-weight: 600;
+      background: var(--surface);
+      color: var(--text);
+    }
+
+    tr:hover td {
+      background: var(--accent-soft);
+    }
+
+    ul {
+      margin: 0 0 1rem;
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    .ref-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .ref-list li {
+      margin-bottom: 0.75rem;
+      padding-left: 0;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    .ref-list .num {
+      color: var(--text);
+      font-weight: 500;
+      margin-right: 0.25rem;
+    }
+
+    .section-ref {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .section-ref h2 {
+      margin-top: 0;
+    }
+
+    .bibtex-block {
+      margin: 1rem 0;
+      padding: 1rem 1.25rem;
+      padding-top: 2.25rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow-x: auto;
+      position: relative;
+    }
+
+    .bibtex-block pre {
+      margin: 0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8125rem;
+      line-height: 1.5;
+      color: var(--text);
+      white-space: pre;
+    }
+
+    .bibtex-copy-btn {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      padding: 0.35rem 0.65rem;
+      font-size: 0.8rem;
+      font-family: inherit;
+      color: var(--text-muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      cursor: pointer;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .bibtex-copy-btn:hover {
+      color: var(--text);
+      border-color: var(--text-muted);
+    }
+
+    .bibtex-copy-btn.copied {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    footer {
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+
+    footer a {
+      color: var(--text-muted);
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    footer .sep {
+      margin: 0 0.5rem;
+      color: var(--border);
+    }
+  </style>
+</head>
+<body>
+  <nav class="topbar">
+    <a href="https://stepfun.ai" class="topbar-brand" target="_blank" rel="noopener">StepFun</a>
+  </nav>
+
+  <div class="container">
+    <header>
+      <p class="meta">Feb 13th, 2026</p>
+      <h1>NextStep-1.1: Stable Post-Training Delivers Comprehensive Improvements</h1>
+      <p class="tagline">Stable post-training and NextStep-GRPO for autoregressive image generation.</p>
+      <p class="open-source">Open Source: <a href="https://github.com/stepfun-ai/NextStep-1" target="_blank" rel="noopener">Github</a><span class="sep">|</span><a href="https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc" target="_blank" rel="noopener">Hugging Face</a></p>
+    </header>
+
+    <p>
+      As shown in Fig. 1, NextStep-1.1 effectively addresses the visualization failure cases observed in NextStep-1 and delivers substantial improvements in overall image quality through extended training schedules and stable post-training.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_1.png" alt="Visualization results across different training stages" />
+      <figcaption>Fig. 1 — Visualization results across different training stages.</figcaption>
+    </figure>
+
+    <h2>Extended Training Steps</h2>
+    <p>
+      Initialized from the NextStep-1 (256px) checkpoint, we perform continued pre-training for 300K steps at 256 resolution with a learning rate of 1e-4. This is followed by 20K steps at 512 resolution to enhance high-resolution generation capability. Finally, we conduct a 20K-step annealing phase using high-quality curated data, resulting in the NextStep-1.1-Pretrain model.
+    </p>
+
+    <table>
+      <caption style="caption-side: bottom; margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-muted);">Tab. 1 — Comparisons of training schedules between NextStep-1 and NextStep-1.1.</caption>
+      <thead>
+        <tr>
+          <th>Training Steps</th>
+          <th>Pre-Training Stage1 256px</th>
+          <th>Pre-Training Stage2 512px</th>
+          <th>Pre-Training Annealing</th>
+          <th>Post-Training SFT</th>
+          <th>Post-Training DPO / GRPO</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>NextStep-1</td>
+          <td>200K</td>
+          <td>100K</td>
+          <td>20K</td>
+          <td>10K</td>
+          <td>300 (DPO)</td>
+        </tr>
+        <tr>
+          <td>NextStep-1.1</td>
+          <td>500K</td>
+          <td>20K</td>
+          <td>20K</td>
+          <td>0K</td>
+          <td>1000 (GRPO)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Stable Post-training with NextStep-GRPO</h2>
+    <p>
+      Starting from the NextStep-1.1-Pretrain model, we adopt full-parameter fine-tuning using FlowGRPO [1], with a composite reward model consisting of PickScore [3] (Human Preference Alignment) and OCR-based supervision [4] (Text Rendering).
+    </p>
+    <p>
+      As shown in Fig. 2, the original FlowGRPO configuration exhibits instability when applied to the autoregressive-like NextStep-1.1-Pretrain model. This instability manifests as gradient norm spikes and occasional collapse, reward hacking behaviors in generated images, and a consistent decline in PickScore reward during training.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_2.png" alt="Training dynamics comparison between FlowGRPO and NextStep-GRPO" />
+      <figcaption>Fig. 2 — Training dynamics comparison between FlowGRPO and NextStep-GRPO.</figcaption>
+    </figure>
+
+    <p>
+      To address these issues, we introduce a stabilized post-training strategy tailored for the autoregressive generation paradigm. As shown in Fig. 3, the resulting <strong>NextStep-GRPO</strong> framework significantly improves optimization stability, mitigates reward hacking, and maintains sustained reward growth throughout training. Empirically, this leads to better alignment, improved text rendering fidelity, and enhanced visual coherence.
+    </p>
+
+    <figure class="figure">
+      <img src="assets/fig_3.png" alt="Stabilized Reward Dynamics Under NextStep-GRPO" />
+      <figcaption>Fig. 3 — Stabilized Reward Dynamics Under NextStep-GRPO.</figcaption>
+    </figure>
+
+    <h2>On-Policy Training: Stabilizing GRPO for Autoregressive NextStep-1.1</h2>
+    <p>
+      While FlowGRPO has demonstrated strong empirical performance in diffusion models [5], directly applying it to the autoregressive NextStep-1 architecture introduces substantial instability. The root cause lies in several off-policy behaviors and numerical mismatches that become amplified under sequential generation. To resolve these challenges, we move from FlowGRPO to NextStep-GRPO, a strictly on-policy formulation that shifts the focus from aggressive convergence to stable optimization, controlled reward learning, and long-term performance scalability.
+    </p>
+
+    <ul>
+      <li><strong>1. Re-computation for Training-Inference Consistency:</strong> Autoregressive models under BF16 precision suffer from accumulated numerical errors: token-by-token sampling diverges from the parallel processing used during training. To bridge this gap, we implement a two-stage sampling mechanism. We first generate the image token-by-token, then feed the complete text-image sequence back into the LLM backbone to recompute log-probabilities in parallel. This ensures that the log-probability computation aligns strictly with the parallel training paradigm, eliminating numerical discrepancies caused by sequential sampling.</li>
+      <li><strong>2. Disabling CFG for Stability and Exploration:</strong> Classifier-Free Guidance (CFG) acts as an amplifier for BF16 numerical errors by scaling the delta between conditional and unconditional logits. Furthermore, CFG reduces output variance, thereby shrinking the exploration space essential for GRPO. Consequently, we disable CFG during training. As shown in Fig. 2, while this lowers the initial performance baseline, it significantly stabilizes the optimization trajectory and ultimately yields higher final rewards.</li>
+      <li><strong>3. Strictly On-Policy Optimization:</strong> The original FlowGRPO enables multiple weight updates per epoch across different timesteps, causing the model weights to drift from the sampling snapshot—a technically off-policy behavior. To enforce strict on-policy consistency, we restrict optimization to a single timestep per iteration, adhering to a "one sampling step, one weight update" protocol.</li>
+      <li><strong>4. Numerical Stability via FlowCPS:</strong> FlowGRPO involves division by small floating-point values in its log-probability computation, making it susceptible to gradient explosion when processing outlier samples. To mitigate this, we adopt the FlowCPS [2] formulation for computing log-probabilities, which offers superior numerical stability.</li>
+      <li><strong>5. Online Rejection Sampling:</strong> To maximize sample efficiency, NextStep-GRPO implements online rejection sampling. We discard prompt groups where the reward distribution exhibits either a high mean (indicating trivial samples) or a low standard deviation (indicating collapsed exploration), as these fail to provide the necessary contrastive signals for effective reinforcement learning.</li>
+    </ul>
+
+    <h2>Effectiveness of NextStep-GRPO in Diffusion Models</h2>
+    <p>
+      As shown in Tab. 2, we evaluate NextStep-GRPO in a standard diffusion setting using the same base model (SD3.5-Medium [5]) and identical reward models as FlowGRPO. The results demonstrate that the stabilized NextStep-GRPO achieves performance comparable to FlowGRPO, while maintaining its improved training stability properties. Notably, NextStep-GRPO slightly outperforms FlowGRPO on both PickScore and OCR metrics, indicating that the proposed stabilization strategies do not compromise performance when applied to diffusion architectures.
+    </p>
+
+    <table>
+      <caption style="caption-side: bottom; margin-top: 0.5rem; font-size: 0.85rem; color: var(--text-muted);">Tab. 2 — Comparison between FlowGRPO and NextStep-GRPO in a diffusion model setting. PickScore measures the alignment of generated images with human preferences, while OCR evaluates text rendering accuracy.</caption>
+      <thead>
+        <tr>
+          <th>Method</th>
+          <th>PickScore [3]</th>
+          <th>OCR [4]</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>FlowGRPO</td>
+          <td>23.31</td>
+          <td>0.92</td>
+        </tr>
+        <tr>
+            <td><strong>NextStep-GRPO</strong></td>
+            <td><strong>23.66</strong></td>
+            <td><strong>0.96</strong></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <section class="cite-section">
+      <h2>Citation (BibTeX)</h2>
+      <p>If you find NextStep useful for your research and applications, please consider starring this repository and citing:</p>
+      <div class="bibtex-block">
+        <button type="button" class="bibtex-copy-btn" id="bibtex-copy-btn" aria-label="Copy BibTeX">Copy</button>
+        <pre id="bibtex-content">@article{nextstepteam2025nextstep1,
+  title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
+  author={NextStep Team and Chunrui Han and Guopeng Li and Jingwei Wu and Quan Sun and Yan Cai and Yuang Peng and Zheng Ge and Deyu Zhou and Haomiao Tang and Hongyu Zhou and Kenkun Liu and Ailin Huang and Bin Wang and Changxin Miao and Deshan Sun and En Yu and Fukun Yin and Gang Yu and Hao Nie and Haoran Lv and Hanpeng Hu and Jia Wang and Jian Zhou and Jianjian Sun and Kaijun Tan and Kang An and Kangheng Lin and Liang Zhao and Mei Chen and Peng Xing and Rui Wang and Shiyu Liu and Shutao Xia and Tianhao You and Wei Ji and Xianfang Zeng and Xin Han and Xuelin Zhang and Yana Wei and Yanming Xu and Yimin Jiang and Yingming Wang and Yu Zhou and Yucheng Han and Ziyang Meng and Binxing Jiao and Daxin Jiang and Xiangyu Zhang and Yibo Zhu},
+  journal={arXiv preprint arXiv:2508.10711},
+  year={2025}
+}</pre>
+      </div>
+    </section>
+
+    <section class="section-ref">
+      <h2>References</h2>
+      <ul class="ref-list">
+        <li><span class="num">[1]</span> Liu, Jie, et al. "Flow-GRPO: Training flow matching models via online rl." arXiv preprint arXiv:2505.05470 (2025).</li>
+        <li><span class="num">[2]</span> Wang, Feng, and Zihao Yu. "Coefficients-Preserving Sampling for Reinforcement Learning with Flow Matching." arXiv preprint arXiv:2509.05952 (2025).</li>
+        <li><span class="num">[3]</span> Kirstain, Yuval, et al. "Pick-a-pic: An open dataset of user preferences for text-to-image generation." Advances in neural information processing systems 36 (2023): 36652-36663.</li>
+        <li><span class="num">[4]</span> Cui, Cheng, et al. "Paddleocr 3.0 technical report." arXiv preprint arXiv:2507.05595 (2025).</li>
+        <li><span class="num">[5]</span> <a href="https://stability.ai/news/introducing-stable-diffusion-3-5" target="_blank" rel="noopener">https://stability.ai/news/introducing-stable-diffusion-3-5</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      From StepFun-AI NextStep Team. Topic: NextStep-1.1 and stable post-training.
+    </footer>
+  </div>
+  <script>
+    (function () {
+      var btn = document.getElementById('bibtex-copy-btn');
+      var pre = document.getElementById('bibtex-content');
+      if (!btn || !pre) return;
+      btn.addEventListener('click', function () {
+        var text = pre.textContent;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(function () {
+            btn.textContent = 'Copied!';
+            btn.classList.add('copied');
+            setTimeout(function () {
+              btn.textContent = 'Copy';
+              btn.classList.remove('copied');
+            }, 2000);
+          });
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = text;
+          ta.setAttribute('readonly', '');
+          ta.style.position = 'absolute';
+          ta.style.left = '-9999px';
+          document.body.appendChild(ta);
+          ta.select();
+          try {
+            document.execCommand('copy');
+            btn.textContent = 'Copied!';
+            btn.classList.add('copied');
+            setTimeout(function () {
+              btn.textContent = 'Copy';
+              btn.classList.remove('copied');
+            }, 2000);
+          } finally {
+            document.body.removeChild(ta);
+          }
+        }
+      });
+    })();
+  </script>
+</body>
+</html>
