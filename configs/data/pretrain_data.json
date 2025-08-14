@@ -1,0 +1,37 @@
+{
+    "text_only/allenai_dolma_v16/books": {
+        "data_type": "nlp",
+        "dir": "./nextstep_data/allenai_dolma_v16_books",
+        "num_samples": 55609,
+        "tar_meta_path": "./nextstep_data/allenai_dolma_v16_books/meta.json",
+        "description": "filtered from https://huggingface.co/datasets/allenai/dolma"
+    },
+    "text2image/BLIP3o-60k": {
+        "data_type": "image_text",
+        "dir": "./nextstep_data/BLIP3o-60k",
+        "tar_meta_path": "./nextstep_data/BLIP3o-60k/BLIP3o-60k-tars.json",
+        "num_samples": 58859,
+        "description": "filtered from https://huggingface.co/datasets/BLIP3o/BLIP3o-60k"
+    },
+    "image2image/GPT-Image-Edit-1.5M/hqedit": {
+        "data_type": "interleave",
+        "dir": "./nextstep_data/GPT-Image-Edit-1.5M_hqedit",
+        "num_samples": 93597,
+        "tar_meta_path": "./nextstep_data/GPT-Image-Edit-1.5M_hqedit/meta.json",
+        "description": "filtered from https://huggingface.co/datasets/UCSC-VLAA/GPT-Image-Edit-1.5M"
+    },
+    "interleave/multimodal_textbook": {
+        "data_type": "interleave",
+        "dir": "./nextstep_data/multimodal_textbook_partial/",
+        "tar_meta_path": "./nextstep_data/multimodal_textbook_partial/meta.json",
+        "num_samples": 50000,
+        "description": "filtered from https://github.com/DAMO-NLP-SG/multimodal_textbook"
+    },
+    "image_val_loss": {
+        "data_type": "image_text",
+        "dir": "./nextstep_data/ShareGPT-4o-Image",
+        "tar_meta_path": "./nextstep_data/ShareGPT-4o-Image/ShareGPT-4o-Image_text2image.json",
+        "num_samples": 45717,
+        "description": "filtered from https://huggingface.co/datasets/FreedomIntelligence/ShareGPT-4o-Image"
+    }
+}

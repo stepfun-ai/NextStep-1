@@ -1,0 +1,2802 @@
+[
+    {
+        "Prompt": "Traditional food of the Mid-Autumn Festival",
+        "Explanation": "This refers to mooncakes, the round pastries filled with lotus seed paste or red bean paste",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 1
+    },
+    {
+        "Prompt": "Traditional game played during the Korean festival of Chuseok",
+        "Explanation": "This refers to ssireum, a form of traditional Korean wrestling",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 2
+    },
+    {
+        "Prompt": "Traditional activity during Easter in Western countries",
+        "Explanation": "This refers to the Easter egg hunt",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 3
+    },
+    {
+        "Prompt": "Holiday celebrating the birth of Jesus Christ",
+        "Explanation": "This refers to Christmas",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 4
+    },
+    {
+        "Prompt": "Traditional decoration for the Mexican Day of the Dead",
+        "Explanation": "This refers to ofrendas, elaborate altars decorated with marigolds, candles, and offerings",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 5
+    },
+    {
+        "Prompt": "Symbolic animal associated with the Chinese New Year",
+        "Explanation": "This refers to the dragon, a mythical creature representing power and good fortune",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 6
+    },
+    {
+        "Prompt": "A spooky night when children dress up and collect sweet treats",
+        "Explanation": "This refers to Halloween, the image should show children in costumes collecting candy",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 7
+    },
+    {
+        "Prompt": "Most mentioned character during Christmas",
+        "Explanation": "This refers to Santa Claus",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 8
+    },
+    {
+        "Prompt": "Traditional food for the Lantern Festival in China",
+        "Explanation": "This refers to tangyuan, glutinous rice balls",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 9
+    },
+    {
+        "Prompt": "Show the most common outdoor activity associated with the Dragon Boat Festival",
+        "Explanation": "This refers to dragon boat races, so the image should depict a race with long boats, synchronized paddling teams, a body of water, and festive surroundings",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 10
+    },
+    {
+        "Prompt": "Most commonly used tools during Diwali in India",
+        "Explanation": "This refers to diyas (small oil lamps), so the photo should include diyas",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 11
+    },
+    {
+        "Prompt": "Popular festival among the Dai people in China",
+        "Explanation": "This refers to the Songkran Festival",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 12
+    },
+    {
+        "Prompt": "Traditional food for the Dragon Boat Festival in China",
+        "Explanation": "This refers to zongzi, sticky rice wrapped in bamboo leaves",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 13
+    },
+    {
+        "Prompt": "Halloween kids' favorite treat",
+        "Explanation": "It refers to candy, which kids like to collect most",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 14
+    },
+    {
+        "Prompt": "Traditional activity during the Iranian festival of Nowruz",
+        "Explanation": "This refers to haft-sin, a table setting with seven symbolic items starting with the letter 'sin' in Persian",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 15
+    },
+    {
+        "Prompt": "Traditional activity during the Indian festival of Holi",
+        "Explanation": "This refers to playing with colored powders and water, celebrating the arrival of spring",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 16
+    },
+    {
+        "Prompt": "An autumnal harvest celebration in North America, where a large fowl takes center stage on the dining table",
+        "Explanation": "This refers to Thanksgiving, so the image should show a roasted turkey surrounded by other food",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 17
+    },
+    {
+        "Prompt": "Traditional dance performed during the Brazilian Carnival",
+        "Explanation": "This refers to samba, a lively dance with African roots",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 18
+    },
+    {
+        "Prompt": "The object most commonly admired during the Mid-Autumn Festival",
+        "Explanation": "This refers to the moon, so the image should show a full or nearly full moon, possibly with elements suggesting the festival such as lanterns or family gatherings",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 19
+    },
+    {
+        "Prompt": "Traditional food for Thanksgiving in the United States",
+        "Explanation": "This refers to roasted turkey with sides like mashed potatoes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 20
+    },
+    {
+        "Prompt": "Traditional costume worn during the German Oktoberfest",
+        "Explanation": "This refers to lederhosen for men and dirndl for women, traditional Bavarian attire",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 21
+    },
+    {
+        "Prompt": "Traditional gift given during the Japanese festival of Setsubun",
+        "Explanation": "This refers to mame-maki, the custom of scattering roasted soybeans to drive away evil spirits",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Festival",
+        "prompt_id": 22
+    },
+    {
+        "Prompt": "Most representative sport of South Africa",
+        "Explanation": "This refers to rugby, so the photo should include the rugby ball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 23
+    },
+    {
+        "Prompt": "A sport that ignites national fervor in Argentina, often associated with legendary players and historic rivalries",
+        "Explanation": "This refers to football (soccer), so the image should include a football, and potentially Argentinian colors or fans",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 24
+    },
+    {
+        "Prompt": "A very popular sport in the US with an oval shaped ball",
+        "Explanation": "This refers to American football, so the photo should include the American football",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 25
+    },
+    {
+        "Prompt": "Show an image of the most popular ball sport in Japan, often associated with school teams and national tournaments",
+        "Explanation": "The model should generate an image related to baseball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 26
+    },
+    {
+        "Prompt": "Most representative sport of India",
+        "Explanation": "This refers to cricket, so the photo should include the cricket ball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 27
+    },
+    {
+        "Prompt": "A fast-moving team sport popular in Russia, known for its intense physicality",
+        "Explanation": "This refers to ice hockey, so the image should include a hockey puck, and potentially ice and players",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 28
+    },
+    {
+        "Prompt": "A sport deeply ingrained in Brazilian culture, known for its flair and passion on the field",
+        "Explanation": "This refers to football (soccer), so the image should include a football, and potentially Brazilian colors or fans",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 29
+    },
+    {
+        "Prompt": "Show the national sport of the United States",
+        "Explanation": "This refers to baseball, so the image should depict a baseball game or elements associated with baseball, such as a bat, ball, or field",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 30
+    },
+    {
+        "Prompt": "Show the national sport of Japan",
+        "Explanation": "This refers to Sumo wrestling, so the image should depict a Sumo wrestling match or elements associated with Sumo, such as the wrestlers, the ring or traditional garments",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 31
+    },
+    {
+        "Prompt": "Show a combat sport often practiced in Thailand",
+        "Explanation": "This refers to Muay Thai, so the image should depict two people engaging in combat techniques",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 32
+    },
+    {
+        "Prompt": "A winter sport often enjoyed in Switzerland, involving snow covered slopes",
+        "Explanation": "This refers to skiing, so the photo should include a skier or ski equipment",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 33
+    },
+    {
+        "Prompt": "A bat-and-ball sport with a passionate following in Pakistan, often enjoyed by all ages",
+        "Explanation": "This refers to cricket, so the image should include a cricket ball, and potentially Pakistani colours or a stadium",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 34
+    },
+    {
+        "Prompt": "Show the most popular ball sport in Australia",
+        "Explanation": "The model should generate an image related to Australian Rules Football",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 35
+    },
+    {
+        "Prompt": "A widely followed sport in the UK, often played with a round ball and passionate supporters",
+        "Explanation": "This refers to football (soccer), so the photo should include the football",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 36
+    },
+    {
+        "Prompt": "A physically demanding contact sport, deeply associated with New Zealand's national identity",
+        "Explanation": "This refers to rugby, so the image should include a rugby ball and possibly a rugby pitch",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 37
+    },
+    {
+        "Prompt": "A highly technical and fast-paced sport in China, often showcasing incredible agility and precision",
+        "Explanation": "This refers to table tennis, so the image should include a table tennis ball and paddle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 38
+    },
+    {
+        "Prompt": "A fast-paced racquet sport that is extremely popular in Indonesia, requiring agility and precision",
+        "Explanation": "This refers to badminton, so the image should include a badminton shuttlecock and a racquet",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Sports",
+        "prompt_id": 39
+    },
+    {
+        "Prompt": "An image that demonstrates the act of seeking knowledge and guidance from a religious elder or leader in a Buddhist monastic context",
+        "Explanation": "The model should generate an image of Buddhist monks consulting or getting a teaching from their master/teacher",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 40
+    },
+    {
+        "Prompt": "A representation of the divine trinity in the Christian tradition, often depicted through art and symbolism",
+        "Explanation": "The model should generate an image representing the Holy Trinity in Christianity, often depicted as God the Father, God the Son, and God the Holy Spirit",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 41
+    },
+    {
+        "Prompt": "An image of a commonly revered object in Christianity that often symbolizes sacrifice and faith",
+        "Explanation": "The model should generate an image related to the Christian Cross",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 42
+    },
+    {
+        "Prompt": "Show an image of a type of large religious building that is often visited by Christians, and frequently includes a significant symbol as part of its architecture",
+        "Explanation": "The model should generate an image related to a Christian church or cathedral with a prominent cross symbol in its architecture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 43
+    },
+    {
+        "Prompt": "A figure central to the story of Islam, revered as the last prophet",
+        "Explanation": "The model should generate an image that represents Prophet Muhammad, with focus on respect and avoiding direct depiction of his face",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 44
+    },
+    {
+        "Prompt": "An image showcasing an event that marks the beginning of the holiest month for Muslims, often with a traditional meal in the morning",
+        "Explanation": "The model should generate an image depicting the 'Suhoor' meal, an important event in Ramadan",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 45
+    },
+    {
+        "Prompt": "Show an image of a type of domed religious structure that is often seen in Buddhist temples or sacred sites",
+        "Explanation": "The model should generate an image related to a Buddhist stupa or pagoda",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 46
+    },
+    {
+        "Prompt": "An object of veneration in Sikh temples, often seen as a source of wisdom and spiritual authority",
+        "Explanation": "The model should generate an image of the Guru Granth Sahib, the central religious scripture of Sikhism",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 47
+    },
+    {
+        "Prompt": "A sacred text often found in Jewish synagogues, containing teachings and stories that guide the faithful",
+        "Explanation": "The model should generate an image of a Torah scroll, focusing on its ornate cover and handwritten text",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 48
+    },
+    {
+        "Prompt": "A key architectural feature that is often in the form of a tower, used by Muslims for call to prayer",
+        "Explanation": "The model should generate an image of a Minaret, the tall slender tower in a Mosque",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 49
+    },
+    {
+        "Prompt": "A geometric symbol often associated with Jewish identity and heritage",
+        "Explanation": "The model should generate an image related to the Star of David",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 50
+    },
+    {
+        "Prompt": "An image of a circular emblem representing balance and harmony in Taoist philosophy",
+        "Explanation": "The model should generate an image related to the Taijitu (Yin-Yang symbol)",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 51
+    },
+    {
+        "Prompt": "Show a structure commonly seen in Shinto shrines, often acting as a gateway to a sacred space",
+        "Explanation": "The model should generate an image related to a Torii gate",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 52
+    },
+    {
+        "Prompt": "Show an image of a figure that is often a central focus of worship and meditation in Buddhism",
+        "Explanation": "The model should generate an image related to a Buddha statue or figure",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 53
+    },
+    {
+        "Prompt": "A sacred site for Muslims, with a cuboid structure at its center, a focal point for prayer",
+        "Explanation": "The model should generate an image of the Kaaba in Mecca, showcasing its cuboid shape, the black cloth covering, and its importance as a sacred site for Muslims",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 54
+    },
+    {
+        "Prompt": "Show an image depicting a specific hand gesture used during prayer, often seen in congregations that follow a particular Abrahamic tradition",
+        "Explanation": "The model should generate an image related to the 'priestly blessing' hand gesture common in Judaism, which includes the spreading of the fingers to form the letter Shin",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 55
+    },
+    {
+        "Prompt": "A powerful symbol often used in Islamic art, often representing divine guidance",
+        "Explanation": "The model should generate an image related to the crescent moon and star",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 56
+    },
+    {
+        "Prompt": "Show an image of a specific type of head covering worn by many Sikh men",
+        "Explanation": "The model should generate an image related to the Sikh Turban or Dastar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 57
+    },
+    {
+        "Prompt": "An image of a specific type of clothing often worn by Jewish men when they pray",
+        "Explanation": "The model should generate an image related to a Jewish Tallit or prayer shawl",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 58
+    },
+    {
+        "Prompt": "A place where sacred rituals and ceremonies often take place in Hinduism, a center of worship and community",
+        "Explanation": "The model should generate an image representing a Hindu temple, showcasing the architecture, the deity statues, and the atmosphere of worship",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 59
+    },
+    {
+        "Prompt": "A sacred symbol often used in Hindu practices, representing the essence of the universe",
+        "Explanation": "The model should generate an image related to the Om symbol",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 60
+    },
+    {
+        "Prompt": "A sacred symbol used in Jainism, representing the path to liberation and enlightenment",
+        "Explanation": "The model should generate an image of the Jain symbol, which includes the hand, the wheel, and the three dots",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Religion",
+        "prompt_id": 61
+    },
+    {
+        "Prompt": "Most representative craft of India",
+        "Explanation": "This refers to Indian handwoven textiles, so the photo should include a colorful sari or textile pattern",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 62
+    },
+    {
+        "Prompt": "A craft that celebrates the beauty of natural elements through its use of fine, polished stones in a particular country in South America",
+        "Explanation": "This refers to Peruvian Stone Carving, so the photo should include a photo of finely crafted stone objects or sculptures with cultural motifs",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 63
+    },
+    {
+        "Prompt": "The playful craft that embodies Russian cultural charm",
+        "Explanation": "This refers to Russian nesting dolls (Matryoshka), so the photo should include a set of colorful Matryoshka dolls",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 64
+    },
+    {
+        "Prompt": "A craft renowned for its glass artistry and elaborate chandeliers in the Venetian city",
+        "Explanation": "This refers to Murano glass, so the photo should include a detailed image of glass objects or a Murano chandelier",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 65
+    },
+    {
+        "Prompt": "A craft involving the application of enamel on metal surfaces that is popular in a particular region of Southeast Asia",
+        "Explanation": "This refers to Cloisonné, so the photo should include an image of an object decorated with cloisonné enamel, showcasing intricate designs and vibrant colors, commonly found in Southeast Asia",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 66
+    },
+    {
+        "Prompt": "A craft celebrated in Japanese culture, known for its intricate folds and paper art",
+        "Explanation": "This refers to Origami, so the photo should include an image of folded paper sculptures or objects",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 67
+    },
+    {
+        "Prompt": "The iconic craft that captures the essence of French elegance",
+        "Explanation": "This refers to French perfume, so the photo should include an elegant perfume bottle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 68
+    },
+    {
+        "Prompt": "A craft known for its use of silver, and intricate designs in a particular country in South America",
+        "Explanation": "This refers to Mexican silver craft, so the photo should include a photograph showing finely crafted silver objects or jewelry with distinctive motifs and patterns",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 69
+    },
+    {
+        "Prompt": "The intricate craft that highlights the artistry of Persian weaving",
+        "Explanation": "This refers to Persian carpets, so the photo should include a colorful, intricate carpet with traditional patterns",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 70
+    },
+    {
+        "Prompt": "A craft recognized for its use of natural materials and distinctive patterns, often from the northern parts of Africa",
+        "Explanation": "This refers to African basket weaving, so the photo should include a photo of a detailed hand-woven basket with complex patterns",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 71
+    },
+    {
+        "Prompt": "The traditional craft that represents Native American artistic heritage",
+        "Explanation": "This refers to Native American pottery, so the photo should include traditional Native American clay pots with intricate designs",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 72
+    },
+    {
+        "Prompt": "Most representative craft of Thailand",
+        "Explanation": "This refers to Thai silk, so the photo should include a colorful silk fabric or traditional Thai garment",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 73
+    },
+    {
+        "Prompt": "The craft that embodies Swiss precision and artistry",
+        "Explanation": "This refers to Swiss watches, so the photo should include a detailed luxury watch",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 74
+    },
+    {
+        "Prompt": "The traditional craft that symbolizes Chinese artistry and heritage",
+        "Explanation": "This refers to porcelain, so the photo should include a porcelain vase or bowl",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Craft",
+        "prompt_id": 75
+    },
+    {
+        "Prompt": "Awe-inspiring ancient Egyptian architecture, colossal and majestic under the desert sun",
+        "Explanation": "The model should generate an image featuring the Pyramids of Giza, emphasizing the grandeur of the Great Pyramid and the surrounding desert environment",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 76
+    },
+    {
+        "Prompt": "A neo-Gothic clock tower, a symbol of London's political and cultural history",
+        "Explanation": "The model should generate an image featuring Big Ben, highlighting its Gothic-style clock tower and the surrounding Houses of Parliament",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 77
+    },
+    {
+        "Prompt": "An ancient amphitheater, a testament to Roman engineering and entertainment",
+        "Explanation": "The model should generate an image featuring the Colosseum, showcasing its ruined circular structure and historical significance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 78
+    },
+    {
+        "Prompt": "An elegant marble mausoleum, a symbol of love and Indian architectural brilliance",
+        "Explanation": "The model should generate an image featuring the Taj Mahal, showcasing its white marble exterior and symmetrical structure",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 79
+    },
+    {
+        "Prompt": "A massive stone statue of a mythical creature that is a prominent historical landmark in Egypt",
+        "Explanation": "The model should generate an image featuring the Great Sphinx of Giza, highlighting its lion's body with a human head, and its surrounding desert",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 80
+    },
+    {
+        "Prompt": "An impressive castle, a place of royalty and history in the Scottish city of Edinburgh",
+        "Explanation": "The model should generate an image featuring Edinburgh Castle, showcasing its location on a hill, its ancient stone architecture, and its historic significance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 81
+    },
+    {
+        "Prompt": "The world's tallest skyscraper, a marvel of modern engineering in the desert",
+        "Explanation": "The model should generate an image featuring the Burj Khalifa, highlighting its ultra-tall skyscraper design and the surrounding Dubai cityscape",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 82
+    },
+    {
+        "Prompt": "A complex of ancient temples in Southeast Asia, a symbol of spirituality and history in Cambodia",
+        "Explanation": "The model should generate an image featuring Angkor Wat in Cambodia, showcasing its ancient Khmer architecture and its intricate carvings",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 83
+    },
+    {
+        "Prompt": "A colossal sculpture in Brazil, with outstretched arms overlooking the city below",
+        "Explanation": "The model should generate an image featuring the Christ the Redeemer statue, showcasing its overlooking perspective from Corcovado Mountain and its religious significance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 84
+    },
+    {
+        "Prompt": "A remarkable church with a spherical dome, a symbol of faith, located in the Vatican City",
+        "Explanation": "The model should generate an image featuring St. Peter's Basilica in Vatican City, emphasizing its large dome, its grand interior and its religious importance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 85
+    },
+    {
+        "Prompt": "A symbol of the United States' political history, a white dome with a unique architecture in Washington DC",
+        "Explanation": "The model should generate an image featuring the US Capitol Building in Washington DC, highlighting its white dome and its historical context",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 86
+    },
+    {
+        "Prompt": "A unique structure with blades, in the flat agricultural landscape of the Netherlands",
+        "Explanation": "The model should generate an image featuring traditional Dutch windmills, showcasing their sails, circular structures, and the surrounding fields or canal landscapes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 87
+    },
+    {
+        "Prompt": "A monument in Brazil, with arms outstretched above the city",
+        "Explanation": "The model should generate an image featuring Christ the Redeemer, emphasizing its presence in the city's skyline and its symbolic meaning",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 88
+    },
+    {
+        "Prompt": "A magnificent gothic cathedral, an architectural marvel of arches, spires, and stained glass windows in Paris",
+        "Explanation": "The model should generate an image featuring Notre Dame Cathedral in Paris, emphasizing its Gothic architecture, its rose window, and its historical significance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 89
+    },
+    {
+        "Prompt": "A famous medieval bridge, with arches over the river, located in the capital city of the Czech Republic, Prague",
+        "Explanation": "The model should generate an image featuring the Charles Bridge in Prague, highlighting its medieval stone structure, the statues along the sides, and the river below",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 90
+    },
+    {
+        "Prompt": "A famous structure built in ancient Egypt as a burial place",
+        "Explanation": "The model should generate an image of a pyramid",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 91
+    },
+    {
+        "Prompt": "A wrought-iron lattice tower, a symbol of Parisian elegance and innovation",
+        "Explanation": "The model should generate an image featuring the Eiffel Tower, capturing its distinctive lattice structure and the surrounding cityscape",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 92
+    },
+    {
+        "Prompt": "China's most iconic architecture, a magnificent ancient defense line against invasion",
+        "Explanation": "The model should generate an image featuring the Great Wall of China, showcasing its winding path and the surrounding natural landscape",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 93
+    },
+    {
+        "Prompt": "A structure that touches the sky, showcasing modern design and urban aspirations in the American city of New York",
+        "Explanation": "The model should generate an image featuring the Empire State Building in New York City, emphasizing its height, its Art Deco style, and its iconic presence in the city skyline",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 94
+    },
+    {
+        "Prompt": "A soaring communication tower, dominating the Toronto skyline",
+        "Explanation": "The model should generate an image featuring the CN Tower, showcasing its soaring modern architectural style",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 95
+    },
+    {
+        "Prompt": "An iconic bridge, known for its red hue and location over a famous bay in San Francisco",
+        "Explanation": "The model should generate an image featuring the Golden Gate Bridge in San Francisco, highlighting its red color, its towering structure, and its location over the bay",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 96
+    },
+    {
+        "Prompt": "A monumental stone structure at a place where ancient cultures thrived in the Andes mountains of Peru",
+        "Explanation": "The model should generate an image featuring Machu Picchu, showcasing its location in the Andes mountains and its ancient stone architecture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 97
+    },
+    {
+        "Prompt": "A unique structure of circular design, symbolizing the power of the British government, located near a palace in London",
+        "Explanation": "The model should generate an image featuring the British Museum in London, highlighting its unique circular design, and its neoclassical features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 98
+    },
+    {
+        "Prompt": "Ancient rock-carved churches, a spiritual pilgrimage site in Ethiopia",
+        "Explanation": "The model should generate an image featuring the Rock-Hewn Churches of Lalibela, showcasing their unique structures carved out of rock",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 99
+    },
+    {
+        "Prompt": "An unfinished basilica, a masterpiece of Catalan Modernism with intricate facades",
+        "Explanation": "The model should generate an image featuring the Sagrada Familia, emphasizing its unique spires and the elaborately decorated facade",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 100
+    },
+    {
+        "Prompt": "A grand opera house known for its extravagant interior, a symbol of arts in the Italian city of Milan",
+        "Explanation": "The model should generate an image featuring the Teatro alla Scala in Milan, showcasing its opulent interior and its classical architecture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 101
+    },
+    {
+        "Prompt": "A sail-like structure, an architectural icon on Sydney's harbor",
+        "Explanation": "The model should generate an image featuring the Sydney Opera House, highlighting its distinctive white sail-like roof and the surrounding harbor view",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 102
+    },
+    {
+        "Prompt": "A symbol of royal power and ambition, a magnificent palace with elaborate gardens in France",
+        "Explanation": "The model should generate an image featuring the Palace of Versailles, showcasing its grandeur, gardens, and historical significance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 103
+    },
+    {
+        "Prompt": "A copper-clad statue, a beacon of freedom and American ideals",
+        "Explanation": "The model should generate an image featuring the Statue of Liberty, highlighting its towering presence and iconic torch-bearing figure",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 104
+    },
+    {
+        "Prompt": "A modern structure that appears like a floating building, a beacon of light and art in the Spanish city of Bilbao",
+        "Explanation": "The model should generate an image featuring the Guggenheim Museum Bilbao, showcasing its unique curved and metallic structure and its riverside location",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 105
+    },
+    {
+        "Prompt": "A symbol of imperial China, a sprawling complex of palaces and temples in Beijing",
+        "Explanation": "The model should generate an image featuring the Forbidden City in Beijing, showcasing its vast scale and traditional Chinese architecture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 106
+    },
+    {
+        "Prompt": "An opulent opera house, a center of culture and performing arts in Buenos Aires",
+        "Explanation": "The model should generate an image featuring the Teatro Colón, showcasing its lavish interior decoration and classical architectural style",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 107
+    },
+    {
+        "Prompt": "A spiraling tower, a symbol of modern architecture and a landmark in the Italian city of Pisa",
+        "Explanation": "The model should generate an image featuring the Leaning Tower of Pisa, highlighting its unique leaning structure and its historical context",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Construction",
+        "prompt_id": 108
+    },
+    {
+        "Prompt": "The fruit known for its strong odor and distinctive taste",
+        "Explanation": "The model should generate an image of a durian",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 109
+    },
+    {
+        "Prompt": "The fruit known for its high water content and refreshing, sweet taste",
+        "Explanation": "The model should generate an image of a watermelon, which is mostly water and is perfect for hydrating during summer",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 110
+    },
+    {
+        "Prompt": "A fragrant bloom, often found in the Provence region, symbolically tied to French culture and cuisine",
+        "Explanation": "The model should generate an image featuring lavender",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 111
+    },
+    {
+        "Prompt": "A common fruit, often associated with American pies and a symbol of fall harvest in the United States",
+        "Explanation": "The model should generate an image featuring apples",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 112
+    },
+    {
+        "Prompt": "A small, oval fruit with a fuzzy skin and a sweet, tart taste, often associated with the start of summer and the colour pink",
+        "Explanation": "The model should generate an image related to peaches",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 113
+    },
+    {
+        "Prompt": "A small fruit with a sweet and sour taste, often found in the Amazonian parts of Colombia, used in popular juice",
+        "Explanation": "The model should generate an image featuring Lulo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 114
+    },
+    {
+        "Prompt": "A resilient plant, associated with Mexican deserts and culture, known for its prickly texture",
+        "Explanation": "The model should generate an image featuring a cactus, particularly the prickly pear",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 115
+    },
+    {
+        "Prompt": "An autumn delight, a fruit with cultural significance in Japan, often seen in traditional dishes and rituals",
+        "Explanation": "The model should generate an image featuring persimmons",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 116
+    },
+    {
+        "Prompt": "The large green fruit known for its smooth, creamy texture, often used in savoury dishes as a substitute for meat",
+        "Explanation": "The model should generate an image related to avocados",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 117
+    },
+    {
+        "Prompt": "The small, round, red fruit, known for its crisp texture, that is often said to keep the doctor away",
+        "Explanation": "The model should generate an image related to apples",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 118
+    },
+    {
+        "Prompt": "A national tree of Argentina, known for its bright red flowers that bloom in the spring",
+        "Explanation": "The model should generate an image featuring a ceibo tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 119
+    },
+    {
+        "Prompt": "The climbing plant with large, heart-shaped leaves and a distinctive, sweet scent, often associated with happiness and new beginnings",
+        "Explanation": "The model should generate an image related to Morning Glory flowers",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 120
+    },
+    {
+        "Prompt": "A flower that is often associated with the arrival of spring, and known for its vibrant colours and cup-like shape",
+        "Explanation": "The model should generate an image of a tulip",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 121
+    },
+    {
+        "Prompt": "A flower deeply significant in Vietnamese culture, representing purity, serenity, and spiritual growth",
+        "Explanation": "The model should generate an image featuring a lotus flower",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 122
+    },
+    {
+        "Prompt": "A large yellow flower that faces the sun",
+        "Explanation": "The model should generate an image of the sunflower",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 123
+    },
+    {
+        "Prompt": "A fruit with a vibrant red color, often used in Korean dishes and drinks, known for its unique taste",
+        "Explanation": "The model should generate an image featuring Bokbunja (Korean raspberries)",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 124
+    },
+    {
+        "Prompt": "A citrus fruit known for its sweetness and juiciness, widely cultivated in Spain, especially the Valencia variety",
+        "Explanation": "The model should generate an image featuring oranges",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 125
+    },
+    {
+        "Prompt": "A plant historically significant in ancient Egypt for making paper, associated with the Nile river",
+        "Explanation": "The model should generate an image featuring a papyrus plant",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 126
+    },
+    {
+        "Prompt": "A fruit that has a unique appearance, with segments that look like fingers, originating from a region in Southeast Asia, often used in desserts",
+        "Explanation": "The model should generate an image featuring a Buddha's Hand fruit",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 127
+    },
+    {
+        "Prompt": "The fruit often used as both a food and a decorative item in festivals",
+        "Explanation": "The model should generate an image of a pomegranate, known for its ruby-red seeds and symbolizing abundance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 128
+    },
+    {
+        "Prompt": "A fruit renowned for its smooth texture and sweetness, often regarded as one of the best in the world, particularly in the Philippines",
+        "Explanation": "The model should generate an image featuring mangoes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 129
+    },
+    {
+        "Prompt": "A berry-like fruit that is a vibrant dark colour, often used in jams, or to flavour other foods",
+        "Explanation": "The model should generate an image related to blueberries",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 130
+    },
+    {
+        "Prompt": "A tree symbolizing peace, wisdom, and the long history of Greek agriculture",
+        "Explanation": "The model should generate an image featuring an olive tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 131
+    },
+    {
+        "Prompt": "The plant that represents the beauty of Japan",
+        "Explanation": "The model should generate an image of a cherry blossom tree, symbolizing the transient beauty of life in Japan",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 132
+    },
+    {
+        "Prompt": "The sweet fruit with a smooth skin, a large central seed, and a bright red colour that is often associated with love and romance",
+        "Explanation": "The model should generate an image related to cherries",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 133
+    },
+    {
+        "Prompt": "A small, brown, fuzzy fruit with bright green flesh, a national symbol of New Zealand",
+        "Explanation": "The model should generate an image featuring kiwis",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 134
+    },
+    {
+        "Prompt": "A delicate blossom, a symbol of beauty and renewal in Japan, especially during the spring season",
+        "Explanation": "The model should generate an image featuring cherry blossoms (sakura)",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 135
+    },
+    {
+        "Prompt": "The citrus fruit often segmented, with a vibrant orange peel and a sweet, tangy taste, often enjoyed during winter",
+        "Explanation": "The model should generate an image related to oranges",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 136
+    },
+    {
+        "Prompt": "The plant known for its sharp thorns and delicate, fragrant blossoms, often associated with resilience and romance",
+        "Explanation": "The model should generate an image of a rose bush",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 137
+    },
+    {
+        "Prompt": "A yellow, curved fruit that monkeys like",
+        "Explanation": "The model should generate an image of a banana or bananas",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 138
+    },
+    {
+        "Prompt": "A tree of deep cultural and economic significance in Italy, particularly in relation to olive oil production",
+        "Explanation": "The model should generate an image featuring an olive tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 139
+    },
+    {
+        "Prompt": "The small, sweet fruit that grows in bunches on a vine, and is often used to make wine or juice",
+        "Explanation": "The model should generate an image related to grapes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 140
+    },
+    {
+        "Prompt": "A tree symbolic of Russian landscapes, especially in the vast forests of Siberia",
+        "Explanation": "The model should generate an image featuring a birch tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 141
+    },
+    {
+        "Prompt": "The fruit that is typically used to make lemonade",
+        "Explanation": "The model should generate an image of lemons",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 142
+    },
+    {
+        "Prompt": "An image of a tree with distinct dark green needle-like leaves and cones, often associated with winter and Christmas celebrations",
+        "Explanation": "The model should generate an image of a pine tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 143
+    },
+    {
+        "Prompt": "The flower that represents love in Western culture",
+        "Explanation": "The model should generate an image of a red rose, symbolizing romance and passion",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 144
+    },
+    {
+        "Prompt": "A national flower of Colombia, celebrated for its rich diversity",
+        "Explanation": "The model should generate an image featuring an orchid, specifically a Cattleya trianae",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 145
+    },
+    {
+        "Prompt": "Show a plant that is a symbol of good fortune in Irish culture, and is known for its three-lobed leaves",
+        "Explanation": "The model should generate an image related to shamrocks",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 146
+    },
+    {
+        "Prompt": "Show a plant that is well known for its bright red leaves in the winter season and is often used for festive decoration",
+        "Explanation": "The model should generate an image related to the poinsettia",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 147
+    },
+    {
+        "Prompt": "A fruit that is a traditional part of the Chinese New Year, often associated with good fortune and prosperity",
+        "Explanation": "The model should generate an image featuring Mandarin oranges",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 148
+    },
+    {
+        "Prompt": "The plant often gifted on Mother's Day",
+        "Explanation": "The model should generate an image of a bouquet of carnations, a popular flower symbolizing love and admiration, often given on Mother's Day",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 149
+    },
+    {
+        "Prompt": "The tallest tree species in the world",
+        "Explanation": "The model should generate an image of a coast redwood tree, highlighting its towering height and dense foliage",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 150
+    },
+    {
+        "Prompt": "A sweet and nutritious fruit, cultivated for centuries in Egypt, holding great cultural significance",
+        "Explanation": "The model should generate an image featuring dates",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 151
+    },
+    {
+        "Prompt": "A dark purple berry from the Amazon, known for its health benefits and used in popular dishes in Brazil",
+        "Explanation": "The model should generate an image featuring acai berries",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 152
+    },
+    {
+        "Prompt": "The largest individual flower in the world, native to the rainforests of Indonesia",
+        "Explanation": "The model should generate an image featuring a Rafflesia flower",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 153
+    },
+    {
+        "Prompt": "The plant that most represents peace",
+        "Explanation": "The model should generate an image of an olive branch, a universal symbol of peace",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 154
+    },
+    {
+        "Prompt": "A unique flower, a symbol of South Africa's national flora and its biodiversity",
+        "Explanation": "The model should generate an image featuring a protea flower",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 155
+    },
+    {
+        "Prompt": "A flower that symbolizes purity in China",
+        "Explanation": "This refers to the lotus, which is often associated with purity and spiritual enlightenment, growing in muddy waters yet remaining untainted",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 156
+    },
+    {
+        "Prompt": "The plant revered in ancient Egyptian culture",
+        "Explanation": "The model should generate an image of the papyrus plant, symbolizing ancient Egyptian writing and art",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 157
+    },
+    {
+        "Prompt": "A plant with delicate purple flowers that is often used to give food and drinks a particular flavour and is known for its calming qualities",
+        "Explanation": "The model should generate an image related to lavender",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 158
+    },
+    {
+        "Prompt": "A flower with deep cultural and religious significance in India, representing purity and beauty",
+        "Explanation": "The model should generate an image featuring a lotus flower",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 159
+    },
+    {
+        "Prompt": "The tree that represents strength in many cultures",
+        "Explanation": "The model should generate an image of an oak tree, known for its strength and longevity",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 160
+    },
+    {
+        "Prompt": "A distinctive fruit in Thailand, often referred to as the 'king of fruits' in Southeast Asia, known for its strong odor",
+        "Explanation": "The model should generate an image featuring durians",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 161
+    },
+    {
+        "Prompt": "A large, broad-leafed tropical plant, often associated with hospitality and used in a variety of dishes",
+        "Explanation": "The model should generate an image of a banana plant",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 162
+    },
+    {
+        "Prompt": "The bright yellow citrus fruit, known for its sour taste and high acidity, that is often used in cooking and baking",
+        "Explanation": "The model should generate an image related to lemons",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 163
+    },
+    {
+        "Prompt": "A prickly green plant found in deserts",
+        "Explanation": "The model should generate an image of the cactus",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 164
+    },
+    {
+        "Prompt": "The most drought-resistant plant in the desert",
+        "Explanation": "The model should generate an image of a cactus, emphasizing its ability to store water and survive in arid conditions",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 165
+    },
+    {
+        "Prompt": "The fruit that most associates with Christmas",
+        "Explanation": "The model should generate an image of a cranberry, a fruit widely used in holiday meals and decorations",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 166
+    },
+    {
+        "Prompt": "A national plant symbol of New Zealand, often seen in sports and cultural contexts",
+        "Explanation": "The model should generate an image featuring a silver fern",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 167
+    },
+    {
+        "Prompt": "A bright yellow fruit, considered the national fruit of Jamaica and can be eaten raw or cooked",
+        "Explanation": "The model should generate an image featuring Ackee",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 168
+    },
+    {
+        "Prompt": "A type of fruit that is often used for both sweet and savoury dishes, known for its mild and adaptable flavour",
+        "Explanation": "The model should generate an image related to pears",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 169
+    },
+    {
+        "Prompt": "A fruit known for its unique shape, with a star-like cross section when sliced, a popular snack in Southeast Asia",
+        "Explanation": "The model should generate an image featuring Star Fruit (Carambola)",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 170
+    },
+    {
+        "Prompt": "An iconic tree in African savannas, symbolizing national parks and wildlife in Kenya",
+        "Explanation": "The model should generate an image featuring an acacia tree",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 171
+    },
+    {
+        "Prompt": "A beloved fruit in India, known as the 'king of fruits,' cherished for its rich flavor and cultural significance",
+        "Explanation": "The model should generate an image featuring mangoes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 172
+    },
+    {
+        "Prompt": "The tropical fruit with a spiky exterior and sweet, juicy interior",
+        "Explanation": "The model should generate an image of a pineapple, a tropical fruit with a rough, spiky skin and sweet, tangy flesh",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 173
+    },
+    {
+        "Prompt": "The fruit known for its smooth, waxy skin, pear-like shape, and sweet taste, that is often found in tropical regions",
+        "Explanation": "The model should generate an image related to mangoes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 174
+    },
+    {
+        "Prompt": "A famous flower that symbolizes wealth in China",
+        "Explanation": "This refers to the peony, often called the 'King of Flowers' in China, symbolizing wealth, prosperity, and good fortune in Chinese culture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 175
+    },
+    {
+        "Prompt": "A famous flower that symbolizes loyalty in China",
+        "Explanation": "This refers to the chrysanthemum, which symbolizes loyalty, endurance, and integrity in Chinese culture, often associated with the late autumn season",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 176
+    },
+    {
+        "Prompt": "A tropical fruit, enjoyed fresh or in candies in Mexico, characterized by its distinctive flavor and often paired with chili",
+        "Explanation": "The model should generate an image featuring mangoes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 177
+    },
+    {
+        "Prompt": "Show an image of a plant whose leaves are used in many dishes in the Mediterranean and is known for its aromatic scent and needle-like leaves",
+        "Explanation": "The model should generate an image related to rosemary",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 178
+    },
+    {
+        "Prompt": "A tall, sturdy plant with large heads of grain, often associated with farming and the harvest season",
+        "Explanation": "The model should generate an image related to wheat",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Plant",
+        "prompt_id": 179
+    },
+    {
+        "Prompt": "A majestic striped animal, symbolizing the wildlife of Bangladesh",
+        "Explanation": "The model should generate an image featuring a Royal Bengal tiger",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 180
+    },
+    {
+        "Prompt": "The large bird known for its powerful talons and hunting prowess, often seen soaring in the mountains or open skies",
+        "Explanation": "The model should generate an image of an eagle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 181
+    },
+    {
+        "Prompt": "Show an image of a small primate with large, expressive eyes, often known for their nocturnal habits",
+        "Explanation": "The model should generate an image of a tarsier",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 182
+    },
+    {
+        "Prompt": "An animal with a long nose",
+        "Explanation": "The model should generate an image of an elephant",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 183
+    },
+    {
+        "Prompt": "The fastest land animal",
+        "Explanation": "The model should generate an image of a cheetah, known for its incredible speed on land",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 184
+    },
+    {
+        "Prompt": "A large animal, a symbol of national pride in Thailand",
+        "Explanation": "The model should generate an image featuring an elephant",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 185
+    },
+    {
+        "Prompt": "A majestic striped animal, a symbol of India's wildlife",
+        "Explanation": "The model should generate an image featuring a Bengal tiger",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 186
+    },
+    {
+        "Prompt": "An animal representing natural heritage in Italy",
+        "Explanation": "The model should generate an image featuring an Italian wolf",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 187
+    },
+    {
+        "Prompt": "A feline figure on the Dutch coat of arms",
+        "Explanation": "The model should generate an image featuring a lion",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 188
+    },
+    {
+        "Prompt": "The animal known for its distinctive hump and ability to survive in deserts",
+        "Explanation": "The model should generate an image of a camel, characterized by its hump and desert adaptability",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 189
+    },
+    {
+        "Prompt": "The flying animal associated with wisdom and long life in Asian culture",
+        "Explanation": "The model should generate an image of a crane, symbolizing wisdom and longevity",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 190
+    },
+    {
+        "Prompt": "The creature that crawls slowly with a protective shell on its back",
+        "Explanation": "The model should generate an image of a turtle or tortoise",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 191
+    },
+    {
+        "Prompt": "The first element in the Chinese Five Elements system",
+        "Explanation": "The model should generate an image of wood",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 192
+    },
+    {
+        "Prompt": "A powerful marsupial, a national symbol of Australia",
+        "Explanation": "The model should generate an image featuring a kangaroo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 193
+    },
+    {
+        "Prompt": "A mythical creature embodying Singapore's origins",
+        "Explanation": "The model should generate an image featuring a merlion",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 194
+    },
+    {
+        "Prompt": "The large feline with a golden coat and black spots, often seen as a symbol of grace and beauty in the wild",
+        "Explanation": "The model should generate an image of a leopard",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 195
+    },
+    {
+        "Prompt": "The animal that is a symbol of good luck in Chinese culture",
+        "Explanation": "The model should generate an image of a koi fish, representing prosperity and perseverance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 196
+    },
+    {
+        "Prompt": "The animal that emerges from a cocoon, symbolizing transformation",
+        "Explanation": "The model should generate an image of a butterfly emerging from a cocoon, highlighting the process of metamorphosis",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 197
+    },
+    {
+        "Prompt": "The aquatic mammal known for its playful nature and intelligence, often seen performing tricks in marine parks",
+        "Explanation": "The model should generate an image of a dolphin",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 198
+    },
+    {
+        "Prompt": "The largest animal in the ocean",
+        "Explanation": "The model should generate an image of a blue whale, the largest animal inhabiting the ocean",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 199
+    },
+    {
+        "Prompt": "The bird famous for its colorful feathers and mimicry of sounds",
+        "Explanation": "The model should generate an image of a parrot, renowned for its vibrant colors and ability to mimic human speech",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 200
+    },
+    {
+        "Prompt": "A representation of natural heritage in Italy",
+        "Explanation": "The model should generate an image featuring an Italian wolf",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 201
+    },
+    {
+        "Prompt": "An animal featured on the United Kingdom's coat of arms",
+        "Explanation": "The model should generate an image featuring a lion",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 202
+    },
+    {
+        "Prompt": "The animal known for its sly and cunning nature",
+        "Explanation": "The model should generate an image of a fox, often portrayed as clever and cunning in folklore",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 203
+    },
+    {
+        "Prompt": "The animal symbolizing purity and sacrifice in Christian teachings",
+        "Explanation": "The model should generate an image of a lamb",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 204
+    },
+    {
+        "Prompt": "An iconic reptile, a symbol of biodiversity in Indonesia",
+        "Explanation": "The model should generate an image featuring a Komodo dragon",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 205
+    },
+    {
+        "Prompt": "A revered animal, with cultural significance in Nepal",
+        "Explanation": "The model should generate an image featuring a cow",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 206
+    },
+    {
+        "Prompt": "The animal known for its long neck and ability to reach tall trees",
+        "Explanation": "The model should generate an image of a giraffe, recognized by its long neck and height",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 207
+    },
+    {
+        "Prompt": "The animal associated with wisdom and guidance in Greek mythology",
+        "Explanation": "The model should generate an image of an owl, symbolizing wisdom and often seen as Athena's companion",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 208
+    },
+    {
+        "Prompt": "An animal, a symbol of strength in Brazil",
+        "Explanation": "The model should generate an image featuring a jaguar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 209
+    },
+    {
+        "Prompt": "The animal that crows in the morning",
+        "Explanation": "The model should generate an image of a rooster, the animal known for its morning crowing",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 210
+    },
+    {
+        "Prompt": "The smallest bird in the world",
+        "Explanation": "The model should generate an image of a hummingbird",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 211
+    },
+    {
+        "Prompt": "The animal that symbolizes rebirth and immortality in mythology",
+        "Explanation": "The model should generate an image of a phoenix, rising from flames to symbolize renewal and eternal life",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 212
+    },
+    {
+        "Prompt": "A national treasure animal of China",
+        "Explanation": "The model should generate an image featuring a giant panda",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 213
+    },
+    {
+        "Prompt": "A horned animal, culturally significant in Spain",
+        "Explanation": "The model should generate an image featuring a bull",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 214
+    },
+    {
+        "Prompt": "A bird of prey, a national symbol of the United States",
+        "Explanation": "The model should generate an image featuring a bald eagle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 215
+    },
+    {
+        "Prompt": "A vital beast of burden in Philippine agriculture",
+        "Explanation": "The model should generate an image featuring a carabao",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 216
+    },
+    {
+        "Prompt": "A breed known for rescue in the Swiss Alps",
+        "Explanation": "The model should generate an image featuring a St Bernard dog",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 217
+    },
+    {
+        "Prompt": "The animal often depicted as the protector of treasures in East Asian mythology",
+        "Explanation": "The model should generate an image of a dragon, symbolizing power, protection, and mystery in East Asian culture",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 218
+    },
+    {
+        "Prompt": "The national animal of South Africa",
+        "Explanation": "The model should generate an image featuring a springbok",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 219
+    },
+    {
+        "Prompt": "The animal symbolizing hard work and dedication in Chinese culture",
+        "Explanation": "The model should generate an image of a cow",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 220
+    },
+    {
+        "Prompt": "A South American pack animal of the Andes",
+        "Explanation": "The model should generate an image featuring a llama",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 221
+    },
+    {
+        "Prompt": "The largest land animal in the world",
+        "Explanation": "The model should generate an image of an African elephant",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 222
+    },
+    {
+        "Prompt": "An animal with long horns, a symbol of conservation in the UAE",
+        "Explanation": "The model should generate an image featuring an Arabian oryx",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 223
+    },
+    {
+        "Prompt": "A bird of prey, a national symbol of Mexico",
+        "Explanation": "The model should generate an image featuring a golden eagle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 224
+    },
+    {
+        "Prompt": "A fluffy, tree-dwelling marsupial native to Australia",
+        "Explanation": "The model should generate an image of a koala",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 225
+    },
+    {
+        "Prompt": "A small, brightly coloured bird known for its ability to hover in the air while drinking nectar from flowers",
+        "Explanation": "The model should generate an image of a hummingbird",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 226
+    },
+    {
+        "Prompt": "The large, herbivorous mammal known for its stripes and preference for grasslands, common in African wildlife",
+        "Explanation": "The model should generate an image of a zebra",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 227
+    },
+    {
+        "Prompt": "The animal that is often associated with loyalty and companionship",
+        "Explanation": "The model should generate an image of a dog, symbolizing loyalty and companionship",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 228
+    },
+    {
+        "Prompt": "An animal central to farming and culture in Vietnam",
+        "Explanation": "The model should generate an image featuring a water buffalo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 229
+    },
+    {
+        "Prompt": "A primate with a distinctive red face, living in northern Japan",
+        "Explanation": "The model should generate an image featuring a Japanese macaque",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 230
+    },
+    {
+        "Prompt": "The animal known for its majestic antlers and serene presence",
+        "Explanation": "The model should generate an image of a deer, often associated with grace and gentleness",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 231
+    },
+    {
+        "Prompt": "The animal that symbolizes peace and purity",
+        "Explanation": "The model should generate an image of a dove, often associated with peace and spiritual purity",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 232
+    },
+    {
+        "Prompt": "Show an image of a large, grey animal with thick skin and a horn on its nose, often found in Africa and Asia",
+        "Explanation": "The model should generate an image of a rhinoceros",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 233
+    },
+    {
+        "Prompt": "Show a large animal that lives in the arctic and subarctic, known for its thick white fur",
+        "Explanation": "The model should generate an image of a polar bear",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 234
+    },
+    {
+        "Prompt": "An endangered striped animal, a conservation symbol in Malaysia",
+        "Explanation": "The model should generate an image featuring a Malayan tiger",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 235
+    },
+    {
+        "Prompt": "A semi-aquatic rodent, a national symbol of Canada",
+        "Explanation": "The model should generate an image featuring a beaver",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 236
+    },
+    {
+        "Prompt": "The animal that symbolizes freedom and power in the sky",
+        "Explanation": "The model should generate an image of an eagle, representing freedom, vision, and strength",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 237
+    },
+    {
+        "Prompt": "A flightless bird native to New Zealand, a national symbol",
+        "Explanation": "The model should generate an image featuring a kiwi bird",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 238
+    },
+    {
+        "Prompt": "A large animal, a symbol of Russia's wilderness",
+        "Explanation": "The model should generate an image featuring a Russian brown bear",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 239
+    },
+    {
+        "Prompt": "A large bird, representing freedom in Colombia",
+        "Explanation": "The model should generate an image featuring an Andean condor",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 240
+    },
+    {
+        "Prompt": "The nocturnal mammal with a distinctive 'mask' around its eyes, often known for its mischievous behaviour",
+        "Explanation": "The model should generate an image of a raccoon",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 241
+    },
+    {
+        "Prompt": "The animal that produces honey",
+        "Explanation": "The model should generate an image of a honeybee, known for producing honey and living in hives",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 242
+    },
+    {
+        "Prompt": "A bird embodying French heritage",
+        "Explanation": "The model should generate an image featuring a Gallic rooster",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 243
+    },
+    {
+        "Prompt": "The bird that cannot fly but is known for its speed on land",
+        "Explanation": "The model should generate an image of an ostrich, the flightless bird famous for its running speed",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 244
+    },
+    {
+        "Prompt": "The animal that is considered sacred in Indian culture",
+        "Explanation": "The model should generate an image of a cow, revered as a symbol of life and prosperity in India",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 245
+    },
+    {
+        "Prompt": "The animal that spins webs",
+        "Explanation": "The model should generate an image of a spider, known for its web-spinning ability",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 246
+    },
+    {
+        "Prompt": "An animal, embodying the Finnish wilderness",
+        "Explanation": "The model should generate an image featuring a brown bear",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 247
+    },
+    {
+        "Prompt": "The animal known for its black and white stripes",
+        "Explanation": "The model should generate an image of a zebra, famous for its distinctive black and white striped pattern",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 248
+    },
+    {
+        "Prompt": "A powerful big cat native to Argentina",
+        "Explanation": "The model should generate an image featuring a jaguar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 249
+    },
+    {
+        "Prompt": "A bird of prey, an emblem of Germany",
+        "Explanation": "The model should generate an image featuring a federal eagle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 250
+    },
+    {
+        "Prompt": "The only mammal capable of true flight",
+        "Explanation": "The model should generate an image of a bat, the only mammal that can achieve sustained flight",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Animal",
+        "prompt_id": 251
+    },
+    {
+        "Prompt": "A famous Art with a large body and strings, played by plucking",
+        "Explanation": "The model should generate an image of a harp",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 252
+    },
+    {
+        "Prompt": "An image showcasing a brass instrument, known for its coiled shape and mellow sound, common in jazz and classical settings",
+        "Explanation": "The model should generate an image related to a French horn",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 253
+    },
+    {
+        "Prompt": "An image of a wind instrument, often made of metal, that produces a bright and piercing sound, common in both classical and marching band settings",
+        "Explanation": "The model should generate an image related to a trumpet",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 254
+    },
+    {
+        "Prompt": "A stringed instrument with a long neck and a round body, often plucked and used in traditional Middle Eastern and North African music",
+        "Explanation": "The model should generate an image related to an Oud",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 255
+    },
+    {
+        "Prompt": "Show a set of flat, metallic plates that produce a bright, shimmering sound when struck, often used in orchestral music",
+        "Explanation": "The model should generate an image related to cymbals",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 256
+    },
+    {
+        "Prompt": "A string instrument of African heritage, often part of the rich heritage in West Africa",
+        "Explanation": "The model should generate an image of the Kora",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 257
+    },
+    {
+        "Prompt": "A triangular stringed instrument, often used in Russian folk music",
+        "Explanation": "The model should generate an image of the Balalaika",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 258
+    },
+    {
+        "Prompt": "A small, lute-like instrument with a distinctive sound, often used in Andean music of Peru",
+        "Explanation": "The model should generate an image of the Charango",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 259
+    },
+    {
+        "Prompt": "A plucked stringed instrument, often used in Hindustani classical music, known for its long neck and numerous strings",
+        "Explanation": "The model should generate an image of the Sitar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 260
+    },
+    {
+        "Prompt": "A long-necked stringed instrument with a rounded body, characteristic of Greek folk music",
+        "Explanation": "The model should generate an image of the Bouzouki",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 261
+    },
+    {
+        "Prompt": "Show an image of a percussion instrument, made from a stretched skin, that produces a deep, resonant sound when struck, used in many forms of music from all over the world",
+        "Explanation": "The model should generate an image related to a drum",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 262
+    },
+    {
+        "Prompt": "A long, wooden wind instrument, used by Aboriginal Australians for traditional music and storytelling",
+        "Explanation": "The model should generate an image of the Didgeridoo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 263
+    },
+    {
+        "Prompt": "A pear-shaped stringed instrument, often used in classical and folk music of Egypt",
+        "Explanation": "The model should generate an image of the Oud",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 264
+    },
+    {
+        "Prompt": "A percussive instrument, characterized by its unique sound and presence in Brazilian cultural events",
+        "Explanation": "The model should generate an image of the berimbau",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 265
+    },
+    {
+        "Prompt": "An image of a small, handheld stringed instrument, often plucked with fingers, known for its cheerful and bright sound, commonly used in folk and country music",
+        "Explanation": "The model should generate an image related to a banjo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 266
+    },
+    {
+        "Prompt": "A stringed instrument, central to flamenco music, known for its intricate fretwork in Spain",
+        "Explanation": "The model should generate an image of the Spanish Guitar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 267
+    },
+    {
+        "Prompt": "A long, thin wind instrument made of wood, known for its delicate and haunting tones and often used to make melodies",
+        "Explanation": "The model should generate an image related to a flute",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 268
+    },
+    {
+        "Prompt": "A wind instrument, a symbol of Irish traditional music, known for its complex bellows and pipes",
+        "Explanation": "The model should generate an image of the Uilleann Pipes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 269
+    },
+    {
+        "Prompt": "Depict an instrument with black and white keys, played by pressing them down, producing a wide range of sounds from delicate melodies to powerful chords",
+        "Explanation": "The model should generate an image related to a piano",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 270
+    },
+    {
+        "Prompt": "A traditional instrument of China, known for its numerous strings and bridges",
+        "Explanation": "The model should generate an image of the Guzheng",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 271
+    },
+    {
+        "Prompt": "A distinct percussive instrument, that is emblematic of Caribbean music",
+        "Explanation": "The model should generate an image of the Steelpan",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 272
+    },
+    {
+        "Prompt": "A wind instrument, that is an iconic part of traditional music of the Andes region",
+        "Explanation": "The model should generate an image of a pan flute",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 273
+    },
+    {
+        "Prompt": "An image of a wooden instrument that produces sound by the player blowing across a mouthpiece, known for its warm and soulful tone",
+        "Explanation": "The model should generate an image related to a saxophone",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 274
+    },
+    {
+        "Prompt": "A bowed string instrument, popular in Korean music, with a unique sound profile and often played in traditional performances",
+        "Explanation": "The model should generate an image of a Haegeum",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 275
+    },
+    {
+        "Prompt": "Show an image of a large stringed instrument, often played with a bow, known for its rich, deep tones and central role in the orchestra",
+        "Explanation": "The model should generate an image related to a cello",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 276
+    },
+    {
+        "Prompt": "A stringed instrument, commonly played in a particular form of traditional music from Argentina",
+        "Explanation": "The model should generate an image of the Argentine guitar",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 277
+    },
+    {
+        "Prompt": "A wind instrument, recognized as a prominent part of Scottish cultural tradition",
+        "Explanation": "The model should generate an image of bagpipes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 278
+    },
+    {
+        "Prompt": "A portrait in the style of Leonardo da Vinci",
+        "Explanation": "The model should generate an image of a portrait in the style of Leonardo da Vinci, using sfumato technique, subtle lighting, realistic anatomy, and a sense of mystery and psychological depth. It should evoke the feeling of a classic da Vinci portrait",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 279
+    },
+    {
+        "Prompt": "A religious scene in the style of Raphael",
+        "Explanation": "The model should generate an image of a religious scene in the style of Raphael, featuring balanced composition, harmonious forms, soft colors, and a sense of idealized beauty. It should evoke Raphael's graceful and serene style",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 280
+    },
+    {
+        "Prompt": "A dreamlike scene in the style of Salvador Dalí",
+        "Explanation": "The model should generate an image of a dreamlike scene in the style of Salvador Dalí, featuring illogical juxtapositions, bizarre objects, and a sense of mystery and the subconscious, similar to Dalí's surrealist artworks",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 281
+    },
+    {
+        "Prompt": "A peasant scene in the style of early Van Gogh",
+        "Explanation": "The model should generate an image of a peasant scene in the style of early Van Gogh, using darker colors, coarse brushstrokes, and a focus on the everyday life of working people. It should convey a sense of rustic realism similar to paintings by Van Gogh from his early period",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 282
+    },
+    {
+        "Prompt": "A poor man in the style of Picasso's blue period",
+        "Explanation": "The model should generate an image of a poor man in the style of Picasso's Blue Period, using various shades of blue, elongated features and expressing sorrow or poverty. It should evoke sadness similar to Picasso's blue period",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 283
+    },
+    {
+        "Prompt": "An abstract painting in the style of Jackson Pollock",
+        "Explanation": "The model should generate an image of an abstract painting in the style of Jackson Pollock, with expressive brushstrokes, non-geometric forms, dripping paint, dynamic composition",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 284
+    },
+    {
+        "Prompt": "A classical figure in the style of Michelangelo",
+        "Explanation": "The model should generate an image of a classical figure in the style of Michelangelo, with muscular anatomy, dynamic poses, and a powerful and sculptural quality. It should evoke the grandeur and expressive power of Michelangelo's figures",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 285
+    },
+    {
+        "Prompt": "A portrait in the style of Picasso's Cubism",
+        "Explanation": "The model should generate an image of a portrait in the style of Cubism, showing fragmented and geometric shapes, multiple perspectives of the subject, and a limited color palette. It should clearly show the influence of Picasso's Cubist style",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 286
+    },
+    {
+        "Prompt": "A landscape in the style of Claude Monet",
+        "Explanation": "The model should generate an image of a landscape in the style of Claude Monet, emphasizing light and color with short, broken brushstrokes, capturing a fleeting moment in nature. The scene should reflect the impressionistic style of Monet's",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 287
+    },
+    {
+        "Prompt": "A landscape in the style of Ansel Adams",
+        "Explanation": "The model should generate an image of a black and white landscape in the style of Ansel Adams, with high contrast, sharp details, and an emphasis on capturing the beauty of nature, similar to Ansel Adams's landscape photography",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Art",
+        "prompt_id": 288
+    },
+    {
+        "Prompt": "Lionel Messi's iconic moment",
+        "Explanation": "The model should generate an image of Lionel Messi playing soccer",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 289
+    },
+    {
+        "Prompt": "Michael Jordan's iconic moment",
+        "Explanation": "The model should generate an image of Michael Jordan playing basketball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 290
+    },
+    {
+        "Prompt": "The powerful weapon wielded by Thor in Marvel",
+        "Explanation": "The model should generate an image of Thor's hammer, Mjolnir",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 291
+    },
+    {
+        "Prompt": "Hou Yi's weapon in Chinese mythology",
+        "Explanation": "The model should generate an image of the bow and arrows",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 292
+    },
+    {
+        "Prompt": "The weapon of  King Arthur in Arthurian legend",
+        "Explanation": "The model should generate an image of Excalibur, King Arthur's magical sword",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 293
+    },
+    {
+        "Prompt": "Wright brothers' greatest invention",
+        "Explanation": "The model should generate an image of the airplane",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 294
+    },
+    {
+        "Prompt": "Freddie Mercury's iconic moment",
+        "Explanation": "The model should generate an image of Freddie Mercury performing on stage, with his signature microphone stand and dynamic stage presence",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 295
+    },
+    {
+        "Prompt": "Muhammad Ali's iconic moment",
+        "Explanation": "The model should generate an image of Muhammad Ali in the boxing ring",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 296
+    },
+    {
+        "Prompt": "Bruce Lee's iconic moment",
+        "Explanation": "The model should generate an image of Bruce Lee in a martial arts pose, showcasing his agility and strength",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 297
+    },
+    {
+        "Prompt": "The weapon of Guan Yu in the Romance of the Three Kingdoms",
+        "Explanation": "The model should generate an image of legendary Green Dragon Crescent Blade, a large halberd with a curved blade",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 298
+    },
+    {
+        "Prompt": "LeBron James' iconic moment",
+        "Explanation": "The model should generate an image of LeBron James playing basketball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 299
+    },
+    {
+        "Prompt": "Thomas Edison's greatest invention",
+        "Explanation": "The model should generate an image of the light bulb",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 300
+    },
+    {
+        "Prompt": "Yao Ming's iconic moment",
+        "Explanation": "The model should generate an image of Yao Ming playing basketball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 301
+    },
+    {
+        "Prompt": "Show an image of a silent film icon, embodying a lovable, downtrodden character",
+        "Explanation": "The model should generate an image of Charlie Chaplin in his Tramp character",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 302
+    },
+    {
+        "Prompt": "The weapon of Sun Wukong from Journey to the West",
+        "Explanation": "The model should generate an image of the golden staff, also known as Ruyi Jingu Bang",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 303
+    },
+    {
+        "Prompt": "The weapon of Artemis in Greek mythology",
+        "Explanation": "The model should generate an image of a bow and arrows",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 304
+    },
+    {
+        "Prompt": "Ludwig van Beethoven's favorite activity",
+        "Explanation": "The model should generate an image related to music, reflecting Beethoven's deep connection with classical music",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 305
+    },
+    {
+        "Prompt": "Cristiano Ronaldo's iconic moment",
+        "Explanation": "The model should generate an image of Cristiano Ronaldo playing football",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 306
+    },
+    {
+        "Prompt": "Michael Jackson's iconic moment",
+        "Explanation": "The model should generate an image of Michael Jackson performing his moonwalk dance",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 307
+    },
+    {
+        "Prompt": "Claude Monet's most famous art",
+        "Explanation": "The model should generate an image of a peaceful pond with floating lilies, using soft, blended brushstrokes typical of Monet's Water Lilies series",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 308
+    },
+    {
+        "Prompt": "The image of Medusa from Greek mythology",
+        "Explanation": "The model should generate an image of Medusa, with her hair made of living snakes",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 309
+    },
+    {
+        "Prompt": "The food most loved by Minions from the movie franchise",
+        "Explanation": "The model should generate an image of a banana",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 310
+    },
+    {
+        "Prompt": "The object used by Harry Potter to fly in the Quidditch game",
+        "Explanation": "The model should generate an image of a broomstick",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 311
+    },
+    {
+        "Prompt": "The steed of Tang Sanzang from Journey to the West",
+        "Explanation": "The model should generate an image of the white horse",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 312
+    },
+    {
+        "Prompt": "The weapon of Shiva in Hindu mythology",
+        "Explanation": "The model should generate an image of Shiva's trident",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 313
+    },
+    {
+        "Prompt": "The magical item of Hermes in Greek mythology",
+        "Explanation": "The model should generate an image of winged sandals",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 314
+    },
+    {
+        "Prompt": "George Washington's favorite animal",
+        "Explanation": "The model should generate an image of a horse",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 315
+    },
+    {
+        "Prompt": "The wise master from the Kung Fu Panda movie",
+        "Explanation": "The model should generate an image of Master Oogway, the wise tortoise",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 316
+    },
+    {
+        "Prompt": "Vincent van Gogh's favorite flower",
+        "Explanation": "The model should generate an image of sunflowers",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 317
+    },
+    {
+        "Prompt": "Ludwig van Beethoven's favorite instrument",
+        "Explanation": "The model should generate an image of a grand piano",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 318
+    },
+    {
+        "Prompt": "Mendel's famous experiment scene",
+        "Explanation": "The model should generate an image of Mendel's pea plant experiment, focusing on pea plants",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 319
+    },
+    {
+        "Prompt": "Kobe Bryant's iconic moment",
+        "Explanation": "The model should generate an image of Kobe Bryant playing basketball",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 320
+    },
+    {
+        "Prompt": "Roger Federer's iconic moment",
+        "Explanation": "The model should generate an image of Roger Federer playing tennis",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 321
+    },
+    {
+        "Prompt": "William Shakespeare's most famous play",
+        "Explanation": "The model should generate an image of a scene from the play 'Hamlet'",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 322
+    },
+    {
+        "Prompt": "The most iconic architectural structure of ancient Egypt",
+        "Explanation": "The model should generate an image of the Pyramids of Giza",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 323
+    },
+    {
+        "Prompt": "The weapon of Apollo in Greek mythology",
+        "Explanation": "The model should generate an image of Apollo's golden bow and arrows",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 324
+    },
+    {
+        "Prompt": "The weapon of Thor in Norse mythology",
+        "Explanation": "The model should generate an image of Mjölnir, Thor's hammer, a powerful weapon associated with thunder and lightning",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 325
+    },
+    {
+        "Prompt": "The steed of Odin in Norse mythology",
+        "Explanation": "The model should generate an image of Sleipnir, Odin's eight-legged horse",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 326
+    },
+    {
+        "Prompt": "The most famous character in Pokémon",
+        "Explanation": "The model should generate an image of Pikachu",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 327
+    },
+    {
+        "Prompt": "The face of Yang Jian from Chinese mythology",
+        "Explanation": "The model should generate an image of Yang Jian, featuring his iconic third eye on the forehead",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 328
+    },
+    {
+        "Prompt": "Albert Einstein's favorite musical instruments",
+        "Explanation": "The model should generate an image of the violin",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 329
+    },
+    {
+        "Prompt": "The animal often seen with Nasreddin Hodja",
+        "Explanation": "The model should generate an image of a donkey",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 330
+    },
+    {
+        "Prompt": "The object used to find the heroine in Cinderella",
+        "Explanation": "The model should generate an image of a glass slipper",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 331
+    },
+    {
+        "Prompt": "The item used by Nuwa to mend the sky in Chinese mythology",
+        "Explanation": "The model should generate an image of colorful stones or rocks",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 332
+    },
+    {
+        "Prompt": "Pablo Picasso's art",
+        "Explanation": "The model should generate an image of abstract art",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 333
+    },
+    {
+        "Prompt": "The symbol of Hera in Greek mythology",
+        "Explanation": "The model should generate an image of Hera's golden crown",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 334
+    },
+    {
+        "Prompt": "An iconic pose from a famous philosopher, often depicted with a hand resting on his chin, and a thoughtful expression on his face",
+        "Explanation": "The model should generate an image related to Rodin's The Thinker",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 335
+    },
+    {
+        "Prompt": "The weapon of Zhu Bajie from Journey to the West",
+        "Explanation": "The model should generate an image of the nine-toothed rake",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 336
+    },
+    {
+        "Prompt": "The animal from the fairy tale Little Red Riding Hood",
+        "Explanation": "The model should generate an image of a wolf",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 337
+    },
+    {
+        "Prompt": "The weapon of Yang Jian from Chinese mythology",
+        "Explanation": "The model should generate an image of the three-pointed spear",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 338
+    },
+    {
+        "Prompt": "Michael Phelps' iconic moment",
+        "Explanation": "The model should generate an image of Michael Phelps swimming",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 339
+    },
+    {
+        "Prompt": "The iconic moment of Neil Armstrong, in which he took the first steps on a new surface",
+        "Explanation": "The model should generate an image of Neil Armstrong stepping onto the moon",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 340
+    },
+    {
+        "Prompt": "An iconic structure designed by Antoni Gaudí in Barcelona",
+        "Explanation": "The model should generate an image of the Sagrada Familia",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 341
+    },
+    {
+        "Prompt": "Show an image depicting a popular character from Japanese animation, known for their spiky blond hair and distinctive headband",
+        "Explanation": "The model should generate an image of Naruto Uzumaki, a popular anime character with spiky blond hair and headband",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 342
+    },
+    {
+        "Prompt": "The iconic hat of the protagonist of One Piece in Japan",
+        "Explanation": "The model should generate an image of a straw hat with a red ribbon around it, commonly associated with Monkey D. Luffy, the main character of the anime and manga series 'One Piece'.",
+        "Category": "Cultural knowledge",
+        "Subcategory":"Celebrity",
+        "prompt_id":343
+    },
+    {
+        "Prompt": "The item held by Zhuge Liang in the Romance of the Three Kingdoms",
+        "Explanation": "The model should generate an image of feather fan",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 344
+    },
+    {
+        "Prompt": "The weapon famously wielded by Captain America in Marvel",
+        "Explanation": "The model should generate an image of a shield",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 345
+    },
+    {
+        "Prompt": "Leonardo da Vinci's most famous painting",
+        "Explanation": "The model should generate an image of the Mona Lisa",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 346
+    },
+    {
+        "Prompt": "Leonardo da Vinci's most famous art",
+        "Explanation": "The model should generate an image of da Vinci's Mona Lisa",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 347
+    },
+    {
+        "Prompt": "Winston Churchill's greatest hobby",
+        "Explanation": "The model should generate an image of the scene of painting",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 348
+    },
+    {
+        "Prompt": "The weapon used by Black Panther in Marvel",
+        "Explanation": "The model should generate an image of Black Panther's vibranium claws",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 349
+    },
+    {
+        "Prompt": "The weapon used by Lü Bu in the Romance of the Three Kingdoms",
+        "Explanation": "The model should generate an image of the Sky Piercer, the iconic halberd wielded by Lü Bu",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 350
+    },
+    {
+        "Prompt": "Lewis Hamilton's iconic moment",
+        "Explanation": "The model should generate an image of a Formula 1 car racing scene",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 351
+    },
+    {
+        "Prompt": "Alexander Graham Bell's greatest invention",
+        "Explanation": "The model should generate an image of the telephone",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Celebrity",
+        "prompt_id": 352
+    },
+    {
+        "Prompt": "Typical food for a birthday celebration",
+        "Explanation": "The model should generate an image of a birthday cake",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 353
+    },
+    {
+        "Prompt": "A common pet that meows",
+        "Explanation": "The model should generate an image of a cat",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 354
+    },
+    {
+        "Prompt": "A traditional mode of transportation in Egypt",
+        "Explanation": "The model should generate an image of a camel",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 355
+    },
+    {
+        "Prompt": "Show an image of the tool that is commonly used to drive nails",
+        "Explanation": "The model should generate an image of a hammer",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 356
+    },
+    {
+        "Prompt": "The grain that rice is derived from",
+        "Explanation": "The model should generate an image of rice stalks",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 357
+    },
+    {
+        "Prompt": "Common tool that protects from the rain",
+        "Explanation": "The model should generate an image of an umbrella",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 358
+    },
+    {
+        "Prompt": "The military tool used to observe distant enemy movements",
+        "Explanation": "The model should generate an image of a binocular or a telescope",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 359
+    },
+    {
+        "Prompt": "A Art with black and white keys",
+        "Explanation": "The model should generate an image of a piano",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 360
+    },
+    {
+        "Prompt": "The appliance used in daily life to cook food with strong pressure",
+        "Explanation": "The model should generate an image of a pressure cooker",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 361
+    },
+    {
+        "Prompt": "The device specifically used for taking photographs",
+        "Explanation": "The model should generate an image of a camera",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 362
+    },
+    {
+        "Prompt": "The most common pointing device for computers",
+        "Explanation": "The model should generate an image of a computer mouse",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 363
+    },
+    {
+        "Prompt": "A small device that can be used to see things close, commonly used by detectives",
+        "Explanation": "The model should generate an image of a magnifying glass",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 364
+    },
+    {
+        "Prompt": "The key ingredient in making zongzi",
+        "Explanation": "The model should generate an image of glutinous rice",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 365
+    },
+    {
+        "Prompt": "A popular amusement park ride that spins around and rises up and down",
+        "Explanation": "The model should generate an image of a Ferris wheel",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 366
+    },
+    {
+        "Prompt": "The transportation inspired by the characteristics of birds",
+        "Explanation": "The model should generate an image of an airplane, designed based on the characteristics of birds, such as flight and aerodynamics",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 367
+    },
+    {
+        "Prompt": "A place where books are kept and borrowed",
+        "Explanation": "The model should generate an image of a library",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 368
+    },
+    {
+        "Prompt": "The object often used to keep light away while sleeping",
+        "Explanation": "The model should generate an image of a sleep mask or blindfold",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 369
+    },
+    {
+        "Prompt": "The fruit used to make candied hawthorn",
+        "Explanation": "The model should generate an image of hawthorn berries",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 370
+    },
+    {
+        "Prompt": "The device used to measure temperature",
+        "Explanation": "The model should generate an image of a thermometer",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 371
+    },
+    {
+        "Prompt": "The most common input device for computers",
+        "Explanation": "The model should generate an image of a keyboard",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 372
+    },
+    {
+        "Prompt": "Most representative currency of the European Union",
+        "Explanation": "The model should generate an image of the Euro, showcasing its design and features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 373
+    },
+    {
+        "Prompt": "The animal most commonly used to guide the blind",
+        "Explanation": "The model should generate an image of a guide dog",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 374
+    },
+    {
+        "Prompt": "The grain used to make popcorn",
+        "Explanation": "The model should generate an image of corn",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 375
+    },
+    {
+        "Prompt": "A common piece of clothing that protects from the rain",
+        "Explanation": "The model should generate an image of the raincoat",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 376
+    },
+    {
+        "Prompt": "The ancient Chinese invention used for navigation during maritime exploration",
+        "Explanation": "The model should generate an image of a traditional Chinese compass",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 377
+    },
+    {
+        "Prompt": "The common tool used for eating steak in Western culture",
+        "Explanation": "The model should generate an image of the knife and fork",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 378
+    },
+    {
+        "Prompt": "Most commonly used currency in the world",
+        "Explanation": "The model should generate an image of the US Dollar, showcasing its design and features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 379
+    },
+    {
+        "Prompt": "The grain used in the production of beer",
+        "Explanation": "The model should generate an image of barley",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 380
+    },
+    {
+        "Prompt": "The currency of a populous South Asian nation",
+        "Explanation": "The model should generate an image related to the Indian Rupee, showcasing its design and features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 381
+    },
+    {
+        "Prompt": "The item worn to protect the head while riding a motorcycle",
+        "Explanation": "The model should generate an image of a motorcycle helmet",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 382
+    },
+    {
+        "Prompt": "The most important organ responsible for gas exchange in humans",
+        "Explanation": "The model should generate an image of human lungs",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 383
+    },
+    {
+        "Prompt": "A vehicle used for public transportation in a city",
+        "Explanation": "The model should generate an image of a bus",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 384
+    },
+    {
+        "Prompt": "The invention, one of the Four Great Inventions of ancient China that could be used to create explosive devices",
+        "Explanation": "The model should generate an image of gunpowder",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 385
+    },
+    {
+        "Prompt": "Show a device commonly used to heat up a liquid like water, for tea or coffee",
+        "Explanation": "The model should generate an image of a kettle",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 386
+    },
+    {
+        "Prompt": "A tool for cutting paper",
+        "Explanation": "The model should generate an image of a pair of scissors",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 387
+    },
+    {
+        "Prompt": "A mythical creature that breathes fire and is often depicted in medieval stories",
+        "Explanation": "The model should generate an image of a dragon",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 388
+    },
+    {
+        "Prompt": "Most representative currency of the United Kingdom",
+        "Explanation": "The model should generate an image of the British Pound, showcasing its design and features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 389
+    },
+    {
+        "Prompt": "The astronomical tool used for observing celestial bodies",
+        "Explanation": "The model should generate an image of a telescope",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 390
+    },
+    {
+        "Prompt": "The item worn by Chinese primary school students during the flag-raising ceremony",
+        "Explanation": "The model should generate an image of a red scarf",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 391
+    },
+    {
+        "Prompt": "The main ingredients used to make fried dough sticks",
+        "Explanation": "The model should generate an image of flour",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 392
+    },
+    {
+        "Prompt": "A large, traditional vehicle used for travel in cold climates, often pulled by dogs",
+        "Explanation": "The model should generate an image of a dog sled",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 393
+    },
+    {
+        "Prompt": "A structure made of ice, traditionally built by the Inuit people",
+        "Explanation": "The model should generate an image of an igloo",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 394
+    },
+    {
+        "Prompt": "A small device used to control electronic devices remotely",
+        "Explanation": "The model should generate an image of a remote control",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 395
+    },
+    {
+        "Prompt": "The official currency of the second largest economy in the world",
+        "Explanation": "The model should generate an image of the Chinese Yuan, showcasing its design and features",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 396
+    },
+    {
+        "Prompt": "The appliance used in daily life to keep food fresh",
+        "Explanation": "The model should generate an image of a refrigerator",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 397
+    },
+    {
+        "Prompt": "The traditional Japanese garment often worn during festivals",
+        "Explanation": "The model should generate an image of a kimono",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 398
+    },
+    {
+        "Prompt": "A common object used to keep hair out of face, often made of plastic or metal",
+        "Explanation": "The model should generate an image of a hair clip or barrette",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 399
+    },
+    {
+        "Prompt": "Show an image of an object people often use to look at a reflection of themselves",
+        "Explanation": "The model should generate an image of a mirror",
+        "Category": "Cultural knowledge",
+        "Subcategory": "Life",
+        "prompt_id": 400
+    }
+]

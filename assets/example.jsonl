@@ -1,0 +1,10 @@
+{
+  "unique_id": "hqedit_generate_00016618",
+  "dataset_source": "hqedit",
+  "task": "generate",
+  "input_image": "assets/input_00016618.png",
+  "output_image": "assets/output_00016618.png",
+  "instruction": "Decorate the mug with colorful swirling patterns and circular designs.",
+  "instruction_type": "complex",
+  "input_description": "A plain white mug sits on a marble kitchen counter."
+}

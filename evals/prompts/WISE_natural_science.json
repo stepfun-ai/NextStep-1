@@ -1,0 +1,2102 @@
+[
+    {
+        "Prompt": "An apple tree with leaves exhibiting chlorophyll breakdown",
+        "Explanation": "The model should generate an image of an apple tree where the leaves are predominantly yellow, orange, red, or brown (a mix of these colors is acceptable). The generated image should evoke the feeling of autumn",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 701
+    },
+    {
+        "Prompt": "A maple tree with leaves exhibiting chlorophyll breakdown",
+        "Explanation": "The model should generate an image of a maple tree with leaves displaying a vibrant mix of yellow, orange, and red hues. The characteristic palmate shape of maple leaves should be clearly visible. The image should evoke a sense of peak fall foliage",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 702
+    },
+    {
+        "Prompt": "A birch tree with leaves exhibiting chlorophyll breakdown",
+        "Explanation": "The model should generate an image of a birch tree where the leaves are predominantly yellow (a mix of yellow and some remaining green is acceptable).  The delicate structure of birch leaves should be visible",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 703
+    },
+    {
+        "Prompt": "A maple tree with leaves where chlorophyll is not broken down",
+        "Explanation": "The model should generate an image of a maple tree  with lush foliage and leaves that are a vibrant, deep green",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 704
+    },
+    {
+        "Prompt": "A caterpillar having completed its pupation process",
+        "Explanation": "The image should show a butterfly or moth with fully formed wings and body",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 705
+    },
+    {
+        "Prompt": "A caterpillar during its pupation process",
+        "Explanation": "The image should show a caterpillar inside a chrysalis or pupa, with physical changes occurring, indicating it is undergoing metamorphosis",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 706
+    },
+    {
+        "Prompt": "Image of a tadpole after growing up",
+        "Explanation": "The image should show a frog",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 707
+    },
+    {
+        "Prompt": "Just laid eggs",
+        "Explanation": "The image should show newly laid eggs that are still intact, often in a nest or in a protected environment",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 708
+    },
+    {
+        "Prompt": "Eggs which are recently hatched",
+        "Explanation": "The image should show eggs that have hatched, with broken shells, and new life having emerged",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 709
+    },
+    {
+        "Prompt": "A frog resting in a very humid environment",
+        "Explanation": "The image should depict a frog with smooth, shiny skin, surrounded by wet conditions like wet leaves or mud",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 710
+    },
+    {
+        "Prompt": "A frog observed during very hot and dry weather",
+        "Explanation": "The image should show a frog with dull, dry skin, in an environment with hot, dry soil and grass, highlighting a lack of moisture",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 711
+    },
+    {
+        "Prompt": "A cactus seen in an environment with considerable moisture",
+        "Explanation": "The image should show a cactus with softer, less prominent spines, possibly with water accumulation around the base, and more surrounding vegetation",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 712
+    },
+    {
+        "Prompt": "A cactus seen in a very arid, desert-like environment",
+        "Explanation": "The image should show a cactus with prominent, dense spines, possibly with a thick, waxy coating on its skin, and surrounded by sparse, dry vegetation, sand, or rocks The overall color palette should be warm and earthy, indicating dryness and heat",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 713
+    },
+    {
+        "Prompt": "A fresh loaf of bread",
+        "Explanation": "The model should generate an image showing a loaf of bread with a golden-brown crust and a soft, uniform interior, representing its freshly baked and edible state",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 714
+    },
+    {
+        "Prompt": "Moldy bread",
+        "Explanation": "The model should generate an image showing a loaf of bread with visible patches of mold, appearing as fuzzy or discolored growths on the surface The mold should be clearly recognizable and unappetizing",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 715
+    },
+    {
+        "Prompt": "A rotting log in a forest",
+        "Explanation": "The model should generate an image of a decaying log covered in fungi, moss, and other organisms Showcasing that it can turn into soil and other source of carbon Showing a good cycle",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 716
+    },
+    {
+        "Prompt": "A seed before germination",
+        "Explanation": "The model should generate an image showing a seed before germination, with the grain and everything",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 717
+    },
+    {
+        "Prompt": "A seed during germination",
+        "Explanation": "The model should generate an image showing a seed during the germination You can see the root growing",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 718
+    },
+    {
+        "Prompt": "A fresh wound on human",
+        "Explanation": "The model should generate an image showing the area is injured, and is still bleeding The wound edges should appear raw and inflamed",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 719
+    },
+    {
+        "Prompt": "A wound on human after recovery",
+        "Explanation": "The model should generate an image showing the wound is fully healed The wound site should show evidence of the healing process, such as a scab or a visible scar The surrounding skin may still have some discoloration",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 720
+    },
+    {
+        "Prompt": "A piece of meat before the bacteria growing",
+        "Explanation": "The model should generate an image with red meat in a good condition, representing a health product",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 721
+    },
+    {
+        "Prompt": "A piece of meat during bacterial decomposition",
+        "Explanation": "The model should generate an image with meat that has some white thing grow, is not in good condition, which represent something not safe to eat",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 722
+    },
+    {
+        "Prompt": "A normal red blood cell in isotonic solution",
+        "Explanation": "The model should generate an image of red blood cells with a biconcave disc shape, maintaining their normal size and shape",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 723
+    },
+    {
+        "Prompt": "Red blood cells in hypertonic solution",
+        "Explanation": "The model should generate an image of red blood cells that look shrunken or crenated (spiky), due to water loss",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 724
+    },
+    {
+        "Prompt": "Red blood cells in hypotonic solution",
+        "Explanation": "The model should generate an image of red blood cells that appear swollen and spherical, some may be bursting, due to water gain",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 725
+    },
+    {
+        "Prompt": "A lake with a large algae bloom",
+        "Explanation": "The image generated must show a lake The water should appear green, brown, red, or another unusual color, indicating a high concentration of algae The bloom may cover a significant portion of the water's surface",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 726
+    },
+    {
+        "Prompt": "A leaf infected by fungus",
+        "Explanation": "The image should show a leaf with distinct black or yellow mold spots, indicating fungal infection on the surface",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 727
+    },
+    {
+        "Prompt": "A potted plant receiving consistent sunlight for a week",
+        "Explanation": "The image should show a healthy potted plant with vibrant green leaves and upright stems, indicating it has received sufficient light for growth",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 728
+    },
+    {
+        "Prompt": "A potted succulent placed in a completely dark closet for one week",
+        "Explanation": "The image should show a wilted potted plant with drooping leaves, pale stems, and potentially elongated internodes, indicating a lack of light",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 729
+    },
+    {
+        "Prompt": "A recently peeled apple slice segment",
+        "Explanation": "The image should depict an apple slice with fresh, moist flesh and minimal browning, indicating it was recently cut",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 730
+    },
+    {
+        "Prompt": "An apple slice, peeled and left out for a long time",
+        "Explanation": "The image should show an apple slice with browned flesh and a slightly dry surface, indicating it has been exposed to air for a while",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 731
+    },
+    {
+        "Prompt": "Dehydrated roses",
+        "Explanation": "The model should generate an image of roses showing signs of severe dehydration. This should include drooping petals and stems, wilting leaves. The roses should appear listless and lacking their usual vibrancy",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 732
+    },
+    {
+        "Prompt": "An overripe banana",
+        "Explanation": "The image should show a banana with dark spots, a soft texture, and possibly some bruising, indicating it is overripe",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 733
+    },
+    {
+        "Prompt": "A premature banana",
+        "Explanation": "The image should show a banana with a firm texture, and a light green peel, indicating it is not fully ripe",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 734
+    },
+    {
+        "Prompt": "The state of a leaf after a cold night",
+        "Explanation": "The model should generate an image of a leaf covered in frost crystals in early morning",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 735
+    },
+    {
+        "Prompt": "A pine tree in severe drought",
+        "Explanation": "The image should show a pine tree with dry, brown needles and parched soil, indicating a state of drought",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 736
+    },
+    {
+        "Prompt": "Rice field with phosphorus deficiency",
+        "Explanation": "The model should generate an image of a rice field exhibiting symptoms of phosphorus deficiency. This should include stunted growth, dark green leaves (sometimes with a reddish or purplish tinge), and reduced tillering (number of stems per plant). The overall field should appear unproductive and unhealthy",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 737
+    },
+    {
+        "Prompt": "Apple tree with iron deficiency",
+        "Explanation": "The model should generate an image of an apple tree exhibiting symptoms of iron deficiency (chlorosis). This should include yellowing of young leaves, with the veins remaining green (interveinal chlorosis). The overall tree may appear pale and stunted",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 738
+    },
+    {
+        "Prompt": "Nitrogen-deficient wheat field",
+        "Explanation": "The model should generate an image of a wheat field where a significant portion of the plants show abnormally short stalks (stunted growth) compared to healthy wheat. The leaves may also be yellowed (chlorotic), especially the older ones",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 739
+    },
+    {
+        "Prompt": "Potassium-deficient banana tree",
+        "Explanation": "The model should generate an image of a banana tree specifically showing 'leaf scorch,' where the edges of the leaves are brown, dry, and appear burned. The older leaves will be affected more severely. The image should still display its signature green to demonstrate it is alive",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 740
+    },
+    {
+        "Prompt": "Calcium-deficient pepper plants",
+        "Explanation": "The model should generate an image of pepper plants characterized by blossom-end rot on the developing peppers. This will show as dark, sunken lesions at the blossom end of the fruit. The leaves may also be distorted or curled",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 741
+    },
+    {
+        "Prompt": "Boron-deficient broccoli with hollow stem",
+        "Explanation": "The model should generate an image of a broccoli head exhibiting symptoms of boron deficiency, including a hollow stem and/or a brown discoloration in the center of the head. The leaves may also be thick, brittle, and curled",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 742
+    },
+    {
+        "Prompt": "Skin scalded by hot water",
+        "Explanation": "The model should generate an image of skin and the skin should be reddened",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 743
+    },
+    {
+        "Prompt": "Beehive, emphasizing its structural construction",
+        "Explanation": "The model should generate an image of a beehive, with a strong emphasis on the intricate hexagonal structure of the honeycomb. The overall image should convey a sense of organized complexity",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 744
+    },
+    {
+        "Prompt": "A fox in winter, highlighting the state of its fur",
+        "Explanation": "The image should show a fox with a thick, dense fur, appearing fluffy and well-insulated against the cold. There may be snow or other winter elements in the scene",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 745
+    },
+    {
+        "Prompt": "Arctic fox in snow",
+        "Explanation": "The model should generate an image of an Arctic fox in its winter coat, blending seamlessly with a snowy landscape",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 746
+    },
+    {
+        "Prompt": "Stonefish on ocean floor",
+        "Explanation": "The model should generate an image of a stonefish resting on the ocean floor, with its body camouflaged to resemble the surrounding rocks and sediment",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 747
+    },
+    {
+        "Prompt": "Eutrophic lake",
+        "Explanation": "The model should generate an image of a lake exhibiting signs of eutrophication. The water should appear green due to a high concentration of algae (phytoplankton)",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 748
+    },
+    {
+        "Prompt": "Stationary stick insect",
+        "Explanation": "The model should generate an image of a stick insect that is extremely difficult to distinguish from its surroundings. The stick insect should be positioned on a branch or among leaves, and its color, shape, and texture should blend seamlessly with the environment",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 749
+    },
+    {
+        "Prompt": "Skin after a mosquito bite",
+        "Explanation": "The model should generate an image of human skin showing a raised, red bump caused by a mosquito bite. The surrounding skin may also be slightly reddened or inflamed",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 750
+    },
+    {
+        "Prompt": "Siblings of identical twins",
+        "Explanation": "The model should generate two babies who look extremely similar, almost identical",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 751
+    },
+    {
+        "Prompt": "Siblings of fraternal twins",
+        "Explanation": "The model should generate images of two infants, who have significant differences",
+        "Category": "Biology",
+        "Subcategory": "State",
+        "prompt_id": 752
+    },
+    {
+        "Prompt": "Mimosa pudica leaf being touched",
+        "Explanation": "The model should generate an image of a Mimosa pudica with its leaves in the process of folding or closing in response to touch. Some leaflets should be fully closed, while others may be in the process of closing",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 753
+    },
+    {
+        "Prompt": "A chameleon perfectly camouflaged against a green leaf",
+        "Explanation": "The image should show a chameleon with its skin color and pattern closely matching the green color and texture of a surrounding leaf",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 754
+    },
+    {
+        "Prompt": "Frogs mating and laying eggs",
+        "Explanation": "The model should generate an image of two frogs in amplexus (mating embrace), with the male clinging to the female's back",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 755
+    },
+    {
+        "Prompt": "Migrating geese, emphasizing the shape of the formation",
+        "Explanation": "The model should generate an image of a flock of geese flying in a characteristic V-formation",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 756
+    },
+    {
+        "Prompt": "Dog marking its territory",
+        "Explanation": "The model should generate an image of a dog urinating. The urine should be visible",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 757
+    },
+    {
+        "Prompt": "A chameleon perfectly camouflaged against a brown leaf",
+        "Explanation": "The image should show a chameleon with its skin color and pattern closely matching the brown color and texture of a dry leaf or soil",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 758
+    },
+    {
+        "Prompt": "A Mimosa pudica plant before being touched",
+        "Explanation": "The model should generate an image showing a Mimosa pudica (sensitive plant) with its leaves fully open and extended, representing its normal, undisturbed state The leaves should appear healthy and vibrant",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 759
+    },
+    {
+        "Prompt": "Lion marking its territory",
+        "Explanation": "The model should generate an image of a lion standing near a tree and exhibiting territorial marking behavior. This should include visible claw marks on the tree trunk",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 760
+    },
+    {
+        "Prompt": "A Mimosa pudica plant after being touched",
+        "Explanation": "The model should generate an image showing a Mimosa pudica plant with its leaves folded inward and drooping, demonstrating its rapid response to touch The image should clearly illustrate the plant's defensive mechanism",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 761
+    },
+    {
+        "Prompt": "Vultures feeding",
+        "Explanation": "The model should generate an image of vultures actively feeding on carrion. The scene should be realistic and depict the vultures in a setting appropriate for scavenging, such as a dry grassland, desert, or open savanna. The depiction of carrion should be present and reasonably detailed",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 762
+    },
+    {
+        "Prompt": "Porcupine defending itself from a predator",
+        "Explanation": "The model should generate an image of a porcupine exhibiting defensive behaviors in response to a perceived threat. The porcupine should be displaying its spines prominently, raised or fanned out",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 763
+    },
+    {
+        "Prompt": "Pangolin defending itself from a predator",
+        "Explanation": "The model should generate an image of a pangolin exhibiting its primary defensive behavior: curling into a tight ball. The scales should be prominently displayed, forming a protective armor around the animal. The head and limbs should be tucked inside the ball",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 764
+    },
+    {
+        "Prompt": "Armadillo threatened by a predator",
+        "Explanation": "The model should generate an image of an armadillo reacting to a perceived threat. Ideally, the armadillo should be depicted curling into a ball, with its armored plates providing protection",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 765
+    },
+    {
+        "Prompt": "Hedgehog defending itself from a predator",
+        "Explanation": "The model should generate an image of a hedgehog curled into a tight ball, with its spines fully erect. The predator (e.g., fox, badger) may be nearby but not directly attacking. The environment should be a woodland or garden setting. The image should convey a sense of prickly defensiveness",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 766
+    },
+    {
+        "Prompt": "Opossum's common behavior to avoid a predator",
+        "Explanation": "The model should generate an image of an opossum lying on its side with its mouth open and tongue lolling out, mimicking a dead animal",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 767
+    },
+    {
+        "Prompt": "Frilled-neck lizard defending itself from a predator",
+        "Explanation": "The model should generate an image of a frilled-neck lizard displaying its frill, with its mouth open and standing on its hind legs. The environment should be a tropical woodland or savanna",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 768
+    },
+    {
+        "Prompt": "Box turtle defending itself from a predator",
+        "Explanation": "The model should generate an image of a box turtle fully retracted into its shell, with the hinged shell tightly closed. A predator (e.g., raccoon, dog) might be investigating the shell",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 769
+    },
+    {
+        "Prompt": "A frigatebird displaying to attract a mate",
+        "Explanation": "The model should generate an image of a male frigatebird with its bright red gular sac fully inflated. The inflated sac should be the most prominent visual element, clearly distinguishing the male. A female frigatebird may be visible nearby",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 770
+    },
+    {
+        "Prompt": "Fireflies displaying to attract mates",
+        "Explanation": "The model should generate an image of numerous fireflies flashing their bioluminescent lights in a dark environment, such as a field, forest, or swamp at night",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 771
+    },
+    {
+        "Prompt": "Describe the behavior of a sloth most of the time",
+        "Explanation": "The model should generate an image of a sloth hanging from a tree branch in a rainforest environment. The sloth should appear relaxed and still or moving very slowly",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 772
+    },
+    {
+        "Prompt": "Electric eel displaying a common behavior for predation or defense",
+        "Explanation": "The model should generate an image of an electric eel in a murky, freshwater environment, such as a river or swamp. The eel should be depicted generating an electric discharge",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 773
+    },
+    {
+        "Prompt": "Describe a water lily flower closing",
+        "Explanation": "The model should generate an image of a water lily with its flower closed or partially closed. The image should accurately convey a nighttime setting",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 774
+    },
+    {
+        "Prompt": "Describe a water lily flower fully open and facing upwards",
+        "Explanation": "The model should generate an image of a water lily with its flower fully open and facing upwards. The image should accurately convey a daytime setting, with bright, natural lighting",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 775
+    },
+    {
+        "Prompt": "Morning rooster, emphasizing its behavior",
+        "Explanation": "The image should show a rooster with its beak open and neck stretched upwards, indicating crowing",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 776
+    },
+    {
+        "Prompt": "Bats resting in the trees",
+        "Explanation": "The image should show one or more bats hanging upside down from a tree branch",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 777
+    },
+    {
+        "Prompt": "A cheetah preparing to sprint towards its prey",
+        "Explanation": "The image should show a cheetah crouched, focusing intently on its prey with a tense body posture in a savannah setting",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 778
+    },
+    {
+        "Prompt": "Octopus behavior when facing danger",
+        "Explanation": "The image should show an octopus ejecting a cloud of dark ink",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 779
+    },
+    {
+        "Prompt": "Jellyfish in the darkness",
+        "Explanation": "The image should show a jellyfish emitting light",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 780
+    },
+    {
+        "Prompt": "Lizard's extreme escape behavior when facing danger",
+        "Explanation": "The image should show a lizard detaching its tail",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 781
+    },
+    {
+        "Prompt": "Common behavior after a whale surfaces",
+        "Explanation": "The image should show whale spraying",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 782
+    },
+    {
+        "Prompt": "Sunflowers and the sun",
+        "Explanation": "The model should generate an image of sunflowers with their heads oriented towards the sun. The sun should be visible in the sky, bright and clear",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 783
+    },
+    {
+        "Prompt": "A male peacock trying to attract a female",
+        "Explanation": "The image should show a peacock with its tail feathers fully extended and displayed, showcasing vibrant colors and patterns used for courtship",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 784
+    },
+    {
+        "Prompt": "A bird grooming its feathers",
+        "Explanation": "The image should show a bird using its beak to carefully groom its feathers",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 785
+    },
+    {
+        "Prompt": "A bear in the cold winter months",
+        "Explanation": "The image should show a bear curled up and sleeping, with its body nestled in a den or under thick layers of snow, indicating it is in hibernation during the cold winter period",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 786
+    },
+    {
+        "Prompt": "Wildebeest migration on the African savanna",
+        "Explanation": "The model should generate an image of thousands of wildebeest running across the African savanna, kicking up dust",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 787
+    },
+    {
+        "Prompt": "Cat grooming itself",
+        "Explanation": "The model should generate an image of a cat using its tongue to groom its fur. The cat should be licking its fur, and the tongue should be visibly extended. The cat should appear relaxed and content",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 788
+    },
+    {
+        "Prompt": "Venus flytrap catching an insect",
+        "Explanation": "The model should generate an image of a Venus flytrap with its leaves snapped shut around an insect (e.g., fly, ant). The trap should be tightly closed",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 789
+    },
+    {
+        "Prompt": "Gorilla displaying dominance",
+        "Explanation": "The model should generate an image of a male gorilla standing upright and beating its chest with its hands. The gorilla should appear large and imposing",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 790
+    },
+    {
+        "Prompt": "Kangaroo nursing its joey",
+        "Explanation": "The model should generate an image of a female kangaroo nursing a joey (baby kangaroo). The joey should be attached to the nipple inside the mother's pouch, with its head and/or upper body visible",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 791
+    },
+    {
+        "Prompt": "Monarch butterfly migration",
+        "Explanation": "The model should generate an image of monarch butterflies, thousands to millions of butterflies should be visible, and the scene should convey a sense of mass migration",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 792
+    },
+    {
+        "Prompt": "Crow extracting insects from a tree cavity",
+        "Explanation": "The model should generate an image of a crow using a tool to extract food. The crow should be positioned near a tree, with its long beak, and should be using a twig, to extract this food",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 793
+    },
+    {
+        "Prompt": "Social heating behavior in penguins",
+        "Explanation": "The model should generate an image of penguins tightly packed and huddling for warmth and they need to be tightly packed and in a out door setting to get an accurate reflection",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 794
+    },
+    {
+        "Prompt": "Sardine's group defense against predators",
+        "Explanation": "The model should generate an image of a large school of sardines forming a tight, spherical cluster (a bait ball) in the water",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 795
+    },
+    {
+        "Prompt": "Elephant using a tool to drive flies",
+        "Explanation": "The model should generate an image of an elephant holding a branch in its trunk to remove flies, and must be accurate in its trunk movements and their behaviors",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 796
+    },
+    {
+        "Prompt": "Hippo marking its territory",
+        "Explanation": "The model should generate an image of a hippo with its tail raised and flinging dung (feces) into the surrounding environment. The tail movement should be visible, and the flung dung should be clearly depicted",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 797
+    },
+    {
+        "Prompt": "Zebras forming a defensive circle",
+        "Explanation": "The model should generate an image of a group of zebras forming a tight circle as a defensive technique, with the heads of the zebras facing outward. There may be cubs Inside the circle",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 798
+    },
+    {
+        "Prompt": "Penguin parents transferring an egg",
+        "Explanation": "The model should generate an image of two penguins using their beaks to carefully transfer an egg. The penguins should be facing each other, and the egg should be delicately balanced between their beaks",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 799
+    },
+    {
+        "Prompt": "Virginia creeper and wall, highlighting the behavior of Virginia creeper",
+        "Explanation": "The model should generate an image illustrating the Virginia creeper's upward growth along the wall, closely adhering to the surface",
+        "Category": "Biology",
+        "Subcategory": "Behavior",
+        "prompt_id": 800
+    },
+    {
+        "Prompt": "A string of decorative lights hanging from a balcony",
+        "Explanation": "The model should generate an image where the lights hang downwards due to gravity, and not floating in the air or defying gravity The curve of the string should be consistent with a hanging object",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 801
+    },
+    {
+        "Prompt": "An elephant and a rabbit stand on both sides of a seesaw",
+        "Explanation": "The model should generate an image where the seesaw is significantly tilted due to the weight difference between the elephant and the rabbit. The elephant should be on the lower side, close to the ground, and the rabbit should be on the higher side, elevated in the air The seesaw should not be level",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 802
+    },
+    {
+        "Prompt": "An iron ball and an equally sized soccer ball are standing on either side of the balance beam",
+        "Explanation": "The model should generate an image where the beam balance is heavily tilted due to the substantial weight difference between the iron ball and the soccer ball The pan holding the iron ball should be positioned low, possibly touching the ground, and the pan holding the soccer ball should be noticeably higher The balance should be in a static tilted position",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 803
+    },
+    {
+        "Prompt": "The large stone and the rubber ball are standing on both sides of the beam balance",
+        "Explanation": "The model should generate an image where the beam balance is tilted, indicating that the stone is heavier than the rubber ball The side with the stone should be lower, with a visible angle between the two pans, implying a weight difference, but the stone's side isn't at the extreme point The balance should not be level",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 804
+    },
+    {
+        "Prompt": "The child and the leaf are standing on both sides of the teeter-totter",
+        "Explanation": "The model should generate an image where the teeter-totter is heavily tilted due to the very different weights of the child and the leaf The side with the child should be almost touching the ground, and the other end with the leaf should be high in the air The teeter-totter should not be level",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 805
+    },
+    {
+        "Prompt": "Two gold balls, one large and one small, fall from the air Compare their height at the same moment",
+        "Explanation": "The model should generate an image where the two gold balls are at approximately the same height at any given moment during their fall, reflecting that their falling speed is independent of size due to gravity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 806
+    },
+    {
+        "Prompt": "A hanging plumb bob and the ground",
+        "Explanation": "The model should generate an image where the plumb bob hangs vertically downwards due to gravity, with the plumb line perpendicular to the ground The line and plumb bob should be in a straight line pointing directly to the ground",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 807
+    },
+    {
+        "Prompt": "A hanging melon next to the ground",
+        "Explanation": "The model should generate an image where the hanging melon hangs vertically downwards due to gravity, with the hanging structure (e.g., rope, wire, vine) perpendicular to the ground The melon should appear to be hanging straight down and the supporting structure should be vertical and should not be curved The supporting structure should be in a straight line pointing directly to the ground",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 808
+    },
+    {
+        "Prompt": "The positional relationship between a person and the ground, when there is no gravity",
+        "Explanation": "The model should generate an image where a person is not standing upright on the ground and is not bound by the earth; instead, the person is floating freely in the air and may be at any angle relative to the ground The person’s pose may be oriented in any direction and should not be limited to one direction There is no specific direction for the person in the image The key point of the image is that the person does not obey normal gravity-based orientation to the ground",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 809
+    },
+    {
+        "Prompt": "The positional relationship between a pencil and the ground, when there is no gravity",
+        "Explanation": "The model should generate an image where a pencil is not lying on the ground or standing upright Instead, the pencil should be depicted as floating freely in the air, with its direction and angle being arbitrary and not defined by earth's gravity The key aspect is the pencil's state of free floating, irrespective of its alignment with the ground or any particular direction The image should portray the pencil being uninfluenced by gravity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 810
+    },
+    {
+        "Prompt": "A pair and a piece of light wood are placed in a transparent water tank",
+        "Explanation": "The model should generate an image where both the pair and the wood are floating on the surface of the water due to buoyancy",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 811
+    },
+    {
+        "Prompt": "A small piece of dry wood and a dense iron block are in a transparent water tank",
+        "Explanation": "The model should generate an image where the piece of wood is floating on the surface of the water, while the iron block is sunk to the bottom. The image should clearly show the difference in buoyancy between the two materials, with one floating and the other completely submerged",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 812
+    },
+    {
+        "Prompt": "A tennis ball and a iron block are in a transparent water tank",
+        "Explanation": "The model should generate an image where the tennis ball is floating on the surface of the water, and the iron block is sunk to the bottom of the tank. The image should clearly differentiate between the two objects' positions in water, showing one buoyant and one submerged",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 813
+    },
+    {
+        "Prompt": "An empty plastic bottle and a large rock in a transparent water tank",
+        "Explanation": "The model should generate an image where the plastic bottle is floating on the surface of the water, while the rock is sunk to the bottom. The image should clearly show the difference in buoyancy between the two materials, with one floating and the other completely submerged",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 814
+    },
+    {
+        "Prompt": "A wooden toy boat and several metal screws in a transparent water tank",
+        "Explanation": "The model should generate an image where the wooden toy boat is floating on the surface of the water, while the metal screws are sunk to the bottom of the tank. The image should depict how some objects are buoyant, and some are not, even within the same water tank",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 815
+    },
+    {
+        "Prompt": "A balloon filled with air in a room",
+        "Explanation": "The model should generate an image showing a balloon filled with air resting on the floor or suspended slightly, indicating its lack of significant buoyancy",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 816
+    },
+    {
+        "Prompt": "A balloon filled with helium in a room",
+        "Explanation": "The model should generate an image showing a balloon filled with helium floating towards the ceiling, demonstrating its buoyancy due to being less dense than the surrounding air",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 817
+    },
+    {
+        "Prompt": "A bowl of soft dough with a heavy wooden spoon left resting in the center",
+        "Explanation": "The image should depict the spoon's imprint in the dough, indicating the effect of its weight and the pressure exerted on the soft surface",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 818
+    },
+    {
+        "Prompt": "A laptop resting on a beanbag chair",
+        "Explanation": "The model should generate an image showing the beanbag chair deforming under the pressure of the laptop, conforming to its shape",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 819
+    },
+    {
+        "Prompt": "A stack of plates on a loaf of fresh bread",
+        "Explanation": "The model should generate an image showing the bread being compressed and misshapen due to the pressure of the plates",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 820
+    },
+    {
+        "Prompt": "A glass bottle placed on a pile of soft cotton balls",
+        "Explanation": "The model should generate an image showing the cotton balls being compressed and deformed by the pressure of the bottle",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 821
+    },
+    {
+        "Prompt": "A heavy stone on a block of memory foam",
+        "Explanation": "The model should generate an image displaying the memory foam being indented and compressed by the pressure from the stone",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 822
+    },
+    {
+        "Prompt": "A vase of flowers resting on a pile of laundry",
+        "Explanation": "The model should generate an image illustrating the laundry compressed and rumpled from the pressure and weight of the vase",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 823
+    },
+    {
+        "Prompt": "A coffee mug on top of a pile of fluffy marshmallows",
+        "Explanation": "The model should generate an image showing the marshmallows being deformed and squashed due to the pressure of the mug",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 824
+    },
+    {
+        "Prompt": "A small toy car sitting on a piece of modeling clay",
+        "Explanation": "The model should generate an image depicting a clear impression or deformation in the clay from the pressure of the toy car’s wheels",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 825
+    },
+    {
+        "Prompt": "A remote control pressing into a mound of whipped cream",
+        "Explanation": "The model should generate an image showing the whipped cream being compressed and deformed by the pressure of the remote",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 826
+    },
+    {
+        "Prompt": "A full jar of jam sitting on a sponge",
+        "Explanation": "The model should generate an image depicting the sponge compressing under the weight of the jar, showing a clear indentation",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 827
+    },
+    {
+        "Prompt": "A set of keys placed on a freshly baked cake",
+        "Explanation": "The model should generate an image showing the surface of the cake indented and potentially torn by the pressure of the keys",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 828
+    },
+    {
+        "Prompt": "A beach after many footsteps",
+        "Explanation": "The model should generate an image showing various depths of footprints in the sand, illustrating different levels of pressure applied by walking",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 829
+    },
+    {
+        "Prompt": "A sealed glass jar in a vacuum chamber",
+        "Explanation": "The model should generate an image showing a glass jar, potentially with its lid slightly bulging outwards, indicating the internal pressure being greater than the external vacuum",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 830
+    },
+    {
+        "Prompt": "An empty plastic bottle under 20 standard atmospheres",
+        "Explanation": "The model should generate an image showing an empty plastic bottle that is visibly crushed or deformed, illustrating the effect of 10 standard atmospheres of external pressure",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 831
+    },
+    {
+        "Prompt": "A small needle carefully placed on the surface of water",
+        "Explanation": "The model should generate an image showing a small needle floating on the surface of water, illustrating how surface tension supports the object despite it being denser than water",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 832
+    },
+    {
+        "Prompt": "A water strider insect walking on a pond",
+        "Explanation": "The model should generate an image showing a water strider insect supported by the surface of a pond, demonstrating how surface tension allows it to walk on the water without sinking",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 833
+    },
+    {
+        "Prompt": "A single water droplet clinging to a leaf",
+        "Explanation": "The model should generate an image of a water droplet that is perfectly spherical, or nearly so, clinging to a leaf, illustrating surface tension’s effect on the water droplet’s shape",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 834
+    },
+    {
+        "Prompt": "A series of small mercury droplets on a smooth glass surface",
+        "Explanation": "The model should generate an image showing several distinct, spherical mercury droplets on a glass surface, exhibiting the strong surface tension of mercury that leads to a minimal contact area",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Mechanics",
+        "prompt_id": 835
+    },
+    {
+        "Prompt": "Depict a glass of water at a temperature of -10°C, highlighting water's state",
+        "Explanation": "The model should generate an image showing a glass of water, with the water completely frozen into ice due to the -10°C temperature",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 836
+    },
+    {
+        "Prompt": "Depict a glass of oil at a temperature of -20°C, highlighting oil's state",
+        "Explanation": "The model should generate an image showing a glass of oil with the oil either solidified, or become very viscous and cloudy due to the -20°C temperature",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 837
+    },
+    {
+        "Prompt": "Depict a glass of water at an arctic environment, highlighting water's state",
+        "Explanation": "The model should generate an image of a glass of water in an arctic environment, with the water completely frozen into ice, suggesting very low temperatures",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 838
+    },
+    {
+        "Prompt": "A container of mercury in a freezer, highlighting the state of the mercury",
+        "Explanation": "The model should generate an image of a container with liquid mercury, showing that it is still liquid despite the cold temperatures of the freezer because of its extremely low freezing point",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 839
+    },
+    {
+        "Prompt": "A pond at minus ten degrees Celsius",
+        "Explanation": "The model should generate an image showing a pond that is frozen, with ice forming on the surface and edges",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 840
+    },
+    {
+        "Prompt": "Depict a glass of water at above one hundred degrees Celsius, highlighting water's state",
+        "Explanation": "The model should generate an image showing a glass of water with the water actively boiling and producing steam, illustrating the effects of being above 100°C",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 841
+    },
+    {
+        "Prompt": "A pot of salted water heated to 100 degrees Celsius",
+        "Explanation": "The model should generate an image showing a pot of salted water, with almost no bubbles and very little steam, reflecting that it is below its boiling point",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 842
+    },
+    {
+        "Prompt": "The scene of a glass of ethanol at above seventy eight degrees Celsius, highlighting the state of the ethanol",
+        "Explanation": "The model should generate an image showing a glass of ethanol actively boiling, with visible bubbles and vapor, demonstrating its state above 78°C",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 843
+    },
+    {
+        "Prompt": "Depict a glass of oil at above 170 degrees Celsius, highlighting oil's state",
+        "Explanation": "The model should generate an image of a glass of oil that shows signs of active boiling and producing steam",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 844
+    },
+    {
+        "Prompt": "Depict a glass of soda at above 100 degrees Celsius, highlighting soda's state",
+        "Explanation": "The model should generate an image of a glass of soda showing active boiling, with rapid bubbling, producing steam and potentially some splashing or sputtering",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 845
+    },
+    {
+        "Prompt": "A hot pan on a stove with water droplets on the surface",
+        "Explanation": "The model should generate an image of a hot pan with small droplets of water that are quickly boiling and producing steam, representing rapid vaporization upon contact with a hot surface",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 846
+    },
+    {
+        "Prompt": "A cup of hot tea",
+        "Explanation": "The model should generate an image of a cup of hot tea with clear steam rising, showing the evaporation of water due to its high temperature",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 847
+    },
+    {
+        "Prompt": "Depict a glass of ice cubes at above 40 degrees Celsius, highlighting the state of ice cubes",
+        "Explanation": "The model should generate an image showing a glass with ice cubes that are actively melting, with some liquid water present",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 848
+    },
+    {
+        "Prompt": "Depict a glass of butter stick at 70 degrees Celsius, highlighting the butter stick's state",
+        "Explanation": "The model should generate an image showing a butter stick that is in the process of melting, with a soft or partially melted structure due to the 70°C temperature",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 849
+    },
+    {
+        "Prompt": "A chocolate bar left in direct sunlight, highlighting the state of the chocolate",
+        "Explanation": "The model should generate an image showing a chocolate bar that is partially melted and soft, especially along its edges, demonstrating the effect of heat and melting",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 850
+    },
+    {
+        "Prompt": "A popsicle on a sweltering summer day",
+        "Explanation": "The model should generate an image showing a popsicle that is actively melting, maybe with drips and softened structure",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 851
+    },
+    {
+        "Prompt": "Marshmallow in a bag",
+        "Explanation": "The model should generate an image showing a marshmallow in a bag, retaining its original shape and appearance, suggesting it is at or near room temperature and hasn't been exposed to any extreme heat",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 852
+    },
+    {
+        "Prompt": "Marshmallow over a bonfire",
+        "Explanation": "The model should generate an image of a marshmallow that is being held over a bonfire with visible signs of melting, charring or expansion, demonstrating its reaction to the intense heat",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 853
+    },
+    {
+        "Prompt": "A cold soda can left outside on a humid day, highlighting the state of the can",
+        "Explanation": "The model should generate an image showing a cold soda can that is covered with water droplets on its outer surface, demonstrating the effect of condensation due to the contrast between the can's temperature and the humidity of the air",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 854
+    },
+    {
+        "Prompt": "A pair of eyeglasses going from cold to warm, highlighting the state of the lenses",
+        "Explanation": "The model should generate an image of a pair of glasses that are fogged over because of condensation, having been brought from a cold place into a warmer one",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 855
+    },
+    {
+        "Prompt": "A glass in humid, room-temperature conditions, highlighting the state of the glass surface",
+        "Explanation": "The model should generate an image showing a glass surface covered with a layer of small water droplets",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 856
+    },
+    {
+        "Prompt": "A glass door in humid, room-temperature conditions, highlighting the state of the glass door surface",
+        "Explanation": "The model should generate an image showing a glass door that is covered with water droplets, especially near the bottom, where condensation has accumulated due to humidity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 857
+    },
+    {
+        "Prompt": "A window in humid, room-temperature conditions, highlighting the state of the window surface",
+        "Explanation": "The model should generate an image showing a window covered in a layer of condensation, with a blurry view outside due to the small water droplets formed on the glass",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 858
+    },
+    {
+        "Prompt": "The bathroom mirror after a hot shower",
+        "Explanation": "The model should generate an image showing a bathroom mirror that is fogged up with condensation, with water droplets covering the surface due to the increased water vapor from the hot shower",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 859
+    },
+    {
+        "Prompt": "The bathroom mirror after a cold shower",
+        "Explanation": "The model should generate an image showing a bathroom mirror that is relatively clear, with minimal or no condensation, indicating that the cold shower did not generate enough water vapor to cause significant condensation",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 860
+    },
+    {
+        "Prompt": "Freshly poured liquid nitrogen",
+        "Explanation": "The model should generate an image of liquid nitrogen being poured, showing the liquid's extreme coldness through the presence of vaporized nitrogen and condensation on surrounding surfaces",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 861
+    },
+    {
+        "Prompt": "Dry ice in a glass of water, highlighting the state of the dry ice and the water",
+        "Explanation": "The model should generate an image showing dry ice submerged in a glass of water with bubbles forming and a foggy vapor being produced, demonstrating rapid sublimation and interaction with the water",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 862
+    },
+    {
+        "Prompt": "A chunk of dry ice on a hot metal plate, highlighting the state of the dry ice",
+        "Explanation": "The model should generate an image showing a chunk of dry ice placed on a hot metal plate that has a visible vaporous fog immediately coming off of the dry ice due to the rapid sublimation that is caused by the heat of the plate",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 863
+    },
+    {
+        "Prompt": "Depict dry ice under direct sunlight, highlighting the state change of dry ice",
+        "Explanation": "The model should generate an image showing dry ice in sunlight, with a visible plume of vapor or fog rising from the surface, indicating increased sublimation due to the heat from sunlight",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 864
+    },
+    {
+        "Prompt": "water vapor contacting a chilled glass surface at -10°C, highlighting the surface of glass",
+        "Explanation": "The model should generate an image showing a glass surface at -10°C, covered with a thin layer of frost or ice crystals, illustrating the process of water vapor directly turning into a solid",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 865
+    },
+    {
+        "Prompt": "water vapor contacting a metal plate at -20°C, highlighting the surface of the metal plate",
+        "Explanation": "The model should generate an image showing a metal plate at -20°C with a layer of frost or ice forming directly on the surface, showing the desublimation or deposition of water vapor to ice",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 866
+    },
+    {
+        "Prompt": "water vapor contacting a window at -10°C, highlighting the surface of the window",
+        "Explanation": "The model should generate an image of a window at -10°C with a layer of frost or intricate ice patterns forming directly on the glass due to deposition of water vapor",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 867
+    },
+    {
+        "Prompt": "A very cold storage container when humid air enters, highlighting the state of the inner surfaces",
+        "Explanation": "The model should generate an image showing the interior surface of a cold storage container that is covered in frost or ice crystals",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Thermodynamics",
+        "prompt_id": 868
+    },
+    {
+        "Prompt": "A clear glass of water with a portion of a glass rod submerge",
+        "Explanation": "The model should generate an image showing a clear glass rod partially submerged in a glass of water with the rod appearing to shift or bend at the water’s surface due to light refraction",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 869
+    },
+    {
+        "Prompt": "A clear glass of water with a portion of a plastic drinking straw submerge",
+        "Explanation": "The model should generate an image showing a plastic straw partially submerged in a glass of water, with the straw appearing to be bent or offset at the water's surface due to light refraction",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 870
+    },
+    {
+        "Prompt": "A clear glass of water with a portion of a pencil submerge",
+        "Explanation": "The model should generate an image showing a pencil partially submerged in a glass of water, with the pencil appearing to be bent or displaced at the water level due to light refraction",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 871
+    },
+    {
+        "Prompt": "Depict a rainbow",
+        "Explanation": "The model should generate an image showing a rainbow, with a clear arc of colors in the correct order (red, orange, yellow, green, blue, indigo, and violet) from the outer arc to the inner arc, demonstrating the effect of light dispersion by water droplets",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 872
+    },
+    {
+        "Prompt": "Light dispersion from a glass prism",
+        "Explanation": "The model should generate an image showing a glass prism with light passing through it and dispersing into a visible spectrum of colors, generally showing the colors from red to violet with a clear separation of colors and with red being closest to the incident light path and violet being furthest from the incident light path demonstrating the concept of light dispersion",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 873
+    },
+    {
+        "Prompt": "Sunlight passing through a crystal, displaying the separated colors",
+        "Explanation": "The model should generate an image of sunlight passing through a crystal, showing the light being broken into its component colors, with those colors generally being in the order of red, orange, yellow, green, blue, indigo, and violet, due to the crystal's light dispersion properties",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 874
+    },
+    {
+        "Prompt": "A light source shining on an oil slick on a wet road, displaying a range of colors",
+        "Explanation": "The model should generate an image showing a light source (like headlights or sunlight) hitting an oil slick on a wet road, with the oil exhibiting a range of rainbow-like colors due to light dispersion and thin-film interference, and generally shows the colors in the correct order from red to violet",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 875
+    },
+    {
+        "Prompt": "A flashlight beam passing through mist",
+        "Explanation": "The model should generate an image showing a flashlight beam clearly visible as it passes through mist, with the mist illuminated along a bright path due to light scattering",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 876
+    },
+    {
+        "Prompt": "Headlights of a car in heavy fog",
+        "Explanation": "The model should generate an image showing the headlights of a car projecting through thick fog, with a diffused and widespread beam of light, making a bright path through the fog due to the scattering of light",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 877
+    },
+    {
+        "Prompt": "A laser beam passing through a dusty room",
+        "Explanation": "The model should generate an image showing a laser beam that is visible in a dusty room, with a bright path of light scattering off the dust particles, illuminating its path through the room",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 878
+    },
+    {
+        "Prompt": "Sunlight entering a forest, scattering off the leaves and foliage",
+        "Explanation": "The model should generate an image of sunlight coming through a forest canopy, with a diffuse and scattered light making a bright path through the leaves and foliage due to the light being scattered",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 879
+    },
+    {
+        "Prompt": "A magnifying glass over a small map",
+        "Explanation": "The model should generate an image of a magnifying glass held over a map, with the map details below the magnifying glass appearing larger than other areas of the map",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 880
+    },
+    {
+        "Prompt": "a magnifying glass placed over an open notebook",
+        "Explanation": "The model should generate an image showing a magnifying glass held above an open notebook, with the text under the lens appearing larger than the text outside of the lens due to magnification",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 881
+    },
+    {
+        "Prompt": "Viewing a clock through a handheld magnifier",
+        "Explanation": "The model should generate an image showing a magnifying glass placed over a clock face, with the numbers and hands under the lens appearing larger than those outside the lens, demonstrating magnification",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 882
+    },
+    {
+        "Prompt": "A magnifying glass over a line of ants walking on the ground",
+        "Explanation": "The model should generate an image showing a magnifying glass above a line of ants with those ants appearing larger under the lens compared to the ones outside of the lens",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 883
+    },
+    {
+        "Prompt": "A magnifying glass over a printed circuit board",
+        "Explanation": "The model should generate an image showing a magnifying glass over a printed circuit board, with the small components under the lens appearing larger, demonstrating the magnifying effect",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Optics",
+        "prompt_id": 884
+    },
+    {
+        "Prompt": "A cup of oil mixed with water after long time",
+        "Explanation": "The model should generate an image showing a cup where the oil and water have separated into distinct layers, with the oil on top, demonstrating their immiscibility over time and the lower density of oil",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 885
+    },
+    {
+        "Prompt": "There is a glass containing water and beer",
+        "Explanation": "The model should generate an image of a glass where the beer is somewhat mixed into the water, showing a less distinct separation than that of oil and water due to the beer’s miscibility",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 886
+    },
+    {
+        "Prompt": "There is a glass containing water and benzene",
+        "Explanation": "The model should generate an image of a glass where the benzene forms a distinct layer above the water. The interface between the two liquids should be clear and well-defined, demonstrating their immiscibility and the lower density of benzene",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 887
+    },
+    {
+        "Prompt": "A soda can opened after violently shaken",
+        "Explanation": "The model should generate an image of a soda can being opened with significant fizzing and a spray of liquid, indicating a large release of pressure due to prior agitation",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 888
+    },
+    {
+        "Prompt": "A compass needle pointing north near a strong magnet",
+        "Explanation": "The model should generate an image showing a compass needle pointing towards the magnet, even if the magnet isn't perfectly aligned with geographic north, demonstrating magnetic force and interaction",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 889
+    },
+    {
+        "Prompt": "A tuning fork vibrating inside a glass of water",
+        "Explanation": "The model should generate an image showing a tuning fork vibrating inside a glass of water, with visible ripples or disturbances in the water demonstrating how the vibrations are transferred from the metal to the liquid",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 890
+    },
+    {
+        "Prompt": "The bulb connected to the battery through tungsten wires",
+        "Explanation": "The model should generate an image of a lightbulb that is lit, connected to a battery by clearly visible tungsten wires, demonstrating good electrical conductivity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 891
+    },
+    {
+        "Prompt": "The bulb connected to the battery through copper wires",
+        "Explanation": "The model should generate an image of a lightbulb that is lit, connected to a battery by clearly visible copper wires, demonstrating good electrical conductivity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 892
+    },
+    {
+        "Prompt": "The bulb connected to the battery through rubber wires",
+        "Explanation": "The model should generate an image of a lightbulb that is unlit, connected to a battery by clearly visible rubber 'wires,' demonstrating the lack of electrical conductivity of rubber and resulting in a broken circuit",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 893
+    },
+    {
+        "Prompt": "A lightbulb connected to a battery with a length of string",
+        "Explanation": "The model should generate an image of a lightbulb that is unlit, connected to a battery using a length of string or thread, demonstrating that string is a poor conductor of electricity",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 894
+    },
+    {
+        "Prompt": "A lightbulb connected to a battery by a wooden stick",
+        "Explanation": "The model should generate an image of a lightbulb that is unlit, connected to a battery through a visible wooden stick, demonstrating that wood is a poor conductor of electricity and the circuit will not work",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 895
+    },
+    {
+        "Prompt": "A transparent beaker containing supersaturated sodium chloride",
+        "Explanation": "The model should generate an image of a clear, transparent solution held in a transparent beaker There may be incipient crystal formation (very small, sparse crystals) visible",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 896
+    },
+    {
+        "Prompt": "Magnet near iron filings",
+        "Explanation": "The model should generate an image of a magnet with iron filings clinging to it",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 897
+    },
+    {
+        "Prompt": "Magnet near cobalt filings",
+        "Explanation": "The model should generate an image of a magnet with cobalt filings clinging to it",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 898
+    },
+    {
+        "Prompt": "Magnet near nickel filings",
+        "Explanation": "The model should generate an image of a magnet with nickel filings clinging to it",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 899
+    },
+    {
+        "Prompt": "The balloon that has been rubbed comes into contact with long hair",
+        "Explanation": "The model should generate an image of human hair being visibly attracted to a balloon",
+        "Category": "Physical Knowledge",
+        "Subcategory": "Physical Properties",
+        "prompt_id": 900
+    },
+    {
+        "Prompt": "A candle in space",
+        "Explanation": "The model should generate an image showing a candle that is not burning",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 901
+    },
+    {
+        "Prompt": "Within a sealed glass container of carbon dioxide, a burning candle has been left to stand for a while",
+        "Explanation": "The model should generate an image showing a candle in a sealed glass jar and its flame has been extinguished",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 902
+    },
+    {
+        "Prompt": "A sealed glass jar filled with carbon dioxide contains a burning magnesium rod",
+        "Explanation": "The model should generate an image showing a vigorously burning magnesium rod inside a sealed glass jar. The image should prominently feature a dazzling, intense white light emanating from the burning magnesium",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 903
+    },
+    {
+        "Prompt": "A sealed glass jar filled with nitrogen contains a burning magnesium rod",
+        "Explanation": "The model should generate an image showing a burning magnesium rod inside a sealed glass jar, with intense light",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 904
+    },
+    {
+        "Prompt": "A sealed glass jar filled with oxygen contains a burning iron wire",
+        "Explanation": "The model should generate an image showing a thin iron wire inside a sealed glass jar that is burning intensely and producing sparks in a pure oxygen atmosphere, illustrating that oxygen greatly supports combustion",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 905
+    },
+    {
+        "Prompt": "A small piece of wood burning in a sealed jar with pure oxygen",
+        "Explanation": "The model should generate an image of a piece of wood that is burning very intensely inside of a jar filled with pure oxygen",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 906
+    },
+    {
+        "Prompt": "A lit match inside a sealed jar with only water vapor",
+        "Explanation": "The model should generate an image showing a match that has been extinguished inside of a jar full of only water vapor, with the match looking dark or burnt, and illustrating the lack of oxygen to support combustion",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 907
+    },
+    {
+        "Prompt": "A piece of phosphorus burning inside a sealed jar with fluorine gas",
+        "Explanation": "The model should generate an image showing a piece of phosphorus burning rapidly in a sealed jar filled with fluorine gas, with very strong and quick combustion, as fluorine will support even more vigorous combustion than oxygen does",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 908
+    },
+    {
+        "Prompt": "A sodium metal burning inside of a jar of chlorine gas",
+        "Explanation": "The model should generate an image of sodium metal burning in a sealed jar of chlorine gas, with a bright flame and white smoke or particulates",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 909
+    },
+    {
+        "Prompt": "A small candle flame inside of a sealed jar where the air has been replaced with helium",
+        "Explanation": "The model should generate an image of a candle flame that is extinguishing inside of a sealed jar",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 910
+    },
+    {
+        "Prompt": "The sodium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly yellow or orange, representing the characteristic flame color when sodium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 911
+    },
+    {
+        "Prompt": "The copper is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly green or blue-green, representing the characteristic flame color when copper is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 912
+    },
+    {
+        "Prompt": "The potassium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly lilac or violet, representing the characteristic flame color when potassium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 913
+    },
+    {
+        "Prompt": "The lithium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly crimson or deep red, representing the characteristic flame color when lithium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 914
+    },
+    {
+        "Prompt": "The calcium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly orange-red, representing the characteristic flame color when calcium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 915
+    },
+    {
+        "Prompt": "The barium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly pale green or yellow-green, representing the characteristic flame color when barium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 916
+    },
+    {
+        "Prompt": "The strontium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly crimson or scarlet, representing the characteristic flame color when strontium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 917
+    },
+    {
+        "Prompt": "The cesium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is distinctly blue or violet, representing the characteristic flame color when cesium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 918
+    },
+    {
+        "Prompt": "The magnesium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a very bright white flame, representing the characteristic flame color when magnesium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 919
+    },
+    {
+        "Prompt": "The aluminum is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is mostly colorless or a very bright white color, with the lack of strong color representing the typical flame color when aluminum is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 920
+    },
+    {
+        "Prompt": "The zinc is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is mainly colorless or blueish-white to pale green, representing the characteristic flame color when zinc is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 921
+    },
+    {
+        "Prompt": "The lead is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that appears a pale blue or white color, representing the characteristic flame color when lead is burned, which may be faint",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 922
+    },
+    {
+        "Prompt": "The antimony is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is pale blue or white, which is the typical color that antimony produces when burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 923
+    },
+    {
+        "Prompt": "The cadmium is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is red or orange, representing the characteristic flame color when cadmium is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 924
+    },
+    {
+        "Prompt": "The arsenic is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is pale blue or whitish, representing the characteristic flame color when arsenic is burned, which is typically very faint",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 925
+    },
+    {
+        "Prompt": "The boron is burning, highlighting the color",
+        "Explanation": "The model should generate an image showing a flame that is bright green, representing the characteristic flame color when boron is burned",
+        "Category": "Chemistry",
+        "Subcategory": "Combustion",
+        "prompt_id": 926
+    },
+    {
+        "Prompt": "an iron block that is not rusted",
+        "Explanation": "The model should generate an image showing an iron block with a clean, metallic, and shiny surface, with no visible signs of rust or corrosion",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 927
+    },
+    {
+        "Prompt": "an iron block that is rusted",
+        "Explanation": "The model should generate an image showing an iron block with a surface covered in visible rust, having a reddish-brown color and a rough, pitted texture indicating corrosion",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 928
+    },
+    {
+        "Prompt": "A copper pipe that is rusted",
+        "Explanation": "The model should generate an image of a copper pipe with a visible layer of green patina, showing the characteristic corrosion of copper",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 929
+    },
+    {
+        "Prompt": "Copper wire exposed to air for a long time",
+        "Explanation": "The model should generate an image showing a copper wire with a duller, slightly greenish or brownish surface",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 930
+    },
+    {
+        "Prompt": "A piece of weathered aluminum",
+        "Explanation": "The model should generate an image showing a piece of aluminum that appears weathered, with a dull grey surface due to the formation of aluminum oxide, rather than rust",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 931
+    },
+    {
+        "Prompt": "A lead roof with signs of oxidation",
+        "Explanation": "The model should generate an image of a lead roof with a dull grey or white surface due to the formation of lead oxide, not rust or red, due to oxidation",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 932
+    },
+    {
+        "Prompt": "A piece of galvanized steel exposed to moisture, with early signs of corrosion",
+        "Explanation": "The model should generate an image showing a piece of galvanized steel with some white corrosion products forming in spots where the zinc coating is compromised, showing a different type of oxidation to iron",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 933
+    },
+    {
+        "Prompt": "A piece of silver cutlery that has some tarnish",
+        "Explanation": "The model should generate an image of a piece of silver cutlery, with a dark grey or black tarnish on its surface due to its reaction with sulfur compounds, and not rust",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 934
+    },
+    {
+        "Prompt": "A piece of gold that has been exposed to oxygen for decades",
+        "Explanation": "The model should generate an image of a piece of gold that has no visible corrosion or oxidation, demonstrating that it is highly resistant to oxidation, even after decades of exposure to oxygen",
+        "Category": "Chemistry",
+        "Subcategory": "Metal Corrosion",
+        "prompt_id": 935
+    },
+    {
+        "Prompt": "A Gold block submerged in hydrochloric acid",
+        "Explanation": "The model should generate an image showing a gold block in hydrochloric acid with no visible change on the surface of the block, no bubbling, and the solution appearing colorless, demonstrating gold's lack of reactivity with hydrochloric acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 936
+    },
+    {
+        "Prompt": "An iron nail submerged in hydrochloric acid",
+        "Explanation": "The model should generate an image showing an iron nail immersed in hydrochloric acid, with visible bubbling, some corrosion around the nail, and the solution potentially appearing a very pale green or yellow, indicating that it is reacting with the acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 937
+    },
+    {
+        "Prompt": "A piece of copper in nitric acid",
+        "Explanation": "The model should generate an image showing a piece of copper in nitric acid, with bubbles forming and brown fumes coming from the solution, and the solution potentially having a blue or green tint as copper ions dissolve into the acid, demonstrating copper reacting with nitric acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 938
+    },
+    {
+        "Prompt": "A strip of zinc in sulfuric acid",
+        "Explanation": "The model should generate an image showing a strip of zinc in sulfuric acid with a good amount of bubbling and a colorless and transparent solution during the reaction",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 939
+    },
+    {
+        "Prompt": "A sample of aluminum in hydrochloric acid",
+        "Explanation": "The model should generate an image of aluminum in hydrochloric acid showing visible bubbling and signs of a reaction, that the aluminum is being dissolved in the acid, and that the solution appears colorless and transparent during this reaction process",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 940
+    },
+    {
+        "Prompt": "A piece of magnesium in a solution of hydrochloric acid",
+        "Explanation": "The model should generate an image of a piece of magnesium that is reacting vigorously in hydrochloric acid with the production of many bubbles, indicating that it is rapidly reacting, and the solution appearing colorless and transparent throughout this process",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 941
+    },
+    {
+        "Prompt": "A silver ring placed in nitric acid",
+        "Explanation": "The model should generate an image of a silver ring placed in nitric acid showing no visible reaction or bubbling, and the solution appearing colorless and transparent, indicating silver’s inert nature in that acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 942
+    },
+    {
+        "Prompt": "A platinum wire submerged in hydrochloric acid",
+        "Explanation": "The model should generate an image showing a platinum wire immersed in hydrochloric acid that has no visible bubbling or change, and the solution appearing colorless and transparent, showing its lack of reactivity with this acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 943
+    },
+    {
+        "Prompt": "A piece of tin in dilute sulfuric acid",
+        "Explanation": "The model should generate an image showing a piece of tin in dilute sulfuric acid with visible bubbling, indicating that a chemical reaction is taking place, and the solution appearing colorless and transparent as this reaction occurs",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 944
+    },
+    {
+        "Prompt": "A piece of nickel being placed in hydrochloric acid",
+        "Explanation": "The model should generate an image showing a piece of nickel in hydrochloric acid where small amounts of bubbling are occurring and the nickel appears to be dissolving very slowly in the acid, demonstrating a slow reaction, with the solution potentially being a very pale green color",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 945
+    },
+    {
+        "Prompt": "A large amount of carbon dioxide is bubbled through clear limewater solution",
+        "Explanation": "The model should generate an image showing a clear limewater solution becoming cloudy or milky as a large amount of carbon dioxide is bubbled through it, due to the formation of a calcium carbonate precipitate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 946
+    },
+    {
+        "Prompt": "A copper sulfate solution and an iron rod in it, the state of the solution and the iron rod should be highlighted",
+        "Explanation": "The model should generate an image showing an iron rod immersed in a blue copper sulfate solution, where the iron rod is corroding, and the blue color of the solution is beginning to fade or change to a light green color, while the surface of the iron rod is covered with a layer of red material demonstrating the reaction between iron and copper sulfate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 947
+    },
+    {
+        "Prompt": "A silver nitrate solution and a zinc bar in it, the state of the solution and the zinc bar should be highlighted",
+        "Explanation": "The model should generate an image showing a zinc bar immersed in a silver nitrate solution where silver metal is forming as a solid, and the zinc bar is being coated with a silvery layer, indicating the reaction between zinc and silver nitrate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 948
+    },
+    {
+        "Prompt": "A lead strip in a copper nitrate solution, highlighting the state of the solution and the lead strip",
+        "Explanation": "The model should generate an image of a lead strip in a blue copper nitrate solution where solid copper is beginning to form and plate out on the lead strip, with a reddish-brown color, and the lead metal is appearing corroded and having a duller appearance as it has begun to react in the solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 949
+    },
+    {
+        "Prompt": "A piece of silver in a solution of copper nitrate, highlighting the state of the solution and the piece of silver",
+        "Explanation": "The model should generate an image of silver in a blue copper nitrate solution, showing no noticeable reaction and no change to either the silver metal or the solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 950
+    },
+    {
+        "Prompt": "A strip of copper in a solution of aluminum sulfate, highlighting the state of the solution and the copper strip",
+        "Explanation": "The model should generate an image of a copper strip in a solution of aluminum sulfate showing no signs of any reaction in the solution or corrosion on the copper",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 951
+    },
+    {
+        "Prompt": "A magnesium strip immersed in a solution of copper chloride, highlighting the state of the solution and the magnesium strip",
+        "Explanation": "The model should generate an image of a magnesium strip reacting rapidly in a solution of copper chloride, with bubbles forming, and the magnesium metal corroding and becoming smaller, and with the copper coming out of solution and visibly plating on the magnesium strip with a reddish-brown color, showing a very rapid reaction",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 952
+    },
+    {
+        "Prompt": "A piece of iron wire immersed in a nickel sulfate solution, highlighting the state of the solution and the iron wire",
+        "Explanation": "The model should generate an image showing a piece of iron wire in a solution of nickel sulfate, with the wire corroding, and with nickel plating out of solution on the wire with a silvery appearance and the solution's original green color fading or becoming more pale",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 953
+    },
+    {
+        "Prompt": "A strip of tin placed in a silver nitrate solution, highlighting the state of the solution and the tin strip",
+        "Explanation": "The model should generate an image of a strip of tin in a silver nitrate solution where silver metal is visibly forming as a solid, and plating out on the tin strip with a shiny, silvery color and the tin metal is being dissolved and corroding with a pitted or uneven surface, due to the reaction",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 954
+    },
+    {
+        "Prompt": "A nickel bar immersed in a copper chloride solution, highlighting the state of the solution and the nickel bar",
+        "Explanation": "The model should generate an image showing a nickel bar immersed in a green solution of copper chloride, with the nickel slowly dissolving, and a reddish-brown copper layer forming on the surface of the nickel bar, and the solution gradually appearing less green, demonstrating the reaction between copper chloride and nickel, but being slower",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 955
+    },
+    {
+        "Prompt": "A small piece of sodium metal added to water",
+        "Explanation": "The model should generate an image showing a small piece of sodium metal reacting vigorously with water, with visible bubbling, fizzing, and potentially a flame, demonstrating the exothermic reaction",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 956
+    },
+    {
+        "Prompt": "A solution of potassium iodide being mixed with lead nitrate",
+        "Explanation": "The model should generate an image showing two clear solutions being mixed together to create a cloudy or yellow solution with a yellow precipitate, demonstrating a double displacement reaction",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 957
+    },
+    {
+        "Prompt": "Hydrogen sulfide gas is bubbled through a copper sulfate solution",
+        "Explanation": "The model should generate an image showing a clear copper sulfate solution becoming cloudy, and forming a black precipitate as hydrogen sulfide gas is bubbled through it",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 958
+    },
+    {
+        "Prompt": "Hydrogen sulfide gas is bubbled through a solution of concentrated sulfuric acid",
+        "Explanation": "The model should generate an image showing a concentrated sulfuric acid solution becoming cloudy with visible yellow or white particulate matter (sulfur)",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 959
+    },
+    {
+        "Prompt": "The process of electrolysis of molten sodium chloride",
+        "Explanation": "The model should generate an image showing an electrolysis setup with molten sodium chloride, producing sodium metal at the cathode, and showing a greenish-yellow gas (chlorine) forming at the anode",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 960
+    },
+    {
+        "Prompt": "The mixture of vinegar and litmus solution in a glass",
+        "Explanation": "The model should generate an image showing a glass of a vinegar and litmus solution mixture, with the liquid appearing red or pink, indicating an acidic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 961
+    },
+    {
+        "Prompt": "The mixture of cola and litmus solution in a glass",
+        "Explanation": "The model should generate an image of a glass of cola and litmus solution mixed liquid, with the liquid appearing red or pink, indicating an acidic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 962
+    },
+    {
+        "Prompt": "The mixture of baking soda solution and litmus solution in a glass",
+        "Explanation": "The model should generate an image showing a glass of baking soda and litmus solution mixture, with the liquid appearing blue or purple, indicating a basic (alkaline) solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 963
+    },
+    {
+        "Prompt": "The mixture of milk and litmus solution in a glass",
+        "Explanation": "The model should generate an image of a glass of milk with litmus solution that has been left standing for a while, with the liquid appearing purple or a light blue-purple, indicating a neutral to slightly basic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 964
+    },
+    {
+        "Prompt": "A glass of lemon juice and litmus solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image of a glass containing lemon juice mixed with litmus solution, and the liquid appearing red or pink, indicating an acidic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 965
+    },
+    {
+        "Prompt": "A glass of soapy water and litmus solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image showing a glass of soapy water mixed with litmus solution, with the solution appearing blue or purple, indicating the basic nature of soapy water",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 966
+    },
+    {
+        "Prompt": "A glass of black coffee and litmus solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image of a glass of black coffee and litmus solution, with the liquid appearing red or pink, indicating an acidic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 967
+    },
+    {
+        "Prompt": "A glass of ammonia and litmus solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image of ammonia mixed with litmus solution, with the liquid appearing a dark blue or purple, due to the high basicity of ammonia",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 968
+    },
+    {
+        "Prompt": "A glass of apple juice and litmus solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image of a glass of apple juice with litmus solution, with the liquid appearing red or pink, indicating that it is an acidic solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 969
+    },
+    {
+        "Prompt": "A glass of hydrochloric acid and phenolphthalein solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image showing a glass of hydrochloric acid mixed with phenolphthalein solution, with the liquid appearing colorless",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 970
+    },
+    {
+        "Prompt": "A glass of sodium hydroxide solution and phenolphthalein solution mixed liquid that has been standing for a while",
+        "Explanation": "The model should generate an image showing a glass of sodium hydroxide solution mixed with phenolphthalein solution, with the liquid appearing pink or magenta, indicating a basic (alkaline) solution",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 971
+    },
+    {
+        "Prompt": "Vinegar after mixing with red cabbage indicator",
+        "Explanation": "The model should generate an image showing a clear solution of vinegar mix with indicator, the solution should look red, indicating its acidity",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 972
+    },
+    {
+        "Prompt": "The mixture of baking soda solution and vinegar in a glass",
+        "Explanation": "The model should generate an image showing a glass where a baking soda solution is reacting with vinegar, with visible bubbling due to the release of carbon dioxide gas",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 973
+    },
+    {
+        "Prompt": "The mixture of baking soda solution and lemon juice in a glass",
+        "Explanation": "The model should generate an image showing a glass of lemon juice mixed with baking soda, with the mixture fizzing and producing bubbles, due to the formation of carbon dioxide gas",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 974
+    },
+    {
+        "Prompt": "A piece of marble reacting with hydrochloric acid",
+        "Explanation": "The model should generate an image of a piece of marble reacting with hydrochloric acid, with visible bubbles being released from the surface of the marble due to carbon dioxide production",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 975
+    },
+    {
+        "Prompt": "A solution of calcium carbonate reacting with acetic acid",
+        "Explanation": "The model should generate an image showing a solution of calcium carbonate reacting with acetic acid, producing clear bubbles due to the formation of carbon dioxide",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 976
+    },
+    {
+        "Prompt": "Excess hydrochloric acid is added to a cloudy limewater solution",
+        "Explanation": "The model should generate an image showing a cloudy limewater solution becoming clear after excess hydrochloric acid is added, as the calcium carbonate precipitate dissolves due to the acid",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 977
+    },
+    {
+        "Prompt": "Copper sulfate solution mixing with sodium hydroxide solution in a beaker",
+        "Explanation": "The model should generate a image of liquid in a beaker and should show the formation of a light blue precipitate (copper hydroxide)",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 978
+    },
+    {
+        "Prompt": "Sodium sulfate solution mixing with barium chloride solution in a beaker",
+        "Explanation": "The model should generate a image of liquid in a beaker, and must show the formation of a white precipitate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 979
+    },
+    {
+        "Prompt": "Silver nitrate solution mixing with potassium chromate solution in a test tube",
+        "Explanation": "The model should generate a image of liquid in a test tube, and must show the formation of a red precipitate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 980
+    },
+    {
+        "Prompt": "Silver nitrate solution mixing with sodium chloride solution in a beaker",
+        "Explanation": "The model should generate a image of liquid in a beaker, and must show the formation of a white precipitate",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 981
+    },
+    {
+        "Prompt": "Sulfuric acid stained the T-shirt",
+        "Explanation": "The model should generate an image showing a T-shirt with visible damage and charring in the area where sulfuric acid was spilled, indicating the destructive nature of the acid on organic material",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 982
+    },
+    {
+        "Prompt": "A piece of wood that has been splashed with concentrated nitric acid",
+        "Explanation": "The model should generate an image showing a piece of wood that has been splashed with concentrated nitric acid with the wood showing signs of burning, discoloration, and degradation, from the acid corrosion",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 983
+    },
+    {
+        "Prompt": "A sheet of paper after concentrated sulfuric acid is poured on it",
+        "Explanation": "The model should generate an image showing a sheet of paper with significant charring, blackening, and degradation in the area where concentrated sulfuric acid was poured, illustrating the destructive and corrosive effect of the acid on organic material",
+        "Category": "Chemistry",
+        "Subcategory": "Solution Chemical Reaction",
+        "prompt_id": 984
+    },
+    {
+        "Prompt": "A laser beam slicing through a glass of colloid",
+        "Explanation": "Image depicts a clear glass or beaker filled with a fluid exhibiting the Tyndall effect. A visible laser beam should be shown passing through the fluid, with the path of the beam clearly illuminated within the fluid due to light scattering by colloidal particles. The fluid should appear slightly hazy or cloudy, not completely clear",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 985
+    },
+    {
+        "Prompt": "A molecule of methane",
+        "Explanation": "The model should generate an image depicting a ball-and-stick or space-filling model of a methane molecule, showing one carbon atom bonded to four hydrogen atoms, to show a simple organic molecule",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 986
+    },
+    {
+        "Prompt": "Unused charcoals",
+        "Explanation": "The model should generate an image showing unused charcoal, with the pieces appearing dark black, solid, and retaining their original shape and structure, representing the state before combustion",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 987
+    },
+    {
+        "Prompt": "Used charcoals",
+        "Explanation": "The model should generate an image showing used charcoal, with pieces that appear white or light grey, broken, indicating that they have undergone combustion and the original carbon source has been consumed",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 988
+    },
+    {
+        "Prompt": "Much Salt have been added into the protein solution in a beaker",
+        "Explanation": "The model should generate a beaker, and the solution in it should appear cloudy or have a visible precipitate of the protein",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 989
+    },
+    {
+        "Prompt": "A burning matchstick dipped into water",
+        "Explanation": "The model should generate an image showing a burning matchstick that is quickly extinguished after being dipped into water, with the charred part of the matchstick appearing darker or blacker due to the water and the extinguishing process",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 990
+    },
+    {
+        "Prompt": "White sugar crystals",
+        "Explanation": "The model should generate an image showing pure, white sugar crystals with a clear, well-defined crystalline structure",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 991
+    },
+    {
+        "Prompt": "Burnt sugar",
+        "Explanation": "The model should generate an image showing burnt sugar with a dark brown or black color, a sticky or caramelized texture, and possibly smoke or fumes",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 992
+    },
+    {
+        "Prompt": "Ammonium nitrate crystals dissolving in water in a beaker",
+        "Explanation": "The model should generate an image of water in a beaker with ammonium nitrate crystals being added and dissolving. The image should suggest a decrease in temperature, with condensation forming on the outside of the beaker",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 993
+    },
+    {
+        "Prompt": "Sodium hydroxide pellets dissolving in water in a beaker",
+        "Explanation": "The model should generate an image of water in a beaker with sodium hydroxide  pellets being added and dissolving, with slight wisps of steam rising from the solution, demonstrating the released heat",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 994
+    },
+    {
+        "Prompt": "A clear solution of copper sulfate",
+        "Explanation": "The model should generate an image showing a transparent, bright blue solution in a glass container, representing dissolved copper sulfate",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 995
+    },
+    {
+        "Prompt": "A solution of silver nitrate before light exposure",
+        "Explanation": "The model should generate an image depicting a clear, colorless liquid in a transparent container. There should be no visible precipitate or cloudiness, representing a stable silver nitrate solution protected from light",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 996
+    },
+    {
+        "Prompt": "A solution of silver nitrate after light exposure",
+        "Explanation": "The model should generate an image depicting a solution in transparent container with the silver particles on the bottom. This showcases a container that was not covered or not shielded from radiation",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 997
+    },
+    {
+        "Prompt": "A solid sample of potassium permanganate",
+        "Explanation": "The model should generate an image showing dark purple or almost black crystals or powder, characteristic of solid potassium permanganate",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 998
+    },
+    {
+        "Prompt": "Potassium permanganate dissolved in water",
+        "Explanation": "The model should generate an image showing a deep purple or magenta solution, representing potassium permanganate dissolved in water. The intensity of the color should indicate a significant concentration",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 999
+    },
+    {
+        "Prompt": "An open container of a volatile organic solvent",
+        "Explanation": "The model should generate an image showing an open container holding a liquid, with visible vapors emanating from the surface. The scene should convey the rapid evaporation of the solvent and potential hazards associated with its flammability or inhalation",
+        "Category": "Chemistry",
+        "Subcategory": "Chemical Properties",
+        "prompt_id": 1000
+    }
+]

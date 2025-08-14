@@ -1,0 +1,1 @@
+huggingface-cli download --repo-type dataset --resume-download --local-dir-use-symlinks False stepfun-ai/NextStep-data --local-dir ./nextstep_data

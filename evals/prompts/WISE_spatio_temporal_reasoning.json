@@ -1,0 +1,2102 @@
+[
+    {
+        "Prompt": "The Sydney Opera House when it's 8 AM in San Francisco",
+        "Explanation": "The model should show the Sydney Opera House in the evening, as it's ahead in time compared to San Francisco. The lights inside the building might be on, and there could be people leaving after an evening performance or event.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 401
+    },
+    {
+        "Prompt": "The mountain trail when the skiers are coming down.",
+        "Explanation": "The model should show the mountain trail covered in snow with skiers skiing down.  This indicates that it is winter, and the trail is used for skiing activities.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 402
+    },
+    {
+        "Prompt": "The wheat field when the frogs croak loudly at night.",
+        "Explanation": "The model should generate an image of a ripe wheat field.    Frogs croak loudly at night in summer, and wheat is ripe in summer.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 403
+    },
+    {
+        "Prompt": "The school playground when the leaves are falling from the trees.",
+        "Explanation": "A picture of the school playground with fallen leaves scattered on the ground and the trees with fewer leaves should be generated.  Falling leaves indicate that it is autumn, and the playground should have an autumnal atmosphere.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 404
+    },
+    {
+        "Prompt": "The mountain when the leaves are turning red and the birds are migrating south.",
+        "Explanation": "The model should generate an image of a mountain with red leaves.    Leaves turning red indicates it's autumn, and birds migrating south also shows that it's autumn.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 405
+    },
+    {
+        "Prompt": "The persimmon tree when farmers begin harvesting sweet potatoes.",
+        "Explanation": "Persimmons should be orange and ripe.  Sweet potato harvest coincides with autumn when persimmons mature.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 406
+    },
+    {
+        "Prompt": "The owls when the moon is rising",
+        "Explanation": "An image of owls perched on tree branches should be generated, as owls are nocturnal and become active when the moon rises.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 407
+    },
+    {
+        "Prompt": "A park in London at 10 PM during the summer solstice",
+        "Explanation": "The image should depict a park in London with the sky still relatively light due to the late sunset on the summer solstice. There might be people still enjoying the outdoors, having picnics or just relaxing on the benches, as the day is longer at this time of the year.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 408
+    },
+    {
+        "Prompt": "The sunflowers when the sun is setting",
+        "Explanation": "The model should generate an image of sunflowers facing west, as sunflowers track the sun during the day and face west when the sun is setting.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 409
+    },
+    {
+        "Prompt": "The river when the squirrels are busy storing food.",
+        "Explanation": "The model should generate an image of a frozen river.    Squirrels store food in autumn or approaching winter, and rivers freeze in winter.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 410
+    },
+    {
+        "Prompt": "The fishing village when sardine boats stop going out at night.",
+        "Explanation": "Village docks empty. Night fishing stops when sardines migrate away in winter.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 411
+    },
+    {
+        "Prompt": "The street lamps when the first fireflies appear in the meadow.",
+        "Explanation": "The image should show illuminated street lamps with fireflies glowing.  Fireflies typically appear at dusk, so the scene should have twilight lighting.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 412
+    },
+    {
+        "Prompt": "The Pyramids of Giza at 8 PM Tokyo time.",
+        "Explanation": "The image should depict the Pyramids of Giza in the early afternoon, with tourists and clear daylight.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 413
+    },
+    {
+        "Prompt": "The wheat field when the frogs are croaking loudly at night.",
+        "Explanation": "A picture of a wheat field that is green and growing should be generated.  Frogs croaking loudly at night suggests that it is spring or early summer, and wheat is usually growing during this time.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 414
+    },
+    {
+        "Prompt": "The rice paddies when lotus flowers start closing their petals.",
+        "Explanation": "Paddies flooded with young rice plants.  Lotuses close at dusk, indicating evening time.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 415
+    },
+    {
+        "Prompt": "The cherry trees when beekeepers open their hives for first harvest.",
+        "Explanation": "Cherry blossoms in full bloom.  Beekeepers typically harvest honey in spring during major nectar flows.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 416
+    },
+    {
+        "Prompt": "The Sydney Opera House at 6 PM London Time.",
+        "Explanation": "The image should depict Sydney Opera House in the early morning, possibly with sunrise colors.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 417
+    },
+    {
+        "Prompt": "A Rio de Janeiro beach at 9 AM Moscow time.",
+        "Explanation": "The image should depict a Rio beach at early night, likely empty or with very few people.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 418
+    },
+    {
+        "Prompt": "The maple syrup buckets when wood frogs start croaking.",
+        "Explanation": "Buckets should be actively collecting sap. Wood frogs breed in early spring when maple sap flows.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 419
+    },
+    {
+        "Prompt": "The cranberry bog when geese form V-shaped flocks.",
+        "Explanation": "Bogs flooded for harvest (red berries visible). Geese migrate south during autumn harvest.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 420
+    },
+    {
+        "Prompt": "The street when the streetlights are turned on and the shops are closing.",
+        "Explanation": "A picture of the street in the evening with streetlights illuminating the area and shop shutters being closed should be generated.  This indicates that it is getting late in the evening, and the street should have a quieter and dimly - lit atmosphere.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 421
+    },
+    {
+        "Prompt": "A busy street in Tokyo at midnight local time",
+        "Explanation": "An image of a street in Tokyo with neon lights still bright, but with fewer pedestrians and maybe some late - night food stalls still open. The atmosphere should reflect the quietness of the city at midnight compared to its daytime hustle and bustle.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 422
+    },
+    {
+        "Prompt": "The garden when the butterflies are fluttering around the flowers.",
+        "Explanation": "An image of a garden with colorful flowers in full bloom and butterflies flying around should be generated.  Butterflies are active during spring and summer when flowers are blooming.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 423
+    },
+    {
+        "Prompt": "The wheat field when children start making dandelion chains.",
+        "Explanation": "The wheat should be golden and ready for harvest.  Dandelion chains are made in late spring/early summer when both dandelions bloom and wheat matures.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 424
+    },
+    {
+        "Prompt": "The lighthouse when monarch butterflies cluster on pine branches.",
+        "Explanation": "Lighthouse beam visible in autumn dusk. Monarchs migrate south in fall when lighthouse use increases.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 425
+    },
+    {
+        "Prompt": "A desert landscape in Sahara when it's 11 PM in London",
+        "Explanation": "An image of the Sahara desert at night, with the sky full of stars and the temperature much cooler than during the day. There might be some desert animals active at night, like scorpions or snakes, and the sand dunes should be in darkness except for the light of the moon.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 426
+    },
+    {
+        "Prompt": "The daffodils when the birds return from migration.",
+        "Explanation": "The model should generate an image of blooming daffodils.    Birds return from migration in spring, and daffodils bloom in spring.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 427
+    },
+    {
+        "Prompt": "A fishing boat in the Mediterranean Sea at 5 AM Chicago time.",
+        "Explanation": "The image should depict a fishing boat in the Mediterranean Sea in the late morning/early afternoon, with clear skies and bright sunlight.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 428
+    },
+    {
+        "Prompt": "A Diwali celebration in India at 10 AM New York time.",
+        "Explanation": "The image should depict a Diwali celebration in India at night, with lit lamps and fireworks.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 429
+    },
+    {
+        "Prompt": "A coffee plantation in Colombia at 8 AM Dubai time.",
+        "Explanation": "The image should depict a coffee plantation in Colombia at late night",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 430
+    },
+    {
+        "Prompt": "The cactus garden when hummingbird feeders are taken down.",
+        "Explanation": "Cacti dormant (no flowers). Feeders removed when hummingbirds migrate in fall.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 431
+    },
+    {
+        "Prompt": "The fishing boats when cherry blossoms cover the river surface.",
+        "Explanation": "Boats should have fishing nets stored (off-season). Cherry blossom fall marks spring when fishing moratorium begins.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 432
+    },
+    {
+        "Prompt": "The city skyline when the morning chorus of robins begins.",
+        "Explanation": "The scene should show predawn lighting with city lights still on.  Robins' morning chorus starts before sunrise.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 433
+    },
+    {
+        "Prompt": "A quiet park in Buenos Aires at 2 PM Cairo time.",
+        "Explanation": "The image should depict a quiet park in Buenos Aires in the late evening, with minimal activity.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 434
+    },
+    {
+        "Prompt": "A ski resort in the Swiss Alps at 7 AM Tokyo time.",
+        "Explanation": "The image should depict a ski resort in the Swiss Alps in the late night, with few people",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 435
+    },
+    {
+        "Prompt": "The Statue of Liberty at 10 PM Dubai time.",
+        "Explanation": "The image should depict the Statue of Liberty in the early afternoon, with clear skies and bustling activity.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 436
+    },
+    {
+        "Prompt": "The Tokyo market at 3 PM London time.",
+        "Explanation": "The image should depict a Tokyo market in the late evening or night, not in the afternoon.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 437
+    },
+    {
+        "Prompt": "A university campus in London at 1 AM Melbourne time.",
+        "Explanation": "The image should depict a university campus in London at around mid-morning, with students arriving for classes.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 438
+    },
+    {
+        "Prompt": "The Great Wall of China when it's 3 PM in Los Angeles",
+        "Explanation": "The model should generate a scene of the Great Wall of China in the early morning hours, considering the time difference. The sun should be just rising, and the wall should be bathed in the soft light of dawn, with few tourists around.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 439
+    },
+    {
+        "Prompt": "The almond orchard when beekeepers move their hives away.",
+        "Explanation": "Almond trees should be past blooming. Hives are removed after pollination season ends.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 440
+    },
+    {
+        "Prompt": "The riverbank when the salmon are swimming upstream to spawn.",
+        "Explanation": "The model should create a scene of the riverbank with salmon swimming upstream.  This usually happens in late summer or autumn, and the riverbank should have an autumnal look with fallen leaves and a cooler atmosphere.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 441
+    },
+    {
+        "Prompt": "The view of Tiananmen Square at 12 PM New York time",
+        "Explanation": "The model should generate an image of Tiananmen Square at night",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 442
+    },
+    {
+        "Prompt": "A street market in Marrakech at 8 PM Tokyo time.",
+        "Explanation": "The image should depict a street market in Marrakech in the early afternoon, bustling with shoppers and vendors.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 443
+    },
+    {
+        "Prompt": "The cherry orchard when floodlights illuminate the trees at night.",
+        "Explanation": "Cherry trees bare. Night illumination used in early spring to delay blooming.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 444
+    },
+    {
+        "Prompt": "The coastal pine forest when sea turtles begin laying eggs.",
+        "Explanation": "Pine trees with mature cones.  Sea turtles nest in summer when pines complete pollination.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 445
+    },
+    {
+        "Prompt": "The Eiffel Tower when the sun rises in Paris",
+        "Explanation": "The model should generate an image of the Eiffel Tower with the early morning sunlight just starting to shine on it, casting long shadows. The sky should have the colors of dawn, and there might be a few people starting their day around the tower.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 446
+    },
+    {
+        "Prompt": "A busy New York street at 3 AM Sydney time.",
+        "Explanation": "The image should show a New York street during the mid-afternoon, likely bustling with activity.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 447
+    },
+    {
+        "Prompt": "The alpine meadow when marmots begin fattening for hibernation.",
+        "Explanation": "Meadow flowers in full bloom (summer).  Marmots prepare for hibernation in late summer.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 448
+    },
+    {
+        "Prompt": "The apple orchard when the farmers are harvesting pumpkins.",
+        "Explanation": "An image of an apple orchard with apples still on the trees but starting to change color should be generated.  Harvesting pumpkins indicates that it is autumn, and apples are usually harvested in late summer or early autumn, so there should still be some apples left on the trees.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 449
+    },
+    {
+        "Prompt": "The Great Wall of China at 4 PM Dubai time.",
+        "Explanation": "The image should depict the Great Wall of China at night, with few to no people.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 450
+    },
+    {
+        "Prompt": "The view of The White House at 12 AM Beijing time",
+        "Explanation": "The model should generate an image of The White House at night",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 451
+    },
+    {
+        "Prompt": "A rainforest in the Amazon when it's 5 AM in New York",
+        "Explanation": "The image should depict the Amazon rainforest in the middle of the night, with the sounds of nocturnal animals echoing through the trees. The moonlight might filter through the dense canopy, illuminating some parts of the forest floor.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 452
+    },
+    {
+        "Prompt": "The Great Wall of China at 3 PM Dubai time.",
+        "Explanation": "The image should depict the Great Wall of China in the late evening or at night, with few to no people.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 453
+    },
+    {
+        "Prompt": "The wheat field when the swallows build nests.",
+        "Explanation": "A picture of a wheat field with golden - colored wheat that is about to mature should be generated. Swallows build nests in spring, and wheat grows and ripens in spring and early summer.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 454
+    },
+    {
+        "Prompt": "A coffee plantation in Colombia at 7 AM Dubai time.",
+        "Explanation": "The image should depict a coffee plantation in Colombia at late night or pre-dawn, likely quiet and dimly lit.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 455
+    },
+    {
+        "Prompt": "The Eiffel Tower at 8 PM Tokyo time.",
+        "Explanation": "The image should depict the Eiffel Tower in the early afternoon, with tourists and clear daylight.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 456
+    },
+    {
+        "Prompt": "The desert cactus when roadrunners start building nests.",
+        "Explanation": "Cactus should be blooming.  Roadrunners nest in spring when desert plants flower.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 457
+    },
+    {
+        "Prompt": "The city square when the fireflies are glowing.",
+        "Explanation": "The model should create a scene of the city square at night with fireflies glowing around.  Fireflies are active during warm summer nights, so the square should be depicted in a summer nighttime setting.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 458
+    },
+    {
+        "Prompt": "A Christmas market in Berlin at 2 PM Sydney time.",
+        "Explanation": "The image should depict a Christmas market in Berlin at night, with festive lights and snow.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 459
+    },
+    {
+        "Prompt": "A Carnival parade in Rio de Janeiro at 10 PM London time.",
+        "Explanation": "The image should depict a Carnival parade in Rio de Janeiro in the late afternoon, with the bright sun shining.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 460
+    },
+    {
+        "Prompt": "The maple syrup buckets when sap starts dripping from birch trees.",
+        "Explanation": "Maple buckets should be empty.  Birch sap runs after maple season (later in spring).",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 461
+    },
+    {
+        "Prompt": "A famous landmark in Paris at 4 AM Los Angeles time",
+        "Explanation": "The image should depict a famous landmark in Paris in the early afternoon, possibly with tourists.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 462
+    },
+    {
+        "Prompt": "The beach when the children are playing with snowmen.",
+        "Explanation": "The model should show a beach scene with snow covering the ground and children building snowmen.  This implies that it is winter, and the beach is covered in snow, which is an unusual but possible scenario in some cold regions during winter.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 463
+    },
+    {
+        "Prompt": "The beach in Sydney when it's 6 AM New York time",
+        "Explanation": "The model should create a picture of the beach in Sydney in the middle of the night, as there is a significant time difference between Sydney and New York. It should show the dark sky, the quiet sea, and maybe some stars still visible.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 464
+    },
+    {
+        "Prompt": "The sunflower field when crickets start chirping at dusk.",
+        "Explanation": "Sunflowers should be in full bloom. Cricket choruses peak in late summer when sunflowers mature.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 465
+    },
+    {
+        "Prompt": "A coffee shop in Rome at 10 AM Chicago time.",
+        "Explanation": "The image should depict a coffee shop in Rome in the late afternoon/early evening, with people relaxing or enjoying a late snack",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 466
+    },
+    {
+        "Prompt": "The beach when the crabs are molting.",
+        "Explanation": "The model should generate an image of a relatively empty beach with few tourists.    Crabs molt in late spring or early summer, and beaches are not so crowded at that time compared to midsummer.",
+        "Category": "time",
+        "Subcategory": "Horizontal time",
+        "prompt_id": 467
+    },
+    {
+        "Prompt": "The type of weapon used by knights in the medieval times",
+        "Explanation": "The model should generate an image of a mace or a flail",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 468
+    },
+    {
+        "Prompt": "A beach during winter.",
+        "Explanation": "The image should depict a deserted beach with cold colors, perhaps with some snow or ice, and no people.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 469
+    },
+    {
+        "Prompt": "The primary mode of long-distance communication in the early 19th century",
+        "Explanation": "The model should generate an image of a stagecoach delivering mail",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 470
+    },
+    {
+        "Prompt": "A specific type of sword used by medieval European knights",
+        "Explanation": "The model should generate an image of a broadsword or a longsword",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 471
+    },
+    {
+        "Prompt": "The musical instrument that became a symbol of jazz music in the 1920s",
+        "Explanation": "The model should generate an image of a saxophone",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 472
+    },
+    {
+        "Prompt": "The symbolic handheld device carried by affluent men in the 18th century",
+        "Explanation": "The model should generate an image of a walking cane or a decorative snuff box",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 473
+    },
+    {
+        "Prompt": "The form of entertainment dominant before the invention of television in the early 20th century",
+        "Explanation": "The model should generate an image of a stage play or a vaudeville performance",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 474
+    },
+    {
+        "Prompt": "The popular style of shoe worn by women in the 1950s",
+        "Explanation": "The model should generate an image of stiletto heels",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 475
+    },
+    {
+        "Prompt": "A lavender field during summer.",
+        "Explanation": "The image should depict a field of lavender with fully bloomed purple flowers.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 476
+    },
+    {
+        "Prompt": "The specific style of clothing worn by samurais during the Edo period",
+        "Explanation": "The model should generate an image of a Samurai wearing traditional armor like an O-yoroi or a Katana",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 477
+    },
+    {
+        "Prompt": "A close-up of a maple leaf in summer.",
+        "Explanation": "The image should show a green maple leaf, without any hints of red, orange, or yellow. As the colors of autumn would not be found in summer.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 478
+    },
+    {
+        "Prompt": "The style of armor worn by Greek hoplites in ancient times",
+        "Explanation": "The model should generate an image of hoplite armor, including a bronze cuirass, helmet, and greaves",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 479
+    },
+    {
+        "Prompt": "The specific type of printing press used by Gutenberg in the 15th century",
+        "Explanation": "The model should generate an image of a Gutenberg printing press, with its screw and movable type",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 480
+    },
+    {
+        "Prompt": "The specific form of currency used in ancient Rome",
+        "Explanation": "The model should generate an image of a Roman denarius coin",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 481
+    },
+    {
+        "Prompt": "A lavender field during winter.",
+        "Explanation": "The image should show a field of lavender covered with snow or with dried brown stems, without any flowers.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 482
+    },
+    {
+        "Prompt": "A wheat field during late autumn.",
+        "Explanation": "The image should show a wheat field with golden-brown stalks ready for harvest, or with stubble after harvesting.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 483
+    },
+    {
+        "Prompt": "The hairstyle worn by Chinese men in the late 17th century",
+        "Explanation": "The model should generate an image of a traditional Manchu queue hairstyle, where the hair is shaved in the front and tied into a long braid in the back",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 484
+    },
+    {
+        "Prompt": "A specific type of camera used in the 19th century for early photography",
+        "Explanation": "The model should generate an image of a large, wooden box camera with a bellows",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 485
+    },
+    {
+        "Prompt": "The unique style of sandal worn by ancient Romans",
+        "Explanation": "The model should generate an image of a Roman caligae sandal with its thick sole and crisscrossed straps",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 486
+    },
+    {
+        "Prompt": "A deciduous forest in the fall",
+        "Explanation": "The image should depict a forest with trees displaying autumn foliage, with red, yellow, and orange leaves.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 487
+    },
+    {
+        "Prompt": "A bear during winter.",
+        "Explanation": "The image should depict a bear sleeping in its den, as this is typical of bears during winter hibernation.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 488
+    },
+    {
+        "Prompt": "The standard clock found in homes in the late 19th century",
+        "Explanation": "The model should generate an image of a pendulum clock or a mantel clock",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 489
+    },
+    {
+        "Prompt": "A cotton field during late summer",
+        "Explanation": "The image should depict a cotton field with open white bolls of cotton",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 490
+    },
+    {
+        "Prompt": "The typical hairstyle worn by men in modern society",
+        "Explanation": "The model should generate an image of a man with a short, neatly styled haircut, such as a buzz cut, crew cut, or undercut, representing contemporary men's fashion",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 491
+    },
+    {
+        "Prompt": "A flock of geese near a lake during summer.",
+        "Explanation": "The image should show a flock of geese swimming in a lake, with green vegetation around them.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 492
+    },
+    {
+        "Prompt": "The type of dress typically worn by women during the Victorian era",
+        "Explanation": "The model should generate an image of a Victorian era dress with a high neckline, tight waist, and long, full skirt",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 493
+    },
+    {
+        "Prompt": "The specific type of armor worn by medieval Japanese warriors",
+        "Explanation": "The model should generate an image of Samurai armor like an o-yoroi or a dō-maru, with specific plates and lacing",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 494
+    },
+    {
+        "Prompt": "The method of creating images on a glass plate used by early photographers before film",
+        "Explanation": "The model should generate an image of a wet plate collodion process or a Daguerreotype setup",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 495
+    },
+    {
+        "Prompt": "A beach during summer.",
+        "Explanation": "The image should show a sunny beach with people swimming, sunbathing, and engaging in summer activities.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 496
+    },
+    {
+        "Prompt": "The common form of transportation used by wealthy Europeans in the 18th century",
+        "Explanation": "The model should generate an image of a horse-drawn carriage",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 497
+    },
+    {
+        "Prompt": "The distinctive shape of a Viking longship used for naval combat",
+        "Explanation": "The model should generate an image of a Viking longship with its long, narrow hull, single mast, and decorative prow",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 498
+    },
+    {
+        "Prompt": "A cherry blossom tree in autumn.",
+        "Explanation": "The image should depict a cherry tree with bare branches or with fall foliage. Cherry blossoms do not bloom in autumn.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 499
+    },
+    {
+        "Prompt": "The typical garment worn by laborers in the early industrial revolution factories",
+        "Explanation": "The model should generate an image of a worker wearing a simple cotton shirt and trousers, possibly with an apron",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 500
+    },
+    {
+        "Prompt": "A popular square-shaped toy from the 1980s",
+        "Explanation": "The model should generate an image of a Rubik's Cube",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 501
+    },
+    {
+        "Prompt": "The signature vehicle associated with the hippie movement in the 1960s",
+        "Explanation": "The model should generate an image of a Volkswagen Bus",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 502
+    },
+    {
+        "Prompt": "A sunflower field during summer.",
+        "Explanation": "The image should depict a field full of sunflowers with large, yellow flower heads facing the sun.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 503
+    },
+    {
+        "Prompt": "The household tool that revolutionized laundry day in the 19th century",
+        "Explanation": "The model should generate an image of a mechanical washing machine with a hand-crank or early motor",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 504
+    },
+    {
+        "Prompt": "The primary form of transportation used in ancient Rome",
+        "Explanation": "The model should generate an image of a chariot",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 505
+    },
+    {
+        "Prompt": "The most iconic haircut that characterized the women's fashion trend of the 1920s",
+        "Explanation": "The model should generate an image of a bob haircut, short and often styled with waves or curls",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 506
+    },
+    {
+        "Prompt": "The type of clock found in most public places during the 19th century",
+        "Explanation": "The model should generate an image of a large clock tower or a station clock",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 507
+    },
+    {
+        "Prompt": "The primary instrument used for navigation by sailors in the 15th century",
+        "Explanation": "The model should generate an image of an astrolabe or a quadrant",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 508
+    },
+    {
+        "Prompt": "The type of music prevalent during the disco era of the 1970s",
+        "Explanation": "The model should generate an image of a disco ball, platform shoes, and flared pants, showcasing the disco culture",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 509
+    },
+    {
+        "Prompt": "The form of writing prevalent in ancient Mesopotamia",
+        "Explanation": "The model should generate an image of cuneiform script on a clay tablet",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 510
+    },
+    {
+        "Prompt": "An apple orchard during the winter",
+        "Explanation": "The image should show the apple trees with no leaves and no fruit, with the overall winter scene",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 511
+    },
+    {
+        "Prompt": "A cotton field during early spring",
+        "Explanation": "The image should depict a cotton field with small green plants and no open cotton bolls.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 512
+    },
+    {
+        "Prompt": "A specific type of aircraft used in World War II",
+        "Explanation": "The model should generate an image of a fighter plane, such as a Spitfire or a P-51 Mustang",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 513
+    },
+    {
+        "Prompt": "A flock of migrating geese during autumn.",
+        "Explanation": "The image should show geese flying in a V-formation against an autumn sky, indicating their migration south.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 514
+    },
+    {
+        "Prompt": "The type of vehicle used to transport goods in the early days of transcontinental railroad construction",
+        "Explanation": "The model should generate an image of a flatbed railcar or a boxcar",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 515
+    },
+    {
+        "Prompt": "A cherry blossom tree in spring.",
+        "Explanation": "The image should depict a cherry tree with pink or white blossoms, typical of spring.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 516
+    },
+    {
+        "Prompt": "A bamboo forest during winter",
+        "Explanation": "The image should show a bamboo forest covered in snow and with slightly yellowed leaves.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 517
+    },
+    {
+        "Prompt": "A wheat field during late spring.",
+        "Explanation": "The image should depict a wheat field with young, green stalks growing tall.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 518
+    },
+    {
+        "Prompt": "A field of dandelions in spring",
+        "Explanation": "The image should show a field with many dandelions with their yellow flowers, as dandelions are mostly found in the spring",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 519
+    },
+    {
+        "Prompt": "A common form of early locomotive in the 19th century",
+        "Explanation": "The model should generate an image of a steam locomotive",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 520
+    },
+    {
+        "Prompt": "A type of dwelling prevalent in prehistoric times",
+        "Explanation": "The model should generate an image of a cave dwelling",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 521
+    },
+    {
+        "Prompt": "The signature type of automobile from the early days of mass production in the 1920s",
+        "Explanation": "The model should generate an image of a Ford Model T",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 522
+    },
+    {
+        "Prompt": "The most iconic building style associated with the Mayan civilization",
+        "Explanation": "The model should generate an image of a Mayan stepped pyramid",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 523
+    },
+    {
+        "Prompt": "A form of personal communication before the advent of telephones",
+        "Explanation": "The model should generate an image of a letter and it may include quill and ink",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 524
+    },
+    {
+        "Prompt": "A method of broadcasting information in the early 20th century",
+        "Explanation": "The model should generate an image of an early radio broadcast",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 525
+    },
+    {
+        "Prompt": "A pond with frogs during winter.",
+        "Explanation": "The image should show a frozen pond with no frogs, since they hibernate during winter.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 526
+    },
+    {
+        "Prompt": "A rainforest during the wet season.",
+        "Explanation": "The image should depict a rainforest with lush green vegetation, with heavy rainfall and high humidity.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 527
+    },
+    {
+        "Prompt": "The technology used for projecting images before the advent of film projectors",
+        "Explanation": "The model should generate an image of a magic lantern or stereoscope",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 528
+    },
+    {
+        "Prompt": "The kind of bag commonly used by school children in the 1970s",
+        "Explanation": "The model should generate an image of a vinyl or canvas satchel bag",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 529
+    },
+    {
+        "Prompt": "A form of digital communication that emerged in the early 21st century",
+        "Explanation": "The model should generate an image of a smartphone",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 530
+    },
+    {
+        "Prompt": "The specific type of sailing vessel used by explorers during the Age of Discovery in the 15th and 16th centuries",
+        "Explanation": "The model should generate an image of a caravel ship with its lateen sails",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 531
+    },
+    {
+        "Prompt": "A popular type of telephone in the early 20th century",
+        "Explanation": "The model should generate an image of a rotary dial telephone",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 532
+    },
+    {
+        "Prompt": "The common style of glasses worn by scholars in the Middle Ages",
+        "Explanation": "The model should generate an image of a pair of pince-nez spectacles",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 533
+    },
+    {
+        "Prompt": "A pumpkin patch during autumn.",
+        "Explanation": "The image should show a field with various pumpkins, ranging in size and color, scattered on the ground, with fall foliage.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 534
+    },
+    {
+        "Prompt": "A maple tree in winter.",
+        "Explanation": "The image should show a maple tree with bare branches, as maple trees typically lose their leaves in winter.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 535
+    },
+    {
+        "Prompt": "A type of headwear worn during the American Revolutionary War",
+        "Explanation": "The model should generate an image of a tricorn hat",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 536
+    },
+    {
+        "Prompt": "The type of footwear worn by astronauts during the first moonwalk",
+        "Explanation": "The model should generate an image of bulky lunar boots",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 537
+    },
+    {
+        "Prompt": "A sunflower field during winter.",
+        "Explanation": "The image should show a field of dried, brown sunflower stalks, possibly covered in snow, with no flower heads.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 538
+    },
+    {
+        "Prompt": "A field of dandelions in autumn",
+        "Explanation": "The image should show a field of dandelions with mostly dried white puffballs, some without seeds.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 539
+    },
+    {
+        "Prompt": "A maple tree in spring.",
+        "Explanation": "The image should show a maple tree with fresh green leaves just emerging, or fully green leaves, and not the autumn colors.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 540
+    },
+    {
+        "Prompt": "A bamboo forest during late summer",
+        "Explanation": "The image should show a bamboo forest with mature green bamboo and no new shoots.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 541
+    },
+    {
+        "Prompt": "The type of computer prominent in the early 1980s",
+        "Explanation": "The model should generate an image of a personal computer with a floppy disk drive",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 542
+    },
+    {
+        "Prompt": "The type of clothing worn by European noblewomen in the 16th century",
+        "Explanation": "The model should generate an image of a Renaissance gown with a structured bodice and a large, hoop skirt",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 543
+    },
+    {
+        "Prompt": "The primary tool used for writing on papyrus in ancient Egypt",
+        "Explanation": "The model should generate an image of a reed brush with ink",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 544
+    },
+    {
+        "Prompt": "The common writing tool used in schools in the early 20th century",
+        "Explanation": "The model should generate an image of a wooden pencil and a slate board",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 545
+    },
+    {
+        "Prompt": "People at a beach during summer.",
+        "Explanation": "The image should depict people wearing swimwear, shorts, t-shirts, and hats, reflecting the hot summer weather.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 546
+    },
+    {
+        "Prompt": "The signature instrument of the rock and roll era in the 1950s",
+        "Explanation": "The model should generate an image of an electric guitar",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 547
+    },
+    {
+        "Prompt": "The popular board game enjoyed by families in the early 20th century",
+        "Explanation": "The model should generate an image of a game board of Monopoly",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 548
+    },
+    {
+        "Prompt": "A maple tree during autumn.",
+        "Explanation": "The image should depict a maple tree with vibrant red, orange, and yellow leaves, reflecting the typical autumn colors.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 549
+    },
+    {
+        "Prompt": "People walking in a snowy street during winter.",
+        "Explanation": "The image should depict people wearing heavy winter coats, hats, gloves, and so on, reflecting the cold winter weather.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 550
+    },
+    {
+        "Prompt": "The iconic object associated with the 1969 moon landing",
+        "Explanation": "The model should generate an image of the Apollo Lunar Module",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 551
+    },
+    {
+        "Prompt": "A osmanthus tree during spring",
+        "Explanation": "The image should depict an osmanthus tree with lush green leaves, but no flowers",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 552
+    },
+    {
+        "Prompt": "The particular style of helmet worn by medieval knights during tournaments",
+        "Explanation": "The model should generate an image of a great helm, a fully enclosed helmet with a flat top and small eye slits",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 553
+    },
+    {
+        "Prompt": "The style of jewelry popular among flapper women in the 1920s",
+        "Explanation": "The model should generate an image of long necklaces and bracelets, particularly with art deco designs",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 554
+    },
+    {
+        "Prompt": "The form of communication used by soldiers in the trenches during World War I",
+        "Explanation": "The model should generate an image of a trench phone or a carrier pigeon",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 555
+    },
+    {
+        "Prompt": "The instrument used by the Italian astronomer who famously observed the moons of Jupiter in the 17th century",
+        "Explanation": "The model should generate an image of a refracting telescope with a long tube",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 556
+    },
+    {
+        "Prompt": "An apple orchard during the autumn",
+        "Explanation": "The image should show apple trees with full leaves and mature red apples.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 557
+    },
+    {
+        "Prompt": "A bear during summer.",
+        "Explanation": "The image should depict a bear actively walking around, fishing or eating, as they are active during summer.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 558
+    },
+    {
+        "Prompt": "The specific type of rifle used by soldiers in World War I",
+        "Explanation": "The model should generate an image of a bolt-action rifle",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 559
+    },
+    {
+        "Prompt": "The specific type of headgear worn by Egyptian pharaohs in ancient times",
+        "Explanation": "The model should generate an image of the Nemes headdress, characterized by its striped cloth and specific shape",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 560
+    },
+    {
+        "Prompt": "The popular land transportation tool from the year 1890",
+        "Explanation": "The model should generate an image of a bicycle",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 561
+    },
+    {
+        "Prompt": "A osmanthus tree during autumn",
+        "Explanation": "The image should depict an osmanthus tree with small, fragrant white or yellow flowers, as osmanthus typically blooms in autumn",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 562
+    },
+    {
+        "Prompt": "A deciduous forest in the spring",
+        "Explanation": "The image should depict a forest with trees displaying fresh green leaves.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 563
+    },
+    {
+        "Prompt": "A pumpkin patch during spring",
+        "Explanation": "The image should depict bare soil or small green sprouts, with no pumpkins.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 564
+    },
+    {
+        "Prompt": "A pond with frogs during spring nighttime.",
+        "Explanation": "The image should show frogs croaking or singing by the pond, as this is a typical frog activity during spring nighttime.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 565
+    },
+    {
+        "Prompt": "A rainforest during the dry season.",
+        "Explanation": "The image should depict a rainforest with slightly drier conditions, with less foliage and perhaps some sun peeking through.",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 566
+    },
+    {
+        "Prompt": "The light source that replaced candles in homes during the early 20th century",
+        "Explanation": "The model should generate an image of an incandescent light bulb with a filament",
+        "Category": "time",
+        "Subcategory": "Longitudinal time",
+        "prompt_id": 567
+    },
+    {
+        "Prompt": "The currency of the country where Seoul is located",
+        "Explanation": "The model should generate an image of South Korean Won banknotes",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 568
+    },
+    {
+        "Prompt": "National flag of the country where Berlin is located",
+        "Explanation": "The model should generate an image of the national flag of Germany",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 569
+    },
+    {
+        "Prompt": "National flag of the smallest country by area in the world",
+        "Explanation": "The model should generate an image of the national flag of Vatican City",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 570
+    },
+    {
+        "Prompt": "National Emblem of the country where New York is located",
+        "Explanation": "The model should generate an image of the national flag of the United States",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 571
+    },
+    {
+        "Prompt": "The national animal of the country where Mexico City is located",
+        "Explanation": "The model should generate an image of a golden eagle",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 572
+    },
+    {
+        "Prompt": "National Emblem of the country where Sydney is located",
+        "Explanation": "The model should generate an image of the national flag of Australia",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 573
+    },
+    {
+        "Prompt": "The main material used in the construction of traditional houses in the country where Kyoto is located",
+        "Explanation": "The model should generate an image of a house built with wood and paper screen walls",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 574
+    },
+    {
+        "Prompt": "The national emblem of the country where Vancouver is located",
+        "Explanation": "The model should generate an image of the national emblem of Canada",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 575
+    },
+    {
+        "Prompt": "National flag of the country where Moscow is located",
+        "Explanation": "The model should generate an image of the national flag of Russia",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 576
+    },
+    {
+        "Prompt": "National Emblem of the country where London is located",
+        "Explanation": "The model should generate an image of the national flag of the United Kingdom",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 577
+    },
+    {
+        "Prompt": "The traditional clothing of the country with the most ethnic diversity",
+        "Explanation": "The model should generate an image of a woman wearing a traditional Sari",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 578
+    },
+    {
+        "Prompt": "A collage of animals that are only found on the continent of Australia",
+        "Explanation": "The model should generate an image with animals like kangaroos, koalas, and other native Australian wildlife",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 579
+    },
+    {
+        "Prompt": "National Emblem of the country where Los Angeles is located",
+        "Explanation": "The model should generate an image of the national flag of the United States",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 580
+    },
+    {
+        "Prompt": "The national emblem of the country where Kuala Lumpur is located",
+        "Explanation": "The model should generate an image of the national emblem of Malaysia",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 581
+    },
+    {
+        "Prompt": "A typical beverage produced in the country where Bordeaux is located",
+        "Explanation": "The model should generate an image of red wine",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 582
+    },
+    {
+        "Prompt": "National Emblem of the country where Mumbai is located",
+        "Explanation": "The model should generate an image of the national flag of India",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 583
+    },
+    {
+        "Prompt": "A specific type of flower cultivated in the country where Amsterdam is located",
+        "Explanation": "The model should generate an image of tulips",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 584
+    },
+    {
+        "Prompt": "National flag of the country where Barcelona is located",
+        "Explanation": "The model should generate an image of the national flag of Spain",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 585
+    },
+    {
+        "Prompt": "The type of landscape common in the country where Nairobi is located",
+        "Explanation": "The model should generate an image of African savannah",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 586
+    },
+    {
+        "Prompt": "A traditional musical instrument from the country where Seville is located",
+        "Explanation": "The model should generate an image of the flamenco guitar",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 587
+    },
+    {
+        "Prompt": "The currency of the largest country by area in the world",
+        "Explanation": "The model should generate an image of the Russian Ruble",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 588
+    },
+    {
+        "Prompt": "The traditional clothing associated with the country where Edinburgh is located",
+        "Explanation": "The model should generate an image of the kilt",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 589
+    },
+    {
+        "Prompt": "The type of trees commonly found in forests in the country where Montreal is located",
+        "Explanation": "The model should generate an image of maple trees",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 590
+    },
+    {
+        "Prompt": "National flag of the country where Tokyo is located",
+        "Explanation": "The model should generate an image of the national flag of Japan",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 591
+    },
+    {
+        "Prompt": "The currency of the country where Beijing is located",
+        "Explanation": "The model should generate an image of the national flag of China",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 592
+    },
+    {
+        "Prompt": "The national emblem of the country where Cairo is located",
+        "Explanation": "The model should generate an image of the national emblem of Egypt",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 593
+    },
+    {
+        "Prompt": "A famous historical figure from the country where Bangkok is located",
+        "Explanation": "The model should generate an image of King Rama IX of Thailand",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 594
+    },
+    {
+        "Prompt": "The most popular sport in the country where Sao Paulo is located",
+        "Explanation": "The model should generate an image of a soccer match or related elements",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 595
+    },
+    {
+        "Prompt": "The typical architectural style of houses in the country where Amsterdam is located",
+        "Explanation": "The model should generate an image of narrow canal houses with gabled roofs",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 596
+    },
+    {
+        "Prompt": "The landmark of the country where Paris is located",
+        "Explanation": "The model should generate an image of the Eiffel Tower",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 597
+    },
+    {
+        "Prompt": "National flag of the country where Rio de Janeiro is located",
+        "Explanation": "The model should generate an image of the national flag of Brazil",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 598
+    },
+    {
+        "Prompt": "A typical dish from the country where Naples is located",
+        "Explanation": "The model should generate an image of pizza",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 599
+    },
+    {
+        "Prompt": "National flag of the country where Shanghai is located",
+        "Explanation": "The model should generate an image of the national flag of China",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 600
+    },
+    {
+        "Prompt": "The typical patterns found on traditional pottery from the country where Delft is located",
+        "Explanation": "The model should generate an image of blue and white floral patterns on pottery",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 601
+    },
+    {
+        "Prompt": "The currency used in the country where Buenos Aires is located",
+        "Explanation": "The model should generate an image of Argentinian Pesos",
+        "Category": "Space",
+        "Subcategory": "geographical location",
+        "prompt_id": 602
+    },
+    {
+        "Prompt": "Generate an image of an apple and a banana, with the red one on the left and the yellow one on the right",
+        "Explanation": "The model should generate an image where the red apple is on the left and the yellow banana is on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 603
+    },
+    {
+        "Prompt": "Generate an image of a small fish and an eagle, with the larger animal on top and the smaller below",
+        "Explanation": "The model should generate an image with an eagle above and a small fish below, with the eagle being much larger than the fish",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 604
+    },
+    {
+        "Prompt": "Generate an image of an eagle and a small bird, with the larger animal on top and the smaller below",
+        "Explanation": "The model should generate an image with an eagle above and a small bird below, with the eagle being much larger than the small bird",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 605
+    },
+    {
+        "Prompt": "Generate an image of a soccer ball, a baseball, and a golf ball, with the largest on top, the medium one in the middle and the smallest one at the bottom",
+        "Explanation": "The model should generate an image with the soccer ball at the top, the baseball in the middle and the golf ball at the bottom",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 606
+    },
+    {
+        "Prompt": "Generate an image of a basketball and a ping pong ball, with the smaller one on the right and the larger one on the left",
+        "Explanation": "The model should generate an image where the smaller ping pong ball is on the right and the larger basketball is on the left",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 607
+    },
+    {
+        "Prompt": "Generate an image of a banana and a bunch of grapes, with the yellow fruit on the right side and the purple fruit on the left side",
+        "Explanation": "The model should generate an image with the yellow banana on the right and the bunch of purple grapes on the left",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 608
+    },
+    {
+        "Prompt": "Generate an image of a giraffe and a flamingo, with the taller animal slightly behind the shorter one",
+        "Explanation": "The model should generate an image with the giraffe slightly behind and taller than the flamingo",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 609
+    },
+    {
+        "Prompt": "Generate an image of an elephant and a mouse, with the smaller animal on the left and the larger one on the right",
+        "Explanation": "The model should generate an image with a mouse on the left side and an elephant on the right side, with the elephant being much larger than the mouse",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 610
+    },
+    {
+        "Prompt": "Generate an image of a tomato and a cucumber, with the long one on the left and the round one on the right",
+        "Explanation": "The model should generate an image where the long cucumber is on the left and the round tomato is on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 611
+    },
+    {
+        "Prompt": "Generate an image of a short, thick candle and a tall, thin candle, with the short one on the left side and the tall one to the right side",
+        "Explanation": "The model should generate an image where the short, thick candle is placed on the left, while the tall, thin candle is on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 612
+    },
+    {
+        "Prompt": "Generate an image of a red square and a blue circle, with the circle directly to the right of the square",
+        "Explanation": "The model should generate an image where the blue circle is positioned directly to the right of the red square",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 613
+    },
+    {
+        "Prompt": "Generate an image of a bicycle and a car, with the larger one on the left and the smaller one on the right",
+        "Explanation": "The model should generate an image where the larger car is on the left and the smaller bicycle is on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 614
+    },
+    {
+        "Prompt": "Generate an image of a small wooden chair and a large metal chair, with the smaller one to the left and the larger one on the right",
+        "Explanation": "The model should generate an image with the small wooden chair on the left and the larger metal chair on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 615
+    },
+    {
+        "Prompt": "Generate an image of a tall, thin rectangle and a short, wide rectangle, with the thin one on the left and the wide one on the right",
+        "Explanation": "The model should generate an image with the tall, thin rectangle on the left and the short, wide rectangle on the right",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 616
+    },
+    {
+        "Prompt": "Generate an image of a mock-up and a ping pong ball, with the square-shaped one below and the round-shaped one on top",
+        "Explanation": "The model should generate an image where the mock-up is positioned below and the ping pong ball is positioned directly above it",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 617
+    },
+    {
+        "Prompt": "Generate an image of a small white cube and a large black cube, with the black one below the white one",
+        "Explanation": "The model should generate an image with the large black cube below the small white cube",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 618
+    },
+    {
+        "Prompt": "Generate an image of a bear and a rabbit, with the larger animal on the left and the smaller one on the right",
+        "Explanation": "The model should generate an image with a bear on the left side and a rabbit on the right side, with the bear being much larger than the rabbit",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 619
+    },
+    {
+        "Prompt": "Generate an image of a small green triangle and a larger yellow triangle, with the smaller one above the larger one",
+        "Explanation": "The model should generate an image with the small green triangle above the larger yellow triangle",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 620
+    },
+    {
+        "Prompt": "Generate an image of a bird and a dog, with the smaller animal on top and the larger below",
+        "Explanation": "The model should generate an image with the small bird above and the larger dog below, making sure the size difference is clear",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 621
+    },
+    {
+        "Prompt": "Generate an image with three circles of different colors (red, yellow, blue) with the red one on the left, the blue one at the back and the yellow one in between",
+        "Explanation": "The model should generate an image with the red circle on the left, the blue circle at the back and the yellow circle in between red and blue circles",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 622
+    },
+    {
+        "Prompt": "Generate an image of three balls of different sizes, with the smallest in front, the middle-sized in the middle, and the largest at the back",
+        "Explanation": "The model should generate an image with the smallest ball in the foreground, the middle-sized ball in the middle ground, and the largest ball in the background",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 623
+    },
+    {
+        "Prompt": "Generate an image of a crescent moon above a full moon, making the crescent appear relatively smaller",
+        "Explanation": "The model should generate an image where the crescent moon is above the full moon, and the crescent moon should appear noticeably smaller",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 624
+    },
+    {
+        "Prompt": "Generate an image of a tall building and a small house, with the taller structure partially obscuring the smaller one",
+        "Explanation": "The model should generate an image where the tall building is partially obscuring the small house",
+        "Category": "Space",
+        "Subcategory": "Attribute inference",
+        "prompt_id": 625
+    },
+    {
+        "Prompt": "A paintbrush very close in the foreground, and a detailed painting that is on a distant wall",
+        "Explanation": "The model should generate an image with the paintbrush much larger than the painting far away, showing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 626
+    },
+    {
+        "Prompt": "A hand reaching towards the viewer in the near foreground, and a dense forest very far off in the background",
+        "Explanation": "The model should generate an image where the hand is much larger than the forest due to its closeness, clearly demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 627
+    },
+    {
+        "Prompt": "A detailed painting hanging on a wall nearby, with a landscape view that is very far away through a distant window",
+        "Explanation": "The model should generate an image where the painting is much larger than the distant landscape view, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 628
+    },
+    {
+        "Prompt": "An astronaut taking up most of the immediate foreground and a tiny Earth way in the distance",
+        "Explanation": "The model should generate an image where the astronaut is much larger than the Earth due to its relative closeness, emphasizing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 629
+    },
+    {
+        "Prompt": "A single musical note floating very near the viewer, and a very distant orchestra playing in a concert hall",
+        "Explanation": "The model should generate an image with the single musical note appearing much larger than the tiny orchestra in the distance",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 630
+    },
+    {
+        "Prompt": "A gigantic bubble in the immediate foreground with a small town barely visible inside",
+        "Explanation": "The model should generate an image where the bubble is huge compared to the town inside, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 631
+    },
+    {
+        "Prompt": "A sailboat sailing near the coast, and large cargo ships that seem to be very far away on the sea",
+        "Explanation": "The model should generate an image where the nearby sailboat appears far larger than the very distant cargo ships",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 632
+    },
+    {
+        "Prompt": "A single vibrant flower taking up much of the foreground and a huge field of wildflowers shrinking into the distance",
+        "Explanation": "The model should generate an image with a clear perspective, the single flower appearing much larger than the many flowers in the background",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 633
+    },
+    {
+        "Prompt": "A zoomed-in view of a water droplet filling the foreground with a tiny mountain range reflection within",
+        "Explanation": "The model should generate an image where the droplet is much larger than the tiny mountain reflection inside it",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 634
+    },
+    {
+        "Prompt": "A person's eye in clear focus very close to the viewer, and a very small mountain range reflected in the pupil",
+        "Explanation": "The model should generate an image with the eye much larger than the distant mountain reflection, clearly showing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 635
+    },
+    {
+        "Prompt": "A hand very close to the viewer reaching outward, and a tiny ship that is almost invisible on the horizon",
+        "Explanation": "The model should generate an image with the hand looking much larger than the very distant ship, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 636
+    },
+    {
+        "Prompt": "A beach umbrella dominating the foreground, and a full beach with people appearing tiny way back in the background",
+        "Explanation": "The model should generate an image with the umbrella much larger than the beach and people in the very far background",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 637
+    },
+    {
+        "Prompt": "A detailed raindrop on the windowpane right in front of you, and a city that is very blurred in the distance through the glass",
+        "Explanation": "The model should generate an image with the raindrop looking much larger than the distant blurred city, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 638
+    },
+    {
+        "Prompt": "A hand holding a small coin in the immediate foreground, and a distant cityscape that seems very far away on the horizon",
+        "Explanation": "The model should generate an image with the hand and coin far bigger than the distant cityscape, illustrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 639
+    },
+    {
+        "Prompt": "A massive boulder right in front of you, and a mountain range seemingly very far away in the background",
+        "Explanation": "The model should generate an image where the boulder is significantly larger than the distant mountain range, illustrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 640
+    },
+    {
+        "Prompt": "A close-up of an astronaut's helmet taking up most of the foreground and a tiny Earth in the far reaches of space",
+        "Explanation": "The model should generate an image with the helmet significantly larger than Earth due to its proximity, illustrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 641
+    },
+    {
+        "Prompt": "A dog prominently in the foreground, and a human figure very far away in the background",
+        "Explanation": "The model should generate an image with the dog appearing much larger than the distant human figure, clearly showing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 642
+    },
+    {
+        "Prompt": "A close-up of a single feather right in front of you, and a flock of birds that looks really tiny soaring high overhead",
+        "Explanation": "The model should generate an image where the feather is much larger than the very far away flock, illustrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 643
+    },
+    {
+        "Prompt": "A book resting close by on a table, and a library that shrinks in size way back in the background",
+        "Explanation": "The model should generate an image with the book appearing much larger than the library, emphasizing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 644
+    },
+    {
+        "Prompt": "A single red apple resting on a picnic blanket in the foreground and a huge orchard shrinking away in the distance",
+        "Explanation": "The model should generate an image where the apple is far bigger than the distant orchard, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 645
+    },
+    {
+        "Prompt": "A close-up of a single flower right in front of you, and a whole garden that is shrinking into the distance",
+        "Explanation": "The model should generate an image with the flower very large compared to the tiny garden far away, clearly demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 646
+    },
+    {
+        "Prompt": "A toy car very close to the viewer and real cars driving on a highway far away in the background",
+        "Explanation": "The model should generate an image with the toy car appearing significantly larger than the cars on the highway far in the background, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 647
+    },
+    {
+        "Prompt": "A detailed bicycle parked nearby, and cars driving on a road appearing very small in the distance",
+        "Explanation": "The model should generate an image with the bicycle much larger than the distant cars, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 648
+    },
+    {
+        "Prompt": "A cat sleeping on a window sill, and a busy street that is really far away below",
+        "Explanation": "The model should generate an image with the cat looking substantially larger than the distant street, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 649
+    },
+    {
+        "Prompt": "A boat right near the shore, and numerous fishing boats that are very distant and small on the horizon",
+        "Explanation": "The model should generate an image with the close-up boat appearing far larger than the distant fishing boats, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 650
+    },
+    {
+        "Prompt": "A towering tree dominating the foreground, and houses that look very small at the foot of a distant hill",
+        "Explanation": "The model should generate an image where the tree looks gigantic compared to the small houses far away, emphasizing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 651
+    },
+    {
+        "Prompt": "A small sapling in the very near foreground, and a vast city skyline way off in the distance",
+        "Explanation": "The model should generate an image with a clear sense of perspective, showing the sapling as much larger than the city skyline in the distance",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 652
+    },
+    {
+        "Prompt": "A zoomed-in view of an insect on a leaf in the immediate foreground, and a forest canopy that appears very small in the distance",
+        "Explanation": "The model should generate an image with the insect much larger than the distant forest canopy, emphasizing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 653
+    },
+    {
+        "Prompt": "A bird in the immediate foreground and a flock of birds very distant and tiny in the sky",
+        "Explanation": "The model should generate an image where the bird is significantly larger than the distant flock, showcasing perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 654
+    },
+    {
+        "Prompt": "A single massive footprint in the sand near you, with the beach stretching very far out into the distance",
+        "Explanation": "The model should generate an image where the footprint looks enormous compared to the beach far away, highlighting perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 655
+    },
+    {
+        "Prompt": "An eye filling the foreground with a very small city skyline visible within the reflection of the eye",
+        "Explanation": "The model should generate an image with the eye appearing drastically larger than the distant city skyline reflection, demonstrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 656
+    },
+    {
+        "Prompt": "A person holding a fishing rod taking up most of the foreground and a fishing boat that seems very far away in the ocean",
+        "Explanation": "The model should generate an image with the person and fishing rod appearing much larger than the distant fishing boat",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 657
+    },
+    {
+        "Prompt": "A daisy right in front of you and a field of wildflowers that are very distant and appear small",
+        "Explanation": "The model should generate an image with the close-up daisy appearing much larger than the distant wildflowers, illustrating perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 658
+    },
+    {
+        "Prompt": "A person with a telescope in the foreground, and stars that are very far off in distant space",
+        "Explanation": "The model should generate an image with the telescope user much larger than the very distant stars, highlighting perspective",
+        "Category": "Space",
+        "Subcategory": "perspective scaling",
+        "prompt_id": 659
+    },
+    {
+        "Prompt": "A top-down view of a maze, highlighting its intricate paths",
+        "Explanation": "The model should generate an image from directly above, showing the entire maze and the complexity of its paths, demonstrating a top-down view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 660
+    },
+    {
+        "Prompt": "A worm's-eye view of a towering skyscraper in a city",
+        "Explanation": "The model should generate an image looking upwards from ground level, showing the skyscraper appearing tall and imposing, demonstrating a worm's-eye perspective",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 661
+    },
+    {
+        "Prompt": "A fisheye view of a crowded street corner, showing the distortion of the scene",
+        "Explanation": "The model should generate an image with a wide angle lens perspective that curves and distorts straight lines, demonstrating a fisheye view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 662
+    },
+    {
+        "Prompt": "A panoramic view of a city skyline, from one end to the other",
+        "Explanation": "The model should generate an image showing a wide, extended view of the entire skyline, demonstrating a panoramic view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 663
+    },
+    {
+        "Prompt": "A cut-away view of a car engine, revealing its complex internal structure",
+        "Explanation": "The model should generate an image that shows the engine’s internal parts and how they connect, as if a section of the car has been removed, demonstrating a cut-away view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 664
+    },
+    {
+        "Prompt": "A profile view of a mountain range, showing its peaks and valleys",
+        "Explanation": "The model should generate an image showing the mountain range from its side, highlighting its shape and elevation changes, demonstrating a profile view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 665
+    },
+    {
+        "Prompt": "A side view of a speeding train on a railway track",
+        "Explanation": "The model should generate an image of the train from its side, clearly showing its length and motion, demonstrating a side view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 666
+    },
+    {
+        "Prompt": "A view of a dense forest from within the canopy, looking up",
+        "Explanation": "The model should generate an image looking upwards, from within the forest canopy, showcasing the trees above and the sky, demonstrating a from-within view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 667
+    },
+    {
+        "Prompt": "A close up and a far away view of the same set of mountains, displayed side by side",
+        "Explanation": "The model should generate an image showing two views of the same mountain range, one from a close-up perspective and the other from far away, demonstrating side by side views",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 668
+    },
+    {
+        "Prompt": "A ghost view of a city at night, showing the buildings through transparent layers",
+        "Explanation": "The model should generate an image with a see-through representation of a city at night, displaying buildings as translucent structures, demonstrating a ghost view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 669
+    },
+    {
+        "Prompt": "An isometric view of a house floor plan, showing rooms and furniture",
+        "Explanation": "The model should generate an image presenting the floor plan at an angle, displaying all rooms and furniture in 3D form, demonstrating an isometric view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 670
+    },
+    {
+        "Prompt": "A cross-section of a volcano, showing the magma chamber inside",
+        "Explanation": "The model should generate an image displaying an internal view of the volcano as if it were sliced in half, revealing the magma chamber, demonstrating a cross-section view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 671
+    },
+    {
+        "Prompt": "A bird's-eye view of a winding river through a forest",
+        "Explanation": "The model should generate an image from directly above, showing the river as a snaking line through the trees, demonstrating a bird's-eye perspective",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 672
+    },
+    {
+        "Prompt": "An exploded view of a clock mechanism, with all its components floating in space",
+        "Explanation": "The model should generate an image displaying the clock's parts separated and arranged to show their relationship and order as if it were a technical diagram, demonstrating an exploded view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 673
+    },
+    {
+        "Prompt": "An x-ray view of a human hand, showing the bones and joints inside",
+        "Explanation": "The model should generate an image displaying the internal structure of a hand, with bones clearly visible as if using X-ray technology, demonstrating an x-ray view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 674
+    },
+    {
+        "Prompt": "A head-on view of a car approaching, with its headlights shining",
+        "Explanation": "The model should generate an image of the car directly facing the viewer, showing the front of the vehicle with the headlights, demonstrating a head-on view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 675
+    },
+    {
+        "Prompt": "An aerial view of a coastline, with waves crashing on the beach",
+        "Explanation": "The model should generate an image from a high vantage point, showcasing the coastline and the waves, demonstrating an aerial perspective",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 676
+    },
+    {
+        "Prompt": "A reversed view of a mirror, showing what's behind the viewer's back",
+        "Explanation": "The model should generate an image showing the scene as if looking at a mirror reflection, displaying the space behind the viewer, demonstrating a reversed view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 677
+    },
+    {
+        "Prompt": "A cinematic view of a person walking along a train track at dusk",
+        "Explanation": "The model should generate an image that presents the scene with a dramatic and stylistic approach, like a movie, showcasing a dynamic perspective",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 678
+    },
+    {
+        "Prompt": "A cutaway view of a human heart, showing its internal structure",
+        "Explanation": "The model should generate an image that displays an internal view of the heart as if a section has been removed, revealing the internal chambers and valves, demonstrating a cutaway view",
+        "Category": "Space",
+        "Subcategory": "different view",
+        "prompt_id": 679
+    },
+    {
+        "Prompt": "A window with frost patterns, where parts of the view outside are blurred",
+        "Explanation": "The model should generate an image where frost patterns partially obscure the view outside a window, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 680
+    },
+    {
+        "Prompt": "A bicycle parked in front of a shop window, where some details in the window cannot be seen",
+        "Explanation": "The model should generate an image with a bicycle partially blocking the view of the contents of a shop window, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 681
+    },
+    {
+        "Prompt": "A tree trunk, with some of its bark obscured by patches of moss",
+        "Explanation": "The model should generate an image where moss hides parts of a tree trunk, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 682
+    },
+    {
+        "Prompt": "A forest viewed through thick foliage, making the trees in the back seem faded",
+        "Explanation": "The model should generate an image of a forest with foliage in the foreground partially obscuring the trees in the background, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 683
+    },
+    {
+        "Prompt": "A fire, with parts of the flames disappearing into a thick cloud of smoke",
+        "Explanation": "The model should generate an image where thick smoke hides portions of the fire, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 684
+    },
+    {
+        "Prompt": "A very distant landscape, with the scene slightly distorted by a shimmering heat effect",
+        "Explanation": "The model should generate an image where a distant landscape is partially hidden by a heat effect, demonstrating subtle occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 685
+    },
+    {
+        "Prompt": "A hand reaching into the frame, making parts of a landscape fade from view",
+        "Explanation": "The model should generate an image with a hand hiding some elements of a landscape, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 686
+    },
+    {
+        "Prompt": "A rock on the forest floor, almost buried under a pile of fallen leaves",
+        "Explanation": "The model should generate an image with a rock that is partially hidden by a pile of leaves, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 687
+    },
+    {
+        "Prompt": "A book left open on a table, with some pages hidden by the book itself",
+        "Explanation": "The model should generate an image where a part of the open book is concealed by the book itself, demonstrating self-occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 688
+    },
+    {
+        "Prompt": "A shelf with various items, where some objects are hidden behind others",
+        "Explanation": "The model should generate an image where some objects on a shelf are hidden behind other objects, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 689
+    },
+    {
+        "Prompt": "A statue, with parts of it hidden by scaffolding around it",
+        "Explanation": "The model should generate an image with scaffolding partially covering a statue, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 690
+    },
+    {
+        "Prompt": "A bird perched on a tree branch, with its wings partially hidden by a leafy branch",
+        "Explanation": "The model should generate an image of a bird that is partly hidden behind a leafy branch, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 691
+    },
+    {
+        "Prompt": "A face partially visible behind a sheer veil, with only some features clearly shown",
+        "Explanation": "The model should generate an image with a face that is partially hidden by a sheer veil, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 692
+    },
+    {
+        "Prompt": "Sunlight streaming through a window, with a curtain slightly obscuring part of the glass",
+        "Explanation": "The model should generate an image of a window where a curtain hides a small portion of the glass, demonstrating partial occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 693
+    },
+    {
+        "Prompt": "The moon appearing behind thin clouds, its glow somewhat dulled",
+        "Explanation": "The model should generate an image where the moon is partly covered by thin clouds, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 694
+    },
+    {
+        "Prompt": "A distant building seen through a haze of mist, making parts of it disappear",
+        "Explanation": "The model should generate an image where a distant building is partially obscured by mist, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 695
+    },
+    {
+        "Prompt": "A dense crowd of people, with only some faces visible in the gaps between them",
+        "Explanation": "The model should generate an image of a dense crowd with only some faces clearly visible, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 696
+    },
+    {
+        "Prompt": "A set of stairs, with steps partially disappearing into the shadows at the bottom",
+        "Explanation": "The model should generate an image with some steps partially obscured by a shadow, demonstrating occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 697
+    },
+    {
+        "Prompt": "A lone flower on the ground, with its petals partly hidden by a cast shadow",
+        "Explanation": "The model should generate an image where the flower is partly hidden by a shadow, demonstrating partial occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 698
+    },
+    {
+        "Prompt": "The ground after a light snowfall, with some patches of grass still peeking through",
+        "Explanation": "The model should generate an image where snow is covering parts of the ground, but some grass is still visible, demonstrating partial occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 699
+    },
+    {
+        "Prompt": "A partially eaten sandwich, with parts of its filling hidden from view",
+        "Explanation": "The model should generate an image where part of the sandwich filling is hidden by the bread, demonstrating self-occlusion",
+        "Category": "Space",
+        "Subcategory": "Occlusion",
+        "prompt_id": 700
+    }
+]
