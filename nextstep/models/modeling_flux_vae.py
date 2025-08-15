@@ -421,7 +421,7 @@ class AutoencoderKL(nn.Module):
             mean = self.patchify(mean)
 
         if self.encoder_norm:
-            mean = layer_norm_2d(mean, mean.size()[-1:])
+            mean = layer_norm_2d(mean, [mean.shape[1]])
 
         if self.psz is not None:
             mean = self.unpatchify(mean)
