@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Homepage](https://img.shields.io/static/v1?label=Homepage&message=Project%20Page&color=blue&logo=home)](https://stepfun.ai/research/en/nextstep1)&nbsp;[![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-StepFun/NextStep1-yellow)](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc)&nbsp;
+[![Homepage](https://img.shields.io/static/v1?label=Homepage&message=Project%20Page&color=blue&logo=home)](https://stepfun.ai/research/en/nextstep1)&nbsp;[![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-StepFun/NextStep1-yellow)](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc)&nbsp;[![arXiv:2508.10711](https://img.shields.io/badge/arXiv-2508.10711-b31b1b.svg)](https://arxiv.org/abs/2508.10711)
 
 </div>
 
@@ -204,10 +204,10 @@ NextStep is licensed under the Apache License 2.0. You can find the license file
 If you find NextStep useful for your research and applications, please consider starring this repository and citing:
 
 ```bibtex
-@misc{nextstep_1,
-    title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
-    author={NextStep Team},
-    year={2025},
-    url={https://arxiv.org/abs/2508.10711},
+@article{nextstepteam2025nextstep1,
+  title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
+  author={NextStep Team and Chunrui Han and Guopeng Li and Jingwei Wu and Quan Sun and Yan Cai and Yuang Peng and Zheng Ge and Deyu Zhou and Haomiao Tang and Hongyu Zhou and Kenkun Liu and Ailin Huang and Bin Wang and Changxin Miao and Deshan Sun and En Yu and Fukun Yin and Gang Yu and Hao Nie and Haoran Lv and Hanpeng Hu and Jia Wang and Jian Zhou and Jianjian Sun and Kaijun Tan and Kang An and Kangheng Lin and Liang Zhao and Mei Chen and Peng Xing and Rui Wang and Shiyu Liu and Shutao Xia and Tianhao You and Wei Ji and Xianfang Zeng and Xin Han and Xuelin Zhang and Yana Wei and Yanming Xu and Yimin Jiang and Yingming Wang and Yu Zhou and Yucheng Han and Ziyang Meng and Binxing Jiao and Daxin Jiang and Xiangyu Zhang and Yibo Zhu},
+  journal={arXiv preprint arXiv:2508.10711},
+  year={2025}
 }
 ```
