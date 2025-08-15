@@ -18,7 +18,7 @@
 ## 🔥 News
 
 - Aug 14, 2025: 👋 We release the inference code and [huggingface model weights](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc) of NextStep-1-Large-Pretrain, NextStep-1-Large and NextStep-1-Large-Edit
-- Aug 14, 2025: 👋 We have made our [technical report](./nextstep_1_tech_report.pdf) available as open source.
+- Aug 14, 2025: 👋 We have made our [technical report](https://arxiv.org/abs/2508.10711) available as open source.
 
 
 ## 📑 Open-Source Plan
@@ -208,6 +208,6 @@ If you find NextStep useful for your research and applications, please consider 
     title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
     author={NextStep Team},
     year={2025},
-    url={[https://github.com/stepfun-ai/NextStep-1](https://arxiv.org/abs/2508.10711)},
+    url={https://arxiv.org/abs/2508.10711},
 }
 ```
