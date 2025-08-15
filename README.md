@@ -37,7 +37,7 @@
   - [x] NextStep-1-Large-Edit
 
 ## ⚒️ Quick Start
-We recommend you follow the [huggingface code](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc) first, because the following inference code may have small problems now.
+**We recommend you follow the [huggingface code](https://huggingface.co/collections/stepfun-ai/nextstep-1-689d80238a01322b93b8a3dc) first, because the following inference code may have small problems now.**
 
 0️⃣ Requirements
 
