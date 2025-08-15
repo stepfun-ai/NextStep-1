@@ -208,6 +208,6 @@ If you find NextStep useful for your research and applications, please consider 
     title={NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale},
     author={NextStep Team},
     year={2025},
-    url={https://github.com/stepfun-ai/NextStep-1},
+    url={[https://github.com/stepfun-ai/NextStep-1](https://arxiv.org/abs/2508.10711)},
 }
 ```
