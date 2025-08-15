@@ -74,10 +74,21 @@ huggingface-cli download stepfun-ai/NextStep-1-Large
 huggingface-cli download stepfun-ai/NextStep-1-Large-Edit
 ```
 
+> [!IMPORTANT]
+> **VAE Tokenizer Path**: When using the VAE tokenizer, you **MUST** replace `stepfun-ai/NextStep-1-f8ch16-Tokenizer` with the absolute path to your downloaded tokenizer directory. The HuggingFace model identifier will not work directly in the inference code.
+
 3️⃣ Inference
 
+It is recommended to use ENABLE_TORCH_COMPILE=false to avoid some bugs related to torch.compile
+
+```bash
+ENABLE_TORCH_COMPILE=false python inference.py
+# or
+python example.py
+```
+
 ```python
-# python example.py
+# example.py
 import torch
 from PIL import Image
 
@@ -168,6 +179,8 @@ for i, img in enumerate(output_imgs):
 > ```bash
 > Triton cache error: compiled module cuda_utils.so could not be loaded
 > ```
+>
+> or some bugs related to torch.compile
 >
 > You can try the following solutions:
 >

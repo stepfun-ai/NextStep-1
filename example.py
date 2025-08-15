@@ -6,14 +6,17 @@ from nextstep.models.pipeline_nextstep import NextStepPipeline
 device = "cuda"
 dtype = torch.bfloat16
 
+# Replace with absolute dir
+vae_name_or_path = "/path/to/stepfun-ai/NextStep-1-f8ch16-Tokenizer"
+
+## Image Edit
 edit_model_name_or_path = "stepfun-ai/NextStep-1-Large-Edit"
-vae_name_or_path = "stepfun-ai/NextStep-1-f8ch16-Tokenizer"
 
 edit_pipeline = NextStepPipeline(model_name_or_path=edit_model_name_or_path, vae_name_or_path=vae_name_or_path).to(
     device, dtype
 )
 
-cfgs = [7.5, 1.5]
+cfgs = [7.5, 2.0]
 hw = (512, 512)
 
 editing_caption = (
@@ -44,15 +47,16 @@ output_imgs = edit_pipeline.generate_image(
 output_imgs = output_imgs[0]
 output_imgs.save(f"./test_edit.png")
 
+## Text to image
 t2i_model_name_or_path = "stepfun-ai/NextStep-1-Large"
 t2_pipeline = NextStepPipeline(model_name_or_path=t2i_model_name_or_path, vae_name_or_path=vae_name_or_path).to(device, dtype)
 
 cfg = 7.5
 hw = (512, 512)
 
-caption = "A baby panda wearing an Iron Man mask, holding a board with 'NextStep-1' written on it"
+caption = "A frosty beer mug with 'CHEERS TO US' engraved on the side."
 positive_prompt = "masterpiece, film grained, best quality."
-negative_prompt = "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry."
+negative_prompt = "lowres, bad anatomy, bad hands, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry."
 
 output_imgs = t2_pipeline.generate_image(
     captions=caption,

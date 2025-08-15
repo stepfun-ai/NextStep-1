@@ -305,10 +305,10 @@ class Decoder(nn.Module):
         return h
 
 
-def layer_norm_2d(input: torch.Tensor, normalized_shape: torch.Size, eps: float = 1e-6) -> torch.Tensor:
+def layer_norm_2d(input: torch.Tensor, eps: float = 1e-6) -> torch.Tensor:
     # input.shape = (bsz, c, h, w)
     _input = input.permute(0, 2, 3, 1)
-    _input = F.layer_norm(_input, normalized_shape, None, None, eps)
+    _input = F.layer_norm(_input, _input.size()[-1:], None, None, eps)
     _input = _input.permute(0, 3, 1, 2)
     return _input
 
@@ -421,7 +421,7 @@ class AutoencoderKL(nn.Module):
             mean = self.patchify(mean)
 
         if self.encoder_norm:
-            mean = layer_norm_2d(mean, [mean.shape[1]])
+            mean = layer_norm_2d(mean)
 
         if self.psz is not None:
             mean = self.unpatchify(mean)
