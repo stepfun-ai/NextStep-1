@@ -95,7 +95,7 @@ edit_pipeline = NextStepPipeline(model_name_or_path=edit_model_name_or_path, vae
     device, dtype
 )
 
-cfgs = [7.5, 1.5]
+cfgs = [7.5, 2.0]
 hw = (512, 512)
 
 editing_caption = (
