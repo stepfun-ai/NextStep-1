@@ -7,7 +7,7 @@
 </div>
 
 > Autoregressive models—generating content step-by-step like reading a sentence—excel in language but struggle with images. Traditionally, they either depend on costly diffusion models or compress images into discrete, lossy tokens via vector quantization (VQ).
-> 
+>
 > NextStep-1 takes a different path: a 14B-parameter autoregressive model that works directly with continuous image tokens, preserving the full richness of visual data. It models sequences of discrete text tokens and continuous image tokens jointly—using a standard LM head for text and a lightweight 157M-parameter flow matching head for visuals. This unified next-token prediction framework is simple, scalable, and capable of producing stunningly detailed images.
 
 <div align="center">
@@ -19,12 +19,12 @@
 </div>
 
 ## 🔥 News
-- **Feb. 16, 2026**: The training code of NextStep-1 and the post-training blogs of NextStep-1.1 have been released. Welcome to discuss and contribute. Happy Lunar New Year! 
+- **Feb. 16, 2026**: The training code of NextStep-1 (this repo) and the post-training blogs of NextStep-1.1 ([link](https://stepfun-ai.github.io/NextStep-1/nextstep_1p1_blog/)) have been released. Welcome to discuss and contribute. Happy Lunar New Year!
 
 - **Feb. 6, 2026**: NextStep-1 has been selected as **Oral Presentation** by ICLR 2026! 🎉🎉🎉
 
 - **Dec. 24, 2025**: 🔥 We release **NextStep-1.1**, a text-to-image model that substantially elevates output quality through extended training and a Flow-based Reinforcement Learning (RL) post-training paradigm. Feel free to try with checkpoints hosted on our [HF repo](https://huggingface.co/stepfun-ai/NextStep-1.1)!
-  
+
   Checkpoints are available on:
   - 🤗 **Hugging Face**:
     - Pretrain: [NextStep-1.1-Pretrain](https://huggingface.co/stepfun-ai/NextStep-1.1-Pretrain)
@@ -142,7 +142,7 @@ python3 inference/inference.py
 
 ### 2.2 Download Training Datasets
 
-Download datasets to `./nextstep_data`. 
+Download datasets to `./nextstep_data`.
 
 ```bash
 bash download_datasets.sh
