@@ -19,7 +19,7 @@
 </div>
 
 ## 🔥 News
-- **Feb. 16, 2026**: The training code of NextStep-1 (this repo) and the post-training blogs of NextStep-1.1 ([link](https://stepfun-ai.github.io/NextStep-1/nextstep_1p1_blog/)) have been released. Welcome to discuss and contribute. Happy Lunar New Year!
+- **Feb. 16, 2026**: The training code of NextStep-1 (this repo) and the post-training blogs of NextStep-1.1 ([link](https://stepfun-ai.github.io/NextStep-1/nextstep_1p1_blog/)) have been released. Welcome to discuss and contribute. Happy Chinese New Year!
 
 - **Feb. 6, 2026**: NextStep-1 has been selected as **Oral Presentation** by ICLR 2026! 🎉🎉🎉
 
