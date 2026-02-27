@@ -19,6 +19,9 @@
 </div>
 
 ## 🔥 News
+
+- **Feb. 25, 2026**: **vLLM-Omni** supports high performance inference of NextStep-1.1. Please check [here](https://docs.vllm.ai/projects/vllm-omni/en/latest/user_guide/examples/offline_inference/text_to_image/?h=nextstep#nextstep-models) for details!
+
 - **Feb. 16, 2026**: The training code of NextStep-1 (this repo) and the post-training blogs of NextStep-1.1 ([link](https://stepfun-ai.github.io/NextStep-1/nextstep_1p1_blog/)) have been released. Welcome to discuss and contribute. Happy Chinese New Year!
 
 - **Feb. 6, 2026**: NextStep-1 has been selected as **Oral Presentation** by ICLR 2026! 🎉🎉🎉
